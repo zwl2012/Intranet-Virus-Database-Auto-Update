@@ -54,4 +54,6 @@ if %fileIndex% EQU 0 (
     exit /b 1
 )
 
+del %TEMP%\hash_result
+
 exit

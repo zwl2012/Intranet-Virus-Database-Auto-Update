@@ -1,0 +1,570 @@
+2019-06-23 21:53:00.01 开始进行系统安全更新流程 
+2019-06-23 21:53:00.01 WINXP-TESTSERVE 默认IP值为 169.254.254.254 
+2019-06-23 21:53:00.01 WINXP-TESTSERVE 默认错峰时间为 220 
+2019-06-23 21:53:00.01 载入 [common] 参数 
+2019-06-23 21:53:00.01 载入 Protocol 参数 
+2019-06-23 21:53:00.01 载入 FailureRetry 参数 
+2019-06-23 21:53:00.01 载入 SourceList 参数 
+2019-06-23 21:53:00.01 载入 MultiUpdate 参数 
+2019-06-23 21:53:00.01 载入 LogReport 参数 
+2019-06-23 21:53:00.01 载入 CheckDigitalSignature 参数 
+2019-06-23 21:53:00.01 载入 HistoryUpdate 参数 
+2019-06-23 21:53:00.01 载入 Deadline 参数 
+2019-06-23 21:53:00.01 载入 NicOrder 参数 
+2019-06-23 21:53:00.01 载入 [tfp] 参数 
+2019-06-23 21:53:00.01 载入 Address 参数 
+2019-06-23 21:53:00.01 载入 FTPUsername 参数 
+2019-06-23 21:53:00.01 载入 FTPPassword 参数 
+2019-06-23 21:53:01.62 WINXP-TESTSERVE IP值更新为: 192.168.5.169 
+2019-06-23 21:53:01.62 WINXP-TESTSERVE 错峰时间更新为 192.168.5.169 
+2019-06-23 21:53:00.01 使用FTP方式 下载 update.list 至 C:\weihu\McafeeUpdate\tmp\ 
+Connected to 192.168.3.117.
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 245 字节，用时 0.19Seconds 1.30Kbytes/sec.
+bye
+221 Goodbye.
+2019-06-23 21:53:00.01 230 User logged in.  
+2019-06-23 21:53:00.01 200 Type set to I.  
+2019-06-23 21:53:00.01 get update.list  
+2019-06-23 21:53:00.01 200 PORT command successful.  
+2019-06-23 21:53:00.01 125 Data connection already open; Transfer starting.  
+2019-06-23 21:53:00.01 226 Transfer complete.  
+2019-06-23 21:53:00.01 ftp: 收到 245 字节，用时 0.19Seconds 1.30Kbytes/sec.  
+2019-06-23 21:53:00.01 221 Goodbye.  
+2019-06-23 21:53:02.31 FTP方式下载 update.list 完成 
+2019-06-23 21:53:00.01 开始对 C:\weihu\McafeeUpdate\history\2019-06-23\update.list 进行文件哈希值校验。 
+2019-06-23 21:53:00.01 文件 update.list 的HASH值:b517480280e663f1b3cbd6b75042b55ab7787693 
+2019-06-23 21:53:00.01 开始对 C:\weihu\McafeeUpdate\tmp\last.update 进行文件哈希值校验。 
+2019-06-23 21:53:00.01 文件 last.update 的HASH值:f8e84b811064f8e767990c6931b81f2be39ec5f0 
+2019-06-23 21:53:02.73 当前源 Hash： b517480280e663f1b3cbd6b75042b55ab7787693 上次源 Hash:  f8e84b811064f8e767990c6931b81f2be39ec5f0 
+2019-06-23 21:53:02.75 本机错峰下载等待时间: 2366 秒 
+2019-06-23 21:53:02.75 本机错峰下载等待完成，进行更新下载 
+2019-06-23 21:53:00.01 使用FTP方式 下载 \20190621095301\9241xdat.exe 至 C:\weihu\McafeeUpdate\history\2019-06-23\ 
+Connected to 192.168.3.117.
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20190621095301\9241xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 114158088 字节，用时 12.67Seconds 9008.69Kbytes/sec.
+bye
+221 Goodbye.
+2019-06-23 21:53:00.01 230 User logged in.  
+2019-06-23 21:53:00.01 200 Type set to I.  
+2019-06-23 21:53:00.01 get \20190621095301\9241xdat.exe  
+2019-06-23 21:53:00.01 200 PORT command successful.  
+2019-06-23 21:53:00.01 125 Data connection already open; Transfer starting.  
+2019-06-23 21:53:00.01 226 Transfer complete.  
+2019-06-23 21:53:00.01 ftp: 收到 114158088 字节，用时 12.67Seconds 9008.69Kbytes/sec.  
+2019-06-23 21:53:00.01 221 Goodbye.  
+2019-06-23 21:53:30.68 FTP方式下载 \20190621095301\9241xdat.exe 完成 
+2019-06-23 21:53:00.01 使用FTP方式 下载 \20190621095301\9246xdat.exe 至 C:\weihu\McafeeUpdate\history\2019-06-23\ 
+Connected to 192.168.3.117.
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20190621095301\9246xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 115549152 字节，用时 11.52Seconds 10033.79Kbytes/sec.
+bye
+221 Goodbye.
+2019-06-23 21:53:00.01 230 User logged in.  
+2019-06-23 21:53:00.01 200 Type set to I.  
+2019-06-23 21:53:00.01 get \20190621095301\9246xdat.exe  
+2019-06-23 21:53:00.01 200 PORT command successful.  
+2019-06-23 21:53:00.01 125 Data connection already open; Transfer starting.  
+2019-06-23 21:53:00.01 226 Transfer complete.  
+2019-06-23 21:53:00.01 ftp: 收到 115549152 字节，用时 11.52Seconds 10033.79Kbytes/sec.  
+2019-06-23 21:53:00.01 221 Goodbye.  
+2019-06-23 21:53:42.76 FTP方式下载 \20190621095301\9246xdat.exe 完成 
+2019-06-23 21:53:00.01 使用FTP方式 下载 \20190621095301\office2003.exe 至 C:\weihu\McafeeUpdate\history\2019-06-23\ 
+Connected to 192.168.3.117.
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20190621095301\office2003.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 161203141 字节，用时 16.02Seconds 10065.76Kbytes/sec.
+bye
+221 Goodbye.
+2019-06-23 21:53:00.01 230 User logged in.  
+2019-06-23 21:53:00.01 200 Type set to I.  
+2019-06-23 21:53:00.01 get \20190621095301\office2003.exe  
+2019-06-23 21:53:00.01 200 PORT command successful.  
+2019-06-23 21:53:00.01 125 Data connection already open; Transfer starting.  
+2019-06-23 21:53:00.01 226 Transfer complete.  
+2019-06-23 21:53:00.01 ftp: 收到 161203141 字节，用时 16.02Seconds 10065.76Kbytes/sec.  
+2019-06-23 21:53:00.01 221 Goodbye.  
+2019-06-23 21:53:59.40 FTP方式下载 \20190621095301\office2003.exe 完成 
+2019-06-23 21:53:59.42 本次更新文件总量为：372M 
+2019-06-23 21:53:59.65 进入更新文件校验流程,当前工作目录: C:\weihu\McafeeUpdate\history\2019-06-23 
+2019-06-23 21:53:00.01 开始对 C:\weihu\McafeeUpdate\history\2019-06-23\9241xdat.exe 进行文件哈希值校验。 
+2019-06-23 21:53:00.01 文件 9241xdat.exe 的HASH值:782d39bac87adc5238fbd6e3a2624df67c58c258 
+2019-06-23 21:53:59.67 文件名:9241xdat.exe Hash: 782d39bac87adc5238fbd6e3a2624df67c58c258 Size: 114158088 
+2019-06-23 21:53:59.67 更新文件 9241xdat.exe 与服务器文件一致。 
+2019-06-23 21:53:00.01 开始对 C:\weihu\McafeeUpdate\history\2019-06-23\9246xdat.exe 进行文件哈希值校验。 
+2019-06-23 21:53:00.01 文件 9246xdat.exe 的HASH值:33c8e95aa436f82b753657c6a741fb56872e1044 
+2019-06-23 21:53:59.67 文件名:9246xdat.exe Hash: 33c8e95aa436f82b753657c6a741fb56872e1044 Size: 115549152 
+2019-06-23 21:53:59.67 更新文件 9246xdat.exe 与服务器文件一致。 
+2019-06-23 21:53:00.01 开始对 C:\weihu\McafeeUpdate\history\2019-06-23\office2003.exe 进行文件哈希值校验。 
+2019-06-23 21:53:00.01 文件 office2003.exe 的HASH值:b2bd2ebdf6246bc09e9960f6113e1dbdade7de59 
+2019-06-23 21:53:59.67 文件名:office2003.exe Hash: b2bd2ebdf6246bc09e9960f6113e1dbdade7de59 Size: 161203141 
+2019-06-23 21:53:59.67 更新文件 office2003.exe 与服务器文件一致。 
+2019-06-23 21:54:04.70 更新文件校验完毕，准备进行安装更新 
+2019-06-23 21:54:04.70 进入更新文件安装流程,当前工作目录: C:\weihu\McafeeUpdate\history\2019-06-23 
+2019-06-23 21:54:04.70 开始进行文件签名校验流程。 
+2019-06-23 21:54:11.43 文件签名校验结果: 
+2019-06-23 21:54:11.43 Verified:Signed 
+2019-06-23 21:54:11.43 Signing date:15:282019-4-28 
+2019-06-23 21:54:11.43 Publisher:McAfee,Inc. 
+2019-06-23 21:54:11.43 Description:SuperDATStub 
+2019-06-23 21:54:11.43 Product:McAfeeCoreComponents 
+2019-06-23 21:54:11.43 Version:2.5 
+2019-06-23 21:54:11.43 MD5:44aa46c9d0b5402d144b0b9953b2b1bf 
+2019-06-23 21:54:11.43 SHA1:782d39bac87adc5238fbd6e3a2624df67c58c258 
+2019-06-23 21:54:11.43 SHA256:be2c0c965ec198f25a65823f66f75219298c6d3df2c8e7a294a0b271ffa74396 
+2019-06-23 21:54:11.43 文件:9241xdat.exe 签名正常。 
+2019-06-23 21:54:11.48 进入更新包安装流程。 
+2019-06-23 21:54:15.35 正在从 Stub 文件 C:\weihu\McafeeUpdate\history\2019-06-23\9241xdat.exe 中解压缩 ZIP 文件。 
+2019-06-23 21:54:15.35 正在执行自我验证... 
+2019-06-23 21:54:15.35 正在从 ZIP 文件中检索文件 NAISCRIP.NSC。 
+2019-06-23 21:54:15.35 正在加载和解析脚本文件: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\15C0\NAISCRIP.NSC 
+2019-06-23 21:54:15.35 正在从 ZIP 文件中检索文件 Globals.nsg。 
+2019-06-23 21:54:15.35 正在加载和解析全局文件: Globals.nsg 
+2019-06-23 21:54:15.35 正在搜索已安装的所有防病毒产品。 
+2019-06-23 21:54:15.35 正在删除...C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\NAI3E.tmp 
+2019-06-23 21:54:15.35 正在删除...C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\15C0 
+2019-06-23 21:54:15.35 更新进程失败。 
+2019-06-23 21:54:15.37 病毒库更新:9241xdat.exe 安装失败，当前计算机未找到符合条件的Mcafee产品。 
+2019-06-23 21:54:15.37 开始进行文件签名校验流程。 
+2019-06-23 21:54:19.06 文件签名校验结果: 
+2019-06-23 21:54:19.06 Verified:Signed 
+2019-06-23 21:54:19.06 Signing date:23:552019-5-3 
+2019-06-23 21:54:19.06 Publisher:McAfee,Inc. 
+2019-06-23 21:54:19.06 Description:SuperDATStub 
+2019-06-23 21:54:19.06 Product:McAfeeCoreComponents 
+2019-06-23 21:54:19.06 Version:2.5 
+2019-06-23 21:54:19.06 MD5:85ccf474abf4af2662da0e054116eae9 
+2019-06-23 21:54:19.06 SHA1:33c8e95aa436f82b753657c6a741fb56872e1044 
+2019-06-23 21:54:19.06 SHA256:07d90a4dfd376856cb00a37218702ef57a1b7b39a8b34a6e64bc508efc529ab0 
+2019-06-23 21:54:19.06 文件:9246xdat.exe 签名正常。 
+2019-06-23 21:54:19.09 进入更新包安装流程。 
+2019-06-23 21:54:22.26 正在从 Stub 文件 C:\weihu\McafeeUpdate\history\2019-06-23\9246xdat.exe 中解压缩 ZIP 文件。 
+2019-06-23 21:54:22.26 正在执行自我验证... 
+2019-06-23 21:54:22.26 正在从 ZIP 文件中检索文件 NAISCRIP.NSC。 
+2019-06-23 21:54:22.26 正在加载和解析脚本文件: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\15D7\NAISCRIP.NSC 
+2019-06-23 21:54:22.26 正在从 ZIP 文件中检索文件 Globals.nsg。 
+2019-06-23 21:54:22.26 正在加载和解析全局文件: Globals.nsg 
+2019-06-23 21:54:22.26 正在搜索已安装的所有防病毒产品。 
+2019-06-23 21:54:22.26 正在删除...C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\NAI40.tmp 
+2019-06-23 21:54:22.26 正在删除...C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\15D7 
+2019-06-23 21:54:22.26 更新进程失败。 
+2019-06-23 21:54:22.28 病毒库更新:9246xdat.exe 安装失败，当前计算机未找到符合条件的Mcafee产品。 
+2019-06-23 21:54:22.28 开始进行文件签名校验流程。 
+2019-06-23 21:54:26.62 文件签名校验结果: 
+2019-06-23 21:54:26.62 Verified:Unsigned 
+2019-06-23 21:54:26.62 Publisher:???? 
+2019-06-23 21:54:26.62 Description:Office2003????? 
+2019-06-23 21:54:26.62 Product:MicrosoftOffice2003???? 
+2019-06-23 21:54:26.62 Version:2.0 
+2019-06-23 21:54:26.62 MD5:eb93f95b31c76c3eb7ddb94ed54702a9 
+2019-06-23 21:54:26.62 SHA1:b2bd2ebdf6246bc09e9960f6113e1dbdade7de59 
+2019-06-23 21:54:26.62 SHA256:829f49c53407c95ce10a6a68bf04c6a282f58ac084a5861ec3437114e6e7cf88 
+2019-06-23 21:54:26.62 数字签名损坏或未签名。 
+2019-06-23 21:54:26.64 所有更新文件安装流程已完成 
+2019-06-23 21:54:26.64 准备上传操作日志。 
+2019-06-23 21:53:00.01 使用FTP方式 上传 C:\weihu\McafeeUpdate\bin\..\tmp\192.168.5.169-Fail.log 至 Log\2019-06-23\192.168.5.169-Fail.log
+Connected to 192.168.3.117.
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+mkdir Log\2019-06-2
+257 "Log\2019-06-2" directory created.
+put C:\weihu\McafeeUpdate\bin\..\tmp\192.168.5.169-Fail.log Log\2019-06-23\192.168.5.169-Fail.log
+200 PORT command successful.
+550 The system cannot find the path specified. 
+bye
+221 Goodbye.
+2019-06-23 21:53:00.01 230 User logged in.  
+2019-06-23 21:53:00.01 200 Type set to I.  
+2019-06-23 21:53:00.01 mkdir Log\2019-06-2  
+2019-06-23 21:53:00.01 257 "Log\2019-06-2" directory created.  
+2019-06-23 21:53:00.01 put C:\weihu\McafeeUpdate\bin\..\tmp\192.168.5.169-Fail.log Log\2019-06-23\192.168.5.169-Fail.log  
+2019-06-23 21:53:00.01 200 PORT command successful.  
+2019-06-23 21:53:00.01 550 The system cannot find the path specified.   
+2019-06-23 21:53:00.01 221 Goodbye.  
+2019-06-23 21:54:27.25 FTP方式上传 C:\weihu\McafeeUpdate\bin\..\tmp\192.168.5.169-Fail.log 失败,可能网络链接存在问题，请联系开发者进行处理 
+2019-06-23 21:59:05.85 开始进行系统安全更新流程 
+2019-06-23 21:59:05.85 WINXP-TESTSERVE 默认IP值为 169.254.254.254 
+2019-06-23 21:59:05.85 WINXP-TESTSERVE 默认错峰时间为 215 
+2019-06-23 21:59:05.85 载入 [common] 参数 
+2019-06-23 21:59:05.85 载入 Protocol 参数 
+2019-06-23 21:59:05.85 载入 FailureRetry 参数 
+2019-06-23 21:59:05.85 载入 SourceList 参数 
+2019-06-23 21:59:05.85 载入 MultiUpdate 参数 
+2019-06-23 21:59:05.85 载入 LogReport 参数 
+2019-06-23 21:59:05.85 载入 CheckDigitalSignature 参数 
+2019-06-23 21:59:05.85 载入 HistoryUpdate 参数 
+2019-06-23 21:59:05.85 载入 Deadline 参数 
+2019-06-23 21:59:05.85 载入 NicOrder 参数 
+2019-06-23 21:59:05.85 载入 [tfp] 参数 
+2019-06-23 21:59:05.85 载入 Address 参数 
+2019-06-23 21:59:05.85 载入 FTPUsername 参数 
+2019-06-23 21:59:05.85 载入 FTPPassword 参数 
+2019-06-23 21:59:07.54 WINXP-TESTSERVE IP值更新为: 192.168.5.169 
+2019-06-23 21:59:07.54 WINXP-TESTSERVE 错峰时间更新为 192.168.5.169 
+2019-06-23 21:59:05.85 使用FTP方式 下载 update.list 至 C:\weihu\McafeeUpdate\tmp\ 
+Connected to 192.168.3.117.
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 245 字节，用时 0.13Seconds 1.96Kbytes/sec.
+bye
+221 Goodbye.
+2019-06-23 21:59:05.85 230 User logged in.  
+2019-06-23 21:59:05.85 200 Type set to I.  
+2019-06-23 21:59:05.85 get update.list  
+2019-06-23 21:59:05.85 200 PORT command successful.  
+2019-06-23 21:59:05.85 125 Data connection already open; Transfer starting.  
+2019-06-23 21:59:05.85 226 Transfer complete.  
+2019-06-23 21:59:05.85 ftp: 收到 245 字节，用时 0.13Seconds 1.96Kbytes/sec.  
+2019-06-23 21:59:05.85 221 Goodbye.  
+2019-06-23 21:59:08.18 FTP方式下载 update.list 完成 
+2019-06-23 21:59:05.85 开始对 C:\weihu\McafeeUpdate\history\2019-06-23\update.list 进行文件哈希值校验。 
+2019-06-23 21:59:05.85 文件 update.list 的HASH值:b517480280e663f1b3cbd6b75042b55ab7787693 
+2019-06-23 21:59:05.85 开始对 C:\weihu\McafeeUpdate\tmp\last.update 进行文件哈希值校验。 
+2019-06-23 21:59:05.85 文件 last.update 的HASH值:f8e84b811064f8e767990c6931b81f2be39ec5f0 
+2019-06-23 21:59:08.54 当前源 Hash： b517480280e663f1b3cbd6b75042b55ab7787693 上次源 Hash:  f8e84b811064f8e767990c6931b81f2be39ec5f0 
+2019-06-23 21:59:08.54 本机错峰下载等待时间: 2366 秒 
+2019-06-23 21:59:08.54 本机错峰下载等待完成，进行更新下载 
+2019-06-23 21:59:05.85 使用FTP方式 下载 \20190621095301\9241xdat.exe 至 C:\weihu\McafeeUpdate\history\2019-06-23\ 
+Connected to 192.168.3.117.
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20190621095301\9241xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 114158088 字节，用时 11.25Seconds 10147.39Kbytes/sec.
+bye
+221 Goodbye.
+2019-06-23 21:59:05.85 230 User logged in.  
+2019-06-23 21:59:05.85 200 Type set to I.  
+2019-06-23 21:59:05.85 get \20190621095301\9241xdat.exe  
+2019-06-23 21:59:05.85 200 PORT command successful.  
+2019-06-23 21:59:05.85 125 Data connection already open; Transfer starting.  
+2019-06-23 21:59:05.85 226 Transfer complete.  
+2019-06-23 21:59:05.85 ftp: 收到 114158088 字节，用时 11.25Seconds 10147.39Kbytes/sec.  
+2019-06-23 21:59:05.85 221 Goodbye.  
+2019-06-23 21:59:34.37 FTP方式下载 \20190621095301\9241xdat.exe 完成 
+2019-06-23 21:59:05.85 使用FTP方式 下载 \20190621095301\9246xdat.exe 至 C:\weihu\McafeeUpdate\history\2019-06-23\ 
+Connected to 192.168.3.117.
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20190621095301\9246xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 115549152 字节，用时 11.44Seconds 10102.22Kbytes/sec.
+bye
+221 Goodbye.
+2019-06-23 21:59:05.85 230 User logged in.  
+2019-06-23 21:59:05.85 200 Type set to I.  
+2019-06-23 21:59:05.85 get \20190621095301\9246xdat.exe  
+2019-06-23 21:59:05.85 200 PORT command successful.  
+2019-06-23 21:59:05.85 125 Data connection already open; Transfer starting.  
+2019-06-23 21:59:05.85 226 Transfer complete.  
+2019-06-23 21:59:05.85 ftp: 收到 115549152 字节，用时 11.44Seconds 10102.22Kbytes/sec.  
+2019-06-23 21:59:05.85 221 Goodbye.  
+2019-06-23 21:59:46.32 FTP方式下载 \20190621095301\9246xdat.exe 完成 
+2019-06-23 21:59:05.85 使用FTP方式 下载 \20190621095301\office2003.exe 至 C:\weihu\McafeeUpdate\history\2019-06-23\ 
+Connected to 192.168.3.117.
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20190621095301\office2003.exe
+200 PORT command successful.
+150 Opening BINARY mode data connection.
+226 Transfer complete.
+ftp: 收到 161203141 字节，用时 16.11Seconds 10007.02Kbytes/sec.
+bye
+221 Goodbye.
+2019-06-23 21:59:05.85 230 User logged in.  
+2019-06-23 21:59:05.85 200 Type set to I.  
+2019-06-23 21:59:05.85 get \20190621095301\office2003.exe  
+2019-06-23 21:59:05.85 200 PORT command successful.  
+2019-06-23 21:59:05.85 150 Opening BINARY mode data connection.  
+2019-06-23 21:59:05.85 226 Transfer complete.  
+2019-06-23 21:59:05.85 ftp: 收到 161203141 字节，用时 16.11Seconds 10007.02Kbytes/sec.  
+2019-06-23 21:59:05.85 221 Goodbye.  
+2019-06-23 22:00:03.00 FTP方式下载 \20190621095301\office2003.exe 完成 
+2019-06-23 22:00:03.01 本次更新文件总量为：372M 
+2019-06-23 22:00:03.01 进入更新文件校验流程,当前工作目录: C:\weihu\McafeeUpdate\history\2019-06-23 
+2019-06-23 21:59:05.85 开始对 C:\weihu\McafeeUpdate\history\2019-06-23\9241xdat.exe 进行文件哈希值校验。 
+2019-06-23 21:59:05.85 文件 9241xdat.exe 的HASH值:782d39bac87adc5238fbd6e3a2624df67c58c258 
+2019-06-23 22:00:03.03 文件名:9241xdat.exe Hash: 782d39bac87adc5238fbd6e3a2624df67c58c258 Size: 114158088 
+2019-06-23 22:00:03.03 更新文件 9241xdat.exe 与服务器文件一致。 
+2019-06-23 21:59:05.85 开始对 C:\weihu\McafeeUpdate\history\2019-06-23\9246xdat.exe 进行文件哈希值校验。 
+2019-06-23 21:59:05.85 文件 9246xdat.exe 的HASH值:33c8e95aa436f82b753657c6a741fb56872e1044 
+2019-06-23 22:00:03.03 文件名:9246xdat.exe Hash: 33c8e95aa436f82b753657c6a741fb56872e1044 Size: 115549152 
+2019-06-23 22:00:03.03 更新文件 9246xdat.exe 与服务器文件一致。 
+2019-06-23 21:59:05.85 开始对 C:\weihu\McafeeUpdate\history\2019-06-23\office2003.exe 进行文件哈希值校验。 
+2019-06-23 21:59:05.85 文件 office2003.exe 的HASH值:b2bd2ebdf6246bc09e9960f6113e1dbdade7de59 
+2019-06-23 22:00:03.03 文件名:office2003.exe Hash: b2bd2ebdf6246bc09e9960f6113e1dbdade7de59 Size: 161203141 
+2019-06-23 22:00:03.03 更新文件 office2003.exe 与服务器文件一致。 
+2019-06-23 22:00:07.37 更新文件校验完毕，准备进行安装更新 
+2019-06-23 22:00:07.37 进入更新文件安装流程,当前工作目录: C:\weihu\McafeeUpdate\history\2019-06-23 
+2019-06-23 22:00:07.39 开始进行文件签名校验流程。 
+2019-06-23 22:00:10.98 文件签名校验结果: 
+2019-06-23 22:00:10.98 Verified:Signed 
+2019-06-23 22:00:10.98 Signing date:15:282019-4-28 
+2019-06-23 22:00:10.98 Publisher:McAfee,Inc. 
+2019-06-23 22:00:10.98 Description:SuperDATStub 
+2019-06-23 22:00:10.98 Product:McAfeeCoreComponents 
+2019-06-23 22:00:10.98 Version:2.5 
+2019-06-23 22:00:10.98 MD5:44aa46c9d0b5402d144b0b9953b2b1bf 
+2019-06-23 22:00:10.98 SHA1:782d39bac87adc5238fbd6e3a2624df67c58c258 
+2019-06-23 22:00:10.98 SHA256:be2c0c965ec198f25a65823f66f75219298c6d3df2c8e7a294a0b271ffa74396 
+2019-06-23 22:00:10.98 文件:9241xdat.exe 签名正常。 
+2019-06-23 22:00:11.00 进入更新包安装流程。 
+2019-06-23 22:00:13.57 正在从 Stub 文件 C:\weihu\McafeeUpdate\history\2019-06-23\9241xdat.exe 中解压缩 ZIP 文件。 
+2019-06-23 22:00:13.57 正在执行自我验证... 
+2019-06-23 22:00:13.57 正在从 ZIP 文件中检索文件 NAISCRIP.NSC。 
+2019-06-23 22:00:13.57 正在加载和解析脚本文件: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\1A52\NAISCRIP.NSC 
+2019-06-23 22:00:13.57 正在从 ZIP 文件中检索文件 Globals.nsg。 
+2019-06-23 22:00:13.57 正在加载和解析全局文件: Globals.nsg 
+2019-06-23 22:00:13.57 正在搜索已安装的所有防病毒产品。 
+2019-06-23 22:00:13.57 正在删除...C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\NAI42.tmp 
+2019-06-23 22:00:13.57 正在删除...C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\1A52 
+2019-06-23 22:00:13.57 更新进程失败。 
+2019-06-23 22:00:13.57 病毒库更新:9241xdat.exe 安装失败，当前计算机未找到符合条件的Mcafee产品。 
+2019-06-23 22:00:13.59 开始进行文件签名校验流程。 
+2019-06-23 22:00:17.10 文件签名校验结果: 
+2019-06-23 22:00:17.10 Verified:Signed 
+2019-06-23 22:00:17.10 Signing date:23:552019-5-3 
+2019-06-23 22:00:17.10 Publisher:McAfee,Inc. 
+2019-06-23 22:00:17.10 Description:SuperDATStub 
+2019-06-23 22:00:17.10 Product:McAfeeCoreComponents 
+2019-06-23 22:00:17.10 Version:2.5 
+2019-06-23 22:00:17.10 MD5:85ccf474abf4af2662da0e054116eae9 
+2019-06-23 22:00:17.10 SHA1:33c8e95aa436f82b753657c6a741fb56872e1044 
+2019-06-23 22:00:17.10 SHA256:07d90a4dfd376856cb00a37218702ef57a1b7b39a8b34a6e64bc508efc529ab0 
+2019-06-23 22:00:17.10 文件:9246xdat.exe 签名正常。 
+2019-06-23 22:00:17.14 进入更新包安装流程。 
+2019-06-23 22:00:19.70 正在从 Stub 文件 C:\weihu\McafeeUpdate\history\2019-06-23\9246xdat.exe 中解压缩 ZIP 文件。 
+2019-06-23 22:00:19.70 正在执行自我验证... 
+2019-06-23 22:00:19.70 正在从 ZIP 文件中检索文件 NAISCRIP.NSC。 
+2019-06-23 22:00:19.70 正在加载和解析脚本文件: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\1A65\NAISCRIP.NSC 
+2019-06-23 22:00:19.70 正在从 ZIP 文件中检索文件 Globals.nsg。 
+2019-06-23 22:00:19.70 正在加载和解析全局文件: Globals.nsg 
+2019-06-23 22:00:19.70 正在搜索已安装的所有防病毒产品。 
+2019-06-23 22:00:19.70 正在删除...C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\NAI44.tmp 
+2019-06-23 22:00:19.70 正在删除...C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\1A65 
+2019-06-23 22:00:19.70 更新进程失败。 
+2019-06-23 22:00:19.70 病毒库更新:9246xdat.exe 安装失败，当前计算机未找到符合条件的Mcafee产品。 
+2019-06-23 22:00:19.71 开始进行文件签名校验流程。 
+2019-06-23 22:00:23.78 文件签名校验结果: 
+2019-06-23 22:00:23.78 Verified:Unsigned 
+2019-06-23 22:00:23.78 Publisher:???? 
+2019-06-23 22:00:23.78 Description:Office2003????? 
+2019-06-23 22:00:23.78 Product:MicrosoftOffice2003???? 
+2019-06-23 22:00:23.78 Version:2.0 
+2019-06-23 22:00:23.78 MD5:eb93f95b31c76c3eb7ddb94ed54702a9 
+2019-06-23 22:00:23.78 SHA1:b2bd2ebdf6246bc09e9960f6113e1dbdade7de59 
+2019-06-23 22:00:23.78 SHA256:829f49c53407c95ce10a6a68bf04c6a282f58ac084a5861ec3437114e6e7cf88 
+2019-06-23 22:00:23.79 数字签名损坏或未签名。 
+2019-06-23 22:00:23.79 所有更新文件安装流程已完成 
+2019-06-23 22:00:23.79 准备上传操作日志。 
+2019-06-23 21:59:05.85 使用FTP方式 上传 C:\weihu\McafeeUpdate\bin\..\tmp\192.168.5.169-Fail.log 至 Log\2019-06-23\192.168.5.169-Fail.log
+Connected to 192.168.3.117.
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+mkdir Log\2019-06-23
+257 "Log\2019-06-23" directory created.
+put C:\weihu\McafeeUpdate\bin\..\tmp\192.168.5.169-Fail.log Log\2019-06-23\192.168.5.169-Fail.log
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 发送 22849 字节，用时 0.00Seconds 22849000.00Kbytes/sec.
+bye
+221 Goodbye.
+2019-06-23 21:59:05.85 230 User logged in.  
+2019-06-23 21:59:05.85 200 Type set to I.  
+2019-06-23 21:59:05.85 mkdir Log\2019-06-23  
+2019-06-23 21:59:05.85 257 "Log\2019-06-23" directory created.  
+2019-06-23 21:59:05.85 put C:\weihu\McafeeUpdate\bin\..\tmp\192.168.5.169-Fail.log Log\2019-06-23\192.168.5.169-Fail.log  
+2019-06-23 21:59:05.85 200 PORT command successful.  
+2019-06-23 21:59:05.85 125 Data connection already open; Transfer starting.  
+2019-06-23 21:59:05.85 226 Transfer complete.  
+2019-06-23 21:59:05.85 ftp: 发送 22849 字节，用时 0.00Seconds 22849000.00Kbytes/sec.  
+2019-06-23 21:59:05.85 221 Goodbye.  
+2019-06-23 22:00:24.37 FTP方式上传 C:\weihu\McafeeUpdate\bin\..\tmp\192.168.5.169-Fail.log 完成 
+2019-06-23 22:11:28.51 开始进行系统安全更新流程 
+2019-06-23 22:11:28.51 WINXP-TESTSERVE 默认IP值为 169.254.254.254 
+2019-06-23 22:11:28.53 WINXP-TESTSERVE 默认错峰时间为 242 
+2019-06-23 22:11:28.53 载入 [common] 参数 
+2019-06-23 22:11:28.53 载入 Protocol 参数 
+2019-06-23 22:11:28.53 载入 FailureRetry 参数 
+2019-06-23 22:11:28.53 载入 SourceList 参数 
+2019-06-23 22:11:28.53 载入 MultiUpdate 参数 
+2019-06-23 22:11:28.53 载入 LogReport 参数 
+2019-06-23 22:11:28.53 载入 CheckDigitalSignature 参数 
+2019-06-23 22:11:28.53 载入 HistoryUpdate 参数 
+2019-06-23 22:11:28.53 载入 Deadline 参数 
+2019-06-23 22:11:28.53 载入 NicOrder 参数 
+2019-06-23 22:11:28.53 载入 [tfp] 参数 
+2019-06-23 22:11:28.53 载入 Address 参数 
+2019-06-23 22:11:28.53 载入 FTPUsername 参数 
+2019-06-23 22:11:28.53 载入 FTPPassword 参数 
+2019-06-23 22:11:30.20 WINXP-TESTSERVE IP值更新为: 192.168.5.169 
+2019-06-23 22:11:30.20 WINXP-TESTSERVE 错峰时间更新为 192.168.5.169 
+2019-06-23 22:11:28.51 使用FTP方式 下载 update.list 至 C:\weihu\McafeeUpdate\tmp\ 
+2019-06-23 22:11:28.51 230 User logged in.  
+2019-06-23 22:11:28.51 200 Type set to I.  
+2019-06-23 22:11:28.51 get update.list  
+2019-06-23 22:11:28.51 200 PORT command successful.  
+2019-06-23 22:11:28.51 125 Data connection already open; Transfer starting.  
+2019-06-23 22:11:28.51 226 Transfer complete.  
+2019-06-23 22:11:28.51 ftp: 收到 245 字节，用时 0.20Seconds 1.21Kbytes/sec.  
+2019-06-23 22:11:28.51 221 Goodbye.  
+2019-06-23 22:11:30.95 FTP方式下载 update.list 完成 
+2019-06-23 22:11:28.51 开始对 C:\weihu\McafeeUpdate\history\2019-06-23\update.list 进行文件哈希值校验。 
+2019-06-23 22:11:28.51 文件 update.list 的HASH值:b517480280e663f1b3cbd6b75042b55ab7787693 
+2019-06-23 22:11:28.51 开始对 C:\weihu\McafeeUpdate\tmp\last.update 进行文件哈希值校验。 
+2019-06-23 22:11:28.51 文件 last.update 的HASH值:f8e84b811064f8e767990c6931b81f2be39ec5f0 
+2019-06-23 22:11:31.32 当前源 Hash： b517480280e663f1b3cbd6b75042b55ab7787693 上次源 Hash:  f8e84b811064f8e767990c6931b81f2be39ec5f0 
+2019-06-23 22:11:31.32 本机错峰下载等待时间: 2366 秒 
+2019-06-23 22:11:31.32 本机错峰下载等待完成，进行更新下载 
+2019-06-23 22:11:28.51 使用FTP方式 下载 \20190621095301\9241xdat.exe 至 C:\weihu\McafeeUpdate\history\2019-06-23\ 
+2019-06-23 22:11:28.51 230 User logged in.  
+2019-06-23 22:11:28.51 200 Type set to I.  
+2019-06-23 22:11:28.51 get \20190621095301\9241xdat.exe  
+2019-06-23 22:11:28.51 200 PORT command successful.  
+2019-06-23 22:11:28.51 125 Data connection already open; Transfer starting.  
+2019-06-23 22:11:28.51 226 Transfer complete.  
+2019-06-23 22:11:28.51 ftp: 收到 114158088 字节，用时 11.45Seconds 9967.53Kbytes/sec.  
+2019-06-23 22:11:28.51 221 Goodbye.  
+2019-06-23 22:11:57.42 FTP方式下载 \20190621095301\9241xdat.exe 完成 
+2019-06-23 22:11:28.51 使用FTP方式 下载 \20190621095301\9246xdat.exe 至 C:\weihu\McafeeUpdate\history\2019-06-23\ 
+2019-06-23 22:11:28.51 230 User logged in.  
+2019-06-23 22:11:28.51 200 Type set to I.  
+2019-06-23 22:11:28.51 get \20190621095301\9246xdat.exe  
+2019-06-23 22:11:28.51 200 PORT command successful.  
+2019-06-23 22:11:28.51 125 Data connection already open; Transfer starting.  
+2019-06-23 22:11:28.51 226 Transfer complete.  
+2019-06-23 22:11:28.51 ftp: 收到 115549152 字节，用时 11.41Seconds 10129.67Kbytes/sec.  
+2019-06-23 22:11:28.51 221 Goodbye.  
+2019-06-23 22:12:09.40 FTP方式下载 \20190621095301\9246xdat.exe 完成 
+2019-06-23 22:11:28.51 使用FTP方式 下载 \20190621095301\office2003.exe 至 C:\weihu\McafeeUpdate\history\2019-06-23\ 
+2019-06-23 22:11:28.51 230 User logged in.  
+2019-06-23 22:11:28.51 200 Type set to I.  
+2019-06-23 22:11:28.51 get \20190621095301\office2003.exe  
+2019-06-23 22:11:28.51 200 PORT command successful.  
+2019-06-23 22:11:28.51 125 Data connection already open; Transfer starting.  
+2019-06-23 22:11:28.51 226 Transfer complete.  
+2019-06-23 22:11:28.51 ftp: 收到 161203141 字节，用时 16.16Seconds 9977.29Kbytes/sec.  
+2019-06-23 22:11:28.51 221 Goodbye.  
+2019-06-23 22:12:26.07 FTP方式下载 \20190621095301\office2003.exe 完成 
+2019-06-23 22:12:26.09 本次更新文件总量为：372M 
+2019-06-23 22:12:26.10 进入更新文件校验流程,当前工作目录: C:\weihu\McafeeUpdate\history\2019-06-23 
+2019-06-23 22:11:28.51 开始对 C:\weihu\McafeeUpdate\history\2019-06-23\9241xdat.exe 进行文件哈希值校验。 
+2019-06-23 22:11:28.51 文件 9241xdat.exe 的HASH值:782d39bac87adc5238fbd6e3a2624df67c58c258 
+2019-06-23 22:12:26.10 文件名:9241xdat.exe Hash: 782d39bac87adc5238fbd6e3a2624df67c58c258 Size: 114158088 
+2019-06-23 22:12:26.10 更新文件 9241xdat.exe 与服务器文件一致。 
+2019-06-23 22:11:28.51 开始对 C:\weihu\McafeeUpdate\history\2019-06-23\9246xdat.exe 进行文件哈希值校验。 
+2019-06-23 22:11:28.51 文件 9246xdat.exe 的HASH值:33c8e95aa436f82b753657c6a741fb56872e1044 
+2019-06-23 22:12:26.10 文件名:9246xdat.exe Hash: 33c8e95aa436f82b753657c6a741fb56872e1044 Size: 115549152 
+2019-06-23 22:12:26.10 更新文件 9246xdat.exe 与服务器文件一致。 
+2019-06-23 22:11:28.51 开始对 C:\weihu\McafeeUpdate\history\2019-06-23\office2003.exe 进行文件哈希值校验。 
+2019-06-23 22:11:28.51 文件 office2003.exe 的HASH值:b2bd2ebdf6246bc09e9960f6113e1dbdade7de59 
+2019-06-23 22:12:26.10 文件名:office2003.exe Hash: b2bd2ebdf6246bc09e9960f6113e1dbdade7de59 Size: 161203141 
+2019-06-23 22:12:26.10 更新文件 office2003.exe 与服务器文件一致。 
+2019-06-23 22:12:30.26 更新文件校验完毕，准备进行安装更新 
+2019-06-23 22:12:30.26 进入更新文件安装流程,当前工作目录: C:\weihu\McafeeUpdate\history\2019-06-23 
+2019-06-23 22:12:30.29 进入更新包安装流程。 
+2019-06-23 22:12:34.14 正在从 Stub 文件 C:\weihu\McafeeUpdate\history\2019-06-23\9241xdat.exe 中解压缩 ZIP 文件。 
+2019-06-23 22:12:34.14 正在执行自我验证... 
+2019-06-23 22:12:34.14 正在从 ZIP 文件中检索文件 NAISCRIP.NSC。 
+2019-06-23 22:12:34.14 正在加载和解析脚本文件: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\23C5\NAISCRIP.NSC 
+2019-06-23 22:12:34.14 正在从 ZIP 文件中检索文件 Globals.nsg。 
+2019-06-23 22:12:34.14 正在加载和解析全局文件: Globals.nsg 
+2019-06-23 22:12:34.14 正在搜索已安装的所有防病毒产品。 
+2019-06-23 22:12:34.14 正在删除...C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\NAI46.tmp 
+2019-06-23 22:12:34.14 正在删除...C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\23C5 
+2019-06-23 22:12:34.14 更新进程失败。 
+2019-06-23 22:12:34.15 病毒库更新:9241xdat.exe 安装失败，当前计算机未找到符合条件的Mcafee产品。 
+2019-06-23 22:12:34.17 进入更新包安装流程。 
+2019-06-23 22:12:37.90 正在从 Stub 文件 C:\weihu\McafeeUpdate\history\2019-06-23\9246xdat.exe 中解压缩 ZIP 文件。 
+2019-06-23 22:12:37.90 正在执行自我验证... 
+2019-06-23 22:12:37.90 正在从 ZIP 文件中检索文件 NAISCRIP.NSC。 
+2019-06-23 22:12:37.90 正在加载和解析脚本文件: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\23CF\NAISCRIP.NSC 
+2019-06-23 22:12:37.90 正在从 ZIP 文件中检索文件 Globals.nsg。 
+2019-06-23 22:12:37.90 正在加载和解析全局文件: Globals.nsg 
+2019-06-23 22:12:37.90 正在搜索已安装的所有防病毒产品。 
+2019-06-23 22:12:37.90 正在删除...C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\NAI48.tmp 
+2019-06-23 22:12:37.90 正在删除...C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\23CF 
+2019-06-23 22:12:37.90 更新进程失败。 
+2019-06-23 22:12:37.92 病毒库更新:9246xdat.exe 安装失败，当前计算机未找到符合条件的Mcafee产品。 
+2019-06-23 22:12:37.93 进入更新包安装流程。 
+2019-06-23 22:13:13.76 病毒库更新:office2003.exe 计算机未能成功安装当前更新。 
+2019-06-23 22:13:13.76 所有更新文件安装流程已完成 
+2019-06-23 22:13:13.76 准备上传操作日志。 
+2019-06-23 22:11:28.51 使用FTP方式 上传 C:\weihu\McafeeUpdate\bin\..\tmp\192.168.5.169-Fail.log 至 Log\2019-06-23\192.168.5.169-Fail.log
+2019-06-23 22:11:28.51 230 User logged in.  
+2019-06-23 22:11:28.51 200 Type set to I.  
+2019-06-23 22:11:28.51 mkdir Log\2019-06-23  
+2019-06-23 22:11:28.51 550 Cannot create a file when that file already exists.   
+2019-06-23 22:11:28.51 put C:\weihu\McafeeUpdate\bin\..\tmp\192.168.5.169-Fail.log Log\2019-06-23\192.168.5.169-Fail.log  
+2019-06-23 22:11:28.51 200 PORT command successful.  
+2019-06-23 22:11:28.51 550 Access is denied.   
+2019-06-23 22:11:28.51 221 Goodbye.  
+2019-06-23 22:13:14.35 FTP方式上传 C:\weihu\McafeeUpdate\bin\..\tmp\192.168.5.169-Fail.log 失败,原因：无权限完成请求的操作  

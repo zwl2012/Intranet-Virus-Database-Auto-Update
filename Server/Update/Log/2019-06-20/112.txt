@@ -1,0 +1,1372 @@
+2019-05-17  0:33:03.94  开始进行文件签名校验流程。 
+2019-05-17  0:33:03.94  文件签名校验结果: 
+e:\weihu\mcafeeupdate\drive\validation\signature.bat:
+	Verified:	Unsigned
+	File date:	0:32 2019/5/17
+	Publisher:	n/a
+	Company:	n/a
+	Description:	n/a
+	Product:	n/a
+	Prod version:	n/a
+	File version:	n/a
+	MachineType:	n/a
+2019-05-17  0:33:03.94 更新文件:E:\weihu\McafeeUpdate\drive\validation\signature.bat 数字签名损坏或未签名。 
+2019-05-17  0:33:23.08  开始进行文件签名校验流程。 
+2019-05-17  0:33:23.08  文件签名校验结果: 
+e:\weihu\mcafeeupdate\drive\validation\signature.bat:
+	Verified:	Unsigned
+	File date:	0:32 2019/5/17
+	Publisher:	n/a
+	Company:	n/a
+	Description:	n/a
+	Product:	n/a
+	Prod version:	n/a
+	File version:	n/a
+	MachineType:	n/a
+2019-05-17  0:33:23.08 更新文件:E:\weihu\McafeeUpdate\drive\validation\signature.bat 数字签名损坏或未签名。 
+2019-05-17  0:33:32.64  开始进行文件签名校验流程。 
+2019-05-17  0:33:32.64  文件签名校验结果: 
+No matching files were found.
+
+2019-05-17  0:33:32.64  更新文件:111 签名正常。 
+2019-05-17  0:37:42.09  开始进行文件签名校验流程。 
+2019-05-17  0:37:42.09  文件签名校验结果: 
+No matching files were found.
+
+2019-05-17  0:37:42.09  更新文件:sss 签名正常。 
+2019-05-17  0:38:19.22  开始进行文件签名校验流程。 
+2019-05-17  0:38:19.22  文件签名校验结果: 
+No matching files were found.
+
+2019-05-17  0:38:19.22  更新文件:sss 签名正常。 
+2019-05-17  0:47:37.71  开始进行文件签名校验流程。 
+2019-05-17  0:47:37.71  文件签名校验结果: 
+No matching files were found.
+
+2019-05-17  0:47:37.71  更新文件:sss 签名正常。 
+2019-05-17  0:52:52.40  开始进行文件签名校验流程。 
+2019-05-17  0:52:52.40  文件签名校验结果: 
+e:\weihu\mcafeeupdate\start.vbs:
+	Verified:	Unsigned
+	File date:	21:21 2019/5/5
+	Publisher:	n/a
+	Company:	n/a
+	Description:	n/a
+	Product:	n/a
+	Prod version:	n/a
+	File version:	n/a
+	MachineType:	n/a
+2019-05-17  0:52:52.40 更新文件:E:\weihu\McafeeUpdate\start.vbs 数字签名损坏或未签名。 
+2019-05-17  0:55:08.67  开始进行文件签名校验流程。 
+2019-05-17  0:55:08.67  文件签名校验结果: 
+C:\Users\desktop.ini:
+	Verified:	Signed
+	Signing date:	13:42 2019/4/3
+	Publisher:	Microsoft Windows
+	Company:	n/a
+	Description:	n/a
+	Product:	n/a
+	Prod version:	n/a
+	File version:	n/a
+	MachineType:	n/a
+2019-05-17  0:55:08.67  更新文件:..\desktop.ini 签名正常。 
+2019-05-17  0:55:56.86  开始进行文件签名校验流程。 
+2019-05-17  0:55:56.86  文件签名校验结果: 
+C:\bootTel.dat:
+	Verified:	Unsigned
+	File date:	23:21 2018/3/31
+	Publisher:	n/a
+	Company:	n/a
+	Description:	n/a
+	Product:	n/a
+	Prod version:	n/a
+	File version:	n/a
+	MachineType:	n/a
+2019-05-17  0:55:56.86 更新文件:..\..\bootTel.dat 数字签名损坏或未签名。 
+2019-05-17  0:56:15.21  开始进行文件签名校验流程。 
+2019-05-17  0:56:15.21  文件签名校验结果: 
+No matching files were found.
+
+2019-05-17  0:56:15.21  更新文件:..\..\hiberfil.sys 签名正常。 
+2019-05-17  0:56:27.03  开始进行文件签名校验流程。 
+2019-05-17  0:56:27.03  文件签名校验结果: 
+No matching files were found.
+
+2019-05-17  0:56:27.03  更新文件:..\..\pagefile.sys 签名正常。 
+2019-05-17  0:57:20.40  开始进行文件签名校验流程。 
+2019-05-17  0:57:20.40  文件签名校验结果: 
+d:\desktop\riched32.dll:
+	Verified:	Unsigned
+	Link date:	21:10 2017/12/31
+	Publisher:	n/a
+	Company:	n/a
+	Description:	n/a
+	Product:	n/a
+	Prod version:	n/a
+	File version:	n/a
+	MachineType:	32-bit
+2019-05-17  0:57:20.40 更新文件:D:\Desktop\riched32.dll 数字签名损坏或未签名。 
+2019-05-17  0:57:53.65  开始进行文件签名校验流程。 
+2019-05-17  0:57:53.65  文件签名校验结果: 
+d:\desktop\trimcheck-0.7-win64.exe:
+	Verified:	Signed
+	Signing date:	21:52 2015/10/7
+	Publisher:	Open Source Developer, Vladimir Panteleev
+	Company:	n/a
+	Description:	n/a
+	Product:	n/a
+	Prod version:	n/a
+	File version:	n/a
+	MachineType:	64-bit
+2019-05-17  0:57:53.65  更新文件:D:\Desktop\trimcheck-0.7-win64.exe 签名正常。 
+2019-05-17  0:59:26.31  开始进行文件签名校验流程。 
+2019-05-17  0:59:26.31  文件签名校验结果: 
+E:\weihu\McafeeUpdate\_init_install\certutil\certreq.exe:
+	Verified:	Unsigned
+	Link date:	13:45 2007/2/17
+	Publisher:	n/a
+	Company:	Microsoft Corporation
+	Description:	CertReq.exe
+	Product:	Microsoft(R) Windows(R) Operating System
+	Prod version:	5.2.3790.3959
+	File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+	MachineType:	32-bit
+E:\weihu\McafeeUpdate\_init_install\certutil\certtmpl.dll:
+	Verified:	Unsigned
+	Link date:	23:28 2007/2/17
+	Publisher:	n/a
+	Company:	Microsoft Corporation
+	Description:	Certificate Templates
+	Product:	Microsoft(R) Windows(R) Operating System
+	Prod version:	5.2.3790.3959
+	File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+	MachineType:	32-bit
+E:\weihu\McafeeUpdate\_init_install\certutil\certtmpl.msc:
+	Verified:	Unsigned
+	File date:	18:28 2019/5/16
+	Publisher:	n/a
+	Company:	n/a
+	Description:	n/a
+	Product:	n/a
+	Prod version:	n/a
+	File version:	n/a
+	MachineType:	n/a
+E:\weihu\McafeeUpdate\_init_install\certutil\certutil.exe:
+	Verified:	Unsigned
+	Link date:	13:45 2007/2/17
+	Publisher:	n/a
+	Company:	Microsoft Corporation
+	Description:	CertUtil.exe
+	Product:	Microsoft(R) Windows(R) Operating System
+	Prod version:	5.2.3790.3959
+	File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+	MachineType:	32-bit
+E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll:
+	Verified:	Unsigned
+	Link date:	23:28 2007/2/17
+	Publisher:	n/a
+	Company:	Microsoft Corporation
+	Description:	Microsoft(R) Certificate Services Admin
+	Product:	Microsoft(R) Windows(R) Operating System
+	Prod version:	5.2.3790.3959
+	File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+	MachineType:	32-bit
+E:\weihu\McafeeUpdate\_init_install\certutil\certcli.dll:
+	Verified:	Unsigned
+	Link date:	23:28 2007/2/17
+	Publisher:	n/a
+	Company:	Microsoft Corporation
+	Description:	Microsoft(R) Certificate Services Client
+	Product:	Microsoft(R) Windows(R) Operating System
+	Prod version:	5.2.3790.3959
+	File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+	MachineType:	32-bit
+E:\weihu\McafeeUpdate\_init_install\certutil\certpdef.dll:
+	Verified:	Unsigned
+	Link date:	23:28 2007/2/17
+	Publisher:	n/a
+	Company:	Microsoft Corporation
+	Description:	Windows default
+	Product:	Microsoft(R) Windows(R) Operating System
+	Prod version:	5.2.3790.3959
+	File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+	MachineType:	32-bit
+2019-05-17  0:59:26.31 更新文件:..\..\_init_install\certutil\ 数字签名损坏或未签名。 
+2019-05-17  0:59:37.72  开始进行文件签名校验流程。 
+2019-05-17  0:59:37.72  文件签名校验结果: 
+E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll:
+	Verified:	Unsigned
+	Link date:	23:28 2007/2/17
+	Publisher:	n/a
+	Company:	Microsoft Corporation
+	Description:	Microsoft(R) Certificate Services Admin
+	Product:	Microsoft(R) Windows(R) Operating System
+	Prod version:	5.2.3790.3959
+	File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+	MachineType:	32-bit
+2019-05-17  0:59:37.72 更新文件:..\..\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  0:59:44.39  开始进行文件签名校验流程。 
+2019-05-17  0:59:44.39  文件签名校验结果: 
+E:\weihu\McafeeUpdate\_init_install\certutil\certreq.exe:
+	Verified:	Unsigned
+	Link date:	13:45 2007/2/17
+	Publisher:	n/a
+	Company:	Microsoft Corporation
+	Description:	CertReq.exe
+	Product:	Microsoft(R) Windows(R) Operating System
+	Prod version:	5.2.3790.3959
+	File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+	MachineType:	32-bit
+E:\weihu\McafeeUpdate\_init_install\certutil\certtmpl.dll:
+	Verified:	Unsigned
+	Link date:	23:28 2007/2/17
+	Publisher:	n/a
+	Company:	Microsoft Corporation
+	Description:	Certificate Templates
+	Product:	Microsoft(R) Windows(R) Operating System
+	Prod version:	5.2.3790.3959
+	File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+	MachineType:	32-bit
+E:\weihu\McafeeUpdate\_init_install\certutil\certtmpl.msc:
+	Verified:	Unsigned
+	File date:	18:28 2019/5/16
+	Publisher:	n/a
+	Company:	n/a
+	Description:	n/a
+	Product:	n/a
+	Prod version:	n/a
+	File version:	n/a
+	MachineType:	n/a
+E:\weihu\McafeeUpdate\_init_install\certutil\certutil.exe:
+	Verified:	Unsigned
+	Link date:	13:45 2007/2/17
+	Publisher:	n/a
+	Company:	Microsoft Corporation
+	Description:	CertUtil.exe
+	Product:	Microsoft(R) Windows(R) Operating System
+	Prod version:	5.2.3790.3959
+	File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+	MachineType:	32-bit
+E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll:
+	Verified:	Unsigned
+	Link date:	23:28 2007/2/17
+	Publisher:	n/a
+	Company:	Microsoft Corporation
+	Description:	Microsoft(R) Certificate Services Admin
+	Product:	Microsoft(R) Windows(R) Operating System
+	Prod version:	5.2.3790.3959
+	File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+	MachineType:	32-bit
+E:\weihu\McafeeUpdate\_init_install\certutil\certcli.dll:
+	Verified:	Unsigned
+	Link date:	23:28 2007/2/17
+	Publisher:	n/a
+	Company:	Microsoft Corporation
+	Description:	Microsoft(R) Certificate Services Client
+	Product:	Microsoft(R) Windows(R) Operating System
+	Prod version:	5.2.3790.3959
+	File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+	MachineType:	32-bit
+E:\weihu\McafeeUpdate\_init_install\certutil\certpdef.dll:
+	Verified:	Unsigned
+	Link date:	23:28 2007/2/17
+	Publisher:	n/a
+	Company:	Microsoft Corporation
+	Description:	Windows default
+	Product:	Microsoft(R) Windows(R) Operating System
+	Prod version:	5.2.3790.3959
+	File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+	MachineType:	32-bit
+2019-05-17  0:59:44.39 更新文件:..\..\_init_install\certutil\ 数字签名损坏或未签名。 
+2019-05-17  1:01:38.35  开始进行文件签名校验流程。 
+2019-05-17  1:01:38.35  文件签名校验结果: 
+E:\weihu\McafeeUpdate\_init_install\certutil\certreq.exe:
+	Verified:	Unsigned
+	Link date:	13:45 2007/2/17
+	Publisher:	n/a
+	Company:	Microsoft Corporation
+	Description:	CertReq.exe
+	Product:	Microsoft(R) Windows(R) Operating System
+	Prod version:	5.2.3790.3959
+	File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+	MachineType:	32-bit
+E:\weihu\McafeeUpdate\_init_install\certutil\certtmpl.dll:
+	Verified:	Unsigned
+	Link date:	23:28 2007/2/17
+	Publisher:	n/a
+	Company:	Microsoft Corporation
+	Description:	Certificate Templates
+	Product:	Microsoft(R) Windows(R) Operating System
+	Prod version:	5.2.3790.3959
+	File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+	MachineType:	32-bit
+E:\weihu\McafeeUpdate\_init_install\certutil\certtmpl.msc:
+	Verified:	Unsigned
+	File date:	18:28 2019/5/16
+	Publisher:	n/a
+	Company:	n/a
+	Description:	n/a
+	Product:	n/a
+	Prod version:	n/a
+	File version:	n/a
+	MachineType:	n/a
+E:\weihu\McafeeUpdate\_init_install\certutil\certutil.exe:
+	Verified:	Unsigned
+	Link date:	13:45 2007/2/17
+	Publisher:	n/a
+	Company:	Microsoft Corporation
+	Description:	CertUtil.exe
+	Product:	Microsoft(R) Windows(R) Operating System
+	Prod version:	5.2.3790.3959
+	File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+	MachineType:	32-bit
+E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll:
+	Verified:	Unsigned
+	Link date:	23:28 2007/2/17
+	Publisher:	n/a
+	Company:	Microsoft Corporation
+	Description:	Microsoft(R) Certificate Services Admin
+	Product:	Microsoft(R) Windows(R) Operating System
+	Prod version:	5.2.3790.3959
+	File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+	MachineType:	32-bit
+E:\weihu\McafeeUpdate\_init_install\certutil\certcli.dll:
+	Verified:	Unsigned
+	Link date:	23:28 2007/2/17
+	Publisher:	n/a
+	Company:	Microsoft Corporation
+	Description:	Microsoft(R) Certificate Services Client
+	Product:	Microsoft(R) Windows(R) Operating System
+	Prod version:	5.2.3790.3959
+	File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+	MachineType:	32-bit
+E:\weihu\McafeeUpdate\_init_install\certutil\certpdef.dll:
+	Verified:	Unsigned
+	Link date:	23:28 2007/2/17
+	Publisher:	n/a
+	Company:	Microsoft Corporation
+	Description:	Windows default
+	Product:	Microsoft(R) Windows(R) Operating System
+	Prod version:	5.2.3790.3959
+	File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+	MachineType:	32-bit
+2019-05-17  1:01:38.35 更新文件:..\..\_init_install\certutil\ 数字签名损坏或未签名。 
+2019-05-17  1:07:54.63  开始进行文件签名校验流程。 
+2019-05-17  1:07:54.63  文件签名校验结果: 
+E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll:
+	Verified:	Unsigned
+	Link date:	23:28 2007/2/17
+	Publisher:	n/a
+	Company:	Microsoft Corporation
+	Description:	Microsoft(R) Certificate Services Admin
+	Product:	Microsoft(R) Windows(R) Operating System
+	Prod version:	5.2.3790.3959
+	File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+	MachineType:	32-bit
+2019-05-17  1:07:54.63 更新文件:..\..\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  1:10:47.43  开始进行文件签名校验流程。 
+2019-05-17  1:10:47.43  文件签名校验结果: 
+E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll:
+	Verified:	Unsigned
+	Link date:	23:28 2007/2/17
+	Publisher:	n/a
+	Company:	Microsoft Corporation
+	Description:	Microsoft(R) Certificate Services Admin
+	Product:	Microsoft(R) Windows(R) Operating System
+	Prod version:	5.2.3790.3959
+	File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+	MachineType:	32-bit
+2019-05-17  1:14:47.34  开始进行文件签名校验流程。 
+2019-05-17  1:14:47.34  文件签名校验结果: 
+E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll:
+	Verified:	Unsigned
+	Link date:	23:28 2007/2/17
+	Publisher:	n/a
+	Company:	Microsoft Corporation
+	Description:	Microsoft(R) Certificate Services Admin
+	Product:	Microsoft(R) Windows(R) Operating System
+	Prod version:	5.2.3790.3959
+	File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+	MachineType:	32-bit
+2019-05-17  1:14:47.34 更新文件:..\..\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  1:16:33.10  开始进行文件签名校验流程。 
+2019-05-17  1:16:33.10  文件签名校验结果: 
+E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll:
+	Verified:	Unsigned
+	Link date:	23:28 2007/2/17
+	Publisher:	n/a
+	Company:	Microsoft Corporation
+	Description:	Microsoft(R) Certificate Services Admin
+	Product:	Microsoft(R) Windows(R) Operating System
+	Prod version:	5.2.3790.3959
+	File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+	MachineType:	32-bit
+2019-05-17  1:16:33.10 更新文件:..\..\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  1:26:40.51  开始进行文件签名校验流程。 
+2019-05-17  1:26:40.51  文件签名校验结果:  /f "tokens=* eol=L" %i in ('C:\Users\Cris\AppData\Local\Temp\"E:\weihu\McafeeUpdate\drive\validation\signature.bat".info') do set /p "var=%i;" 
+2019-05-17  1:26:40.51  更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 签名正常。 
+2019-05-17  1:27:36.85  开始进行文件签名校验流程。 
+2019-05-17  1:27:36.85  文件签名校验结果:  /f "tokens=* eol=L" %i in ('C:\Users\Cris\AppData\Local\Temp\signature.info') do set /p "var=%i;" 
+2019-05-17  1:27:36.85 更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  1:28:22.33  开始进行文件签名校验流程。 
+2019-05-17  1:28:22.33  文件签名校验结果:  /f "tokens=* eol=L" %i in (C:\Users\Cris\AppData\Local\Temp\signature.info) do set /p "var=%i;" 
+2019-05-17  1:28:22.33 更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  1:29:09.30  开始进行文件签名校验流程。 
+2019-05-17  1:29:09.30  文件签名校验结果: 
+E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll:;Verified:	Unsigned;Publisher:	n/a;Company:	Microsoft Corporation;Description:	Microsoft(R) Certificate Services Admin;Product:	Microsoft(R) Windows(R) Operating System;Prod version:	5.2.3790.3959;File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710);MachineType:	32-bit;2019-05-17  1:29:09.30 更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  1:30:50.60  开始进行文件签名校验流程。 
+2019-05-17  1:30:50.60  文件签名校验结果: 
+Verified:	Unsigned;Publisher:	n/a;Company:	Microsoft Corporation;Description:	Microsoft(R) Certificate Services Admin;Product:	Microsoft(R) Windows(R) Operating System;Prod version:	5.2.3790.3959;File version:	5.2.3790.3959 (srv03_sp2_rtm.070216-1710);MachineType:	32-bit;2019-05-17  1:30:50.60 更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  1:33:42.05  开始进行文件签名校验流程。 
+2019-05-17  1:33:42.05  文件签名校验结果: 
+Unsigned;n/a;Microsoft;Microsoft(R);Microsoft(R);version:;version:;32-bit;2019-05-17  1:33:42.05 更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  1:34:49.43  开始进行文件签名校验流程。 
+2019-05-17  1:34:49.43  文件签名校验结果: 
+date:	23:28;Corporation;Certificate;Windows(R);version:	5.2.3790.3959;version:	5.2.3790.3959;2019-05-17  1:34:49.43 更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  1:35:42.38  开始进行文件签名校验流程。 
+2019-05-17  1:35:42.38  文件签名校验结果: 
+date:	23:28CorporationCertificateWindows(R)version:	5.2.3790.3959version:	5.2.3790.39592019-05-17  1:35:42.38 更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  1:36:47.95  开始进行文件签名校验流程。 
+2019-05-17  1:36:47.95  文件签名校验结果: 
+date:	23:28 Corporation Certificate Windows(R) version:	5.2.3790.3959 version:	5.2.3790.3959 2019-05-17  1:36:47.95 更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  1:39:05.28  开始进行文件签名校验流程。 
+2019-05-17  1:39:05.28  文件签名校验结果: 
+date:	23:28;Corporation;Certificate;Windows(R);version:	5.2.3790.3959;version:	5.2.3790.3959;2019-05-17  1:39:05.28 更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  1:40:22.51  开始进行文件签名校验流程。 
+2019-05-17  1:40:22.51  文件签名校验结果: 
+Verified:	Unsigned;Link;Publisher:	n/a;Company:	Microsoft;Description:	Microsoft(R);Product:	Microsoft(R);Prod;File;MachineType:	32-bit;2019-05-17  1:40:22.51 更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  1:42:21.00  开始进行文件签名校验流程。 
+2019-05-17  1:42:21.00  文件签名校验结果: 
+Verified:	Unsigned Link Publisher:	n/a Company:	Microsoft Description:	Microsoft(R) Product:	Microsoft(R) Prod File MachineType:	32-bit 2019-05-17  1:42:21.00 更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  1:43:48.40  开始进行文件签名校验流程。 
+2019-05-17  1:43:48.40  文件签名校验结果: (for /f "skip=1 eol=L delims= " %i in (C:\Users\Cris\AppData\Local\Temp\signature.info) do set /p "var=%i "  )
+2019-05-17  1:43:48.40 更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  1:46:01.03  开始进行文件签名校验流程。 
+2019-05-17  1:46:01.03  文件签名校验结果: (for /f "skip=1 eol=L delims= " %i in (C:\Users\Cris\AppData\Local\Temp\signature.info) do set "var=%i "  )
+2019-05-17  1:46:01.03 更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  1:52:31.94  开始进行文件签名校验流程。 
+2019-05-17  1:52:31.94  文件签名校验结果: (for /f "skip=1 eol=L delims= " %i in (C:\Users\Cris\AppData\Local\Temp\signature.info) do set /p "var=%i "  ) 
+ 2019-05-17  1:52:31.94 更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  1:53:17.21  开始进行文件签名校验流程。 
+2019-05-17  1:53:17.21  文件签名校验结果: (for /f "skip=1 eol=L delims= " %i in (C:\Users\Cris\AppData\Local\Temp\signature.info) do set /p "var=%i "  ) 
+2019-05-17  1:53:17.21 更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  1:54:00.41  开始进行文件签名校验流程。 
+2019-05-17  1:54:00.41  文件签名校验结果: for /f "skip=1 eol=L delims= " %i in (C:\Users\Cris\AppData\Local\Temp\signature.info) do set /p "var=%i " 
+2019-05-17  1:54:00.41 更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  1:54:38.68  开始进行文件签名校验流程。 
+2019-05-17  1:54:38.68  文件签名校验结果: (for /f "skip=1 eol=L delims= " %i in (C:\Users\Cris\AppData\Local\Temp\signature.info) do set /p "var=%i "  ) 
+2019-05-17  1:54:38.68 更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  1:55:24.77  开始进行文件签名校验流程。 
+Verified:	Unsigned Link Publisher:	n/a Company:	Microsoft Description:	Microsoft(R) Product:	Microsoft(R) Prod File MachineType:	32-bit 2019-05-17  1:55:24.77 更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  1:56:33.52  开始进行文件签名校验流程。 
+2019-05-17  1:56:33.52  文件签名校验结果: 
+Verified:	Unsigned Link Publisher:	n/a Company:	Microsoft Description:	Microsoft(R) Product:	Microsoft(R) Prod File MachineType:	32-bit 2019-05-17  1:56:33.52 更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  1:57:22.52  开始进行文件签名校验流程。 
+2019-05-17  1:57:22.52  文件签名校验结果: 
+Verified:	Unsigned Link Publisher:	n/a Company:	Microsoft Description:	Microsoft(R) Product:	Microsoft(R) Prod File MachineType:	32-bit  
+2019-05-17  1:57:22.52 更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  1:58:36.67  文件 ..\..\_init_install\certutil\certadm.dll 的SHA1值为:d41bc7f6d1d8b9d63a1100c3c48b83e27a931fb3 
+2019-05-17  1:59:17.64  文件 E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 的SHA1值为:d41bc7f6d1d8b9d63a1100c3c48b83e27a931fb3 
+2019-05-17  2:04:03.37  开始进行文件哈希值校验流程。 
+2019-05-17  2:04:03.37  文件 E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 的SHA1值为:d41bc7f6d1d8b9d63a1100c3c48b83e27a931fb3 
+2019-05-17  2:06:18.65  开始进行文件签名校验流程。 
+2019-05-17  2:06:18.65  文件签名校验结果: 
+Verified:	Unsigned Link Publisher:	n/a Company:	Microsoft Description:	Microsoft(R) Product:	Microsoft(R) Prod File MachineType:	32-bit  
+2019-05-17  2:06:18.65 更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  2:06:38.34  开始进行文件签名校验流程。 
+2019-05-17  2:06:38.34  文件签名校验结果: 
+Verified:	Unsigned Link Publisher:	n/a Company:	Microsoft Description:	Microsoft(R) Product:	Microsoft(R) Prod File MachineType:	32-bit  
+2019-05-17  2:06:38.34 更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17  2:08:28.14  开始进行文件签名校验流程。 
+2019-05-17  2:08:28.14  文件签名校验结果: 
+Verified:	Unsigned Link Publisher:	n/a Company:	Microsoft Description:	Microsoft(R) Product:	Microsoft(R) Prod File MachineType:	32-bit  
+2019-05-17  2:08:28.14 更新文件:E:\weihu\McafeeUpdate\_init_install\certutil\certadm.dll 数字签名损坏或未签名。 
+2019-05-17 FTP方式下载更新 
+ftp> user anonymous 1111
+未连接。
+ftp> cd "/"
+未连接。
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\\"
+\weihu\McafeeUpdate\drive\transfer\..\..\history\\: 找不到文件 
+ftp> mget 
+未连接。
+ftp> bin
+未连接。
+ftp> bye
+2019-05-17 17:37:58.73 FTP方式下载更新完成 
+2019-05-17 FTP方式下载更新 
+ftp> user anonymous 1111
+未连接。
+ftp> cd "/"
+未连接。
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\\"
+\weihu\McafeeUpdate\drive\transfer\..\..\history\\: 找不到文件 
+ftp> mget 
+未连接。
+ftp> bin
+未连接。
+ftp> bye
+2019-05-17 17:38:33.73 FTP方式下载更新完成 
+2019-05-17 FTP方式下载更新 
+ftp> user anonymous 1111
+未连接。
+ftp> cd "/"
+未连接。
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\\"
+\weihu\McafeeUpdate\drive\transfer\..\..\history\\: 找不到文件 
+ftp> mget 
+未连接。
+ftp> bin
+未连接。
+ftp> bye
+2019-05-17 17:40:02.55 FTP方式下载更新完成 
+2019-05-17 FTP方式下载更新 
+ftp> user anonymous 1111
+未连接。
+ftp> cd "/"
+未连接。
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\\"
+\weihu\McafeeUpdate\drive\transfer\..\..\history\\: 找不到文件 
+ftp> mget 
+未连接。
+ftp> bin
+未连接。
+ftp> bye
+2019-05-17 17:40:33.53 FTP方式下载更新完成 
+2019-05-17 FTP方式下载更新 
+ftp> user anonymous 1111
+未连接。
+ftp> cd "/"
+未连接。
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\\"
+\weihu\McafeeUpdate\drive\transfer\..\..\history\\: 找不到文件 
+ftp> mget 
+未连接。
+ftp> bin
+未连接。
+ftp> bye
+2019-05-17 17:41:12.72 FTP方式下载更新完成 
+2019-05-17 FTP方式下载更新 
+ftp> user anonymous 1111
+未连接。
+ftp> cd "/"
+未连接。
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\\"
+\weihu\McafeeUpdate\drive\transfer\..\..\history\\: 找不到文件 
+ftp> mget 
+未连接。
+ftp> bin
+未连接。
+ftp> bye
+2019-05-17 17:41:31.50 FTP方式下载更新完成 
+2019-05-17 FTP方式下载更新 
+ftp> user anonymous 1111
+未连接。
+ftp> cd "/"
+未连接。
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\\"
+\weihu\McafeeUpdate\drive\transfer\..\..\history\\: 找不到文件 
+ftp> mget 
+未连接。
+ftp> bin
+未连接。
+ftp> bye
+2019-05-17 17:42:10.97 FTP方式下载更新完成 
+2019-05-17 FTP方式下载更新 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd "/"
+250 "/" is current directory.
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\\"
+\weihu\McafeeUpdate\drive\transfer\..\..\history\\: 找不到文件 
+ftp> mget 111
+"111": Directory not found.
+
+200 Type set to A
+找不到远程文件列表。
+ftp> bin
+200 Type set to I
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 17:52:58.03 FTP方式下载更新完成 
+2019-05-17 FTP方式下载更新 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd "/"
+250 "/" is current directory.
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\\"
+\weihu\McafeeUpdate\drive\transfer\..\..\history\\: 找不到文件 
+ftp> mget 111
+"111": Directory not found.
+
+200 Type set to A
+找不到远程文件列表。
+ftp> bin
+200 Type set to I
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 17:53:57.67 FTP方式下载更新完成 
+2019-05-17 FTP方式下载更新 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd "/"
+250 "/" is current directory.
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\\"
+\weihu\McafeeUpdate\drive\transfer\..\..\history\\: 找不到文件 
+ftp> mget 111
+"111": Directory not found.
+
+200 Type set to A
+找不到远程文件列表。
+ftp> bin
+200 Type set to I
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 17:54:18.18 FTP方式下载更新完成 
+2019-05-17 18:01:24.99  使用FTP方式进行下载 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd "/"
+250 "/" is current directory.
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\\"
+\weihu\McafeeUpdate\drive\transfer\..\..\history\\: 找不到文件 
+ftp> mget 111
+"111": Directory not found.
+
+200 Type set to A
+找不到远程文件列表。
+ftp> bin
+200 Type set to I
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 18:01:25.07 FTP方式下载失败 
+2019-05-17 18:02:48.43  使用FTP方式进行下载 111 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd "/"
+250 "/" is current directory.
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\\"
+\weihu\McafeeUpdate\drive\transfer\..\..\history\\: 找不到文件 
+ftp> mget 111
+"111": Directory not found.
+
+200 Type set to A
+找不到远程文件列表。
+ftp> bin
+200 Type set to I
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 18:02:48.51 FTP方式下载失败 
+2019-05-17 18:04:52.97  使用FTP方式进行下载 111 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd "/"
+250 "/" is current directory.
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\\"
+\weihu\McafeeUpdate\drive\transfer\..\..\history\\: 找不到文件 
+ftp> mget 111
+"111": Directory not found.
+
+200 Type set to A
+找不到远程文件列表。
+ftp> bin
+200 Type set to I
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 18:04:53.05 FTP方式下载 111 失败 
+2019-05-17 19:31:18.16  使用FTP方式进行下载 111 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd "/"
+250 "/" is current directory.
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\\"
+\weihu\McafeeUpdate\drive\transfer\..\..\history\\: 找不到文件 
+ftp> bin
+200 Type set to I
+ftp> mget 111
+"111": Directory not found.
+
+200 Type set to I
+找不到远程文件列表。
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 19:31:18.25 FTP方式下载 111 失败 
+2019-05-17 19:32:07.08  使用FTP方式进行下载 1111.txt 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd "/"
+250 "/" is current directory.
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\\"
+\weihu\McafeeUpdate\drive\transfer\..\..\history\\: 找不到文件 
+ftp> bin
+200 Type set to I
+ftp> mget 1111.txt
+200 Type set to I
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 收到 57 字节，用时 0.00秒 57000.00千字节/秒。
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 19:32:07.25 FTP方式下载 1111.txt 失败 
+2019-05-17 19:34:01.44  使用FTP方式进行下载 1111.txt 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd "/"
+250 "/" is current directory.
+ftp> lcd ""
+目前的本地目录 C:\Users\Carlos。
+ftp> bin
+200 Type set to I
+ftp> mget 1111.txt
+200 Type set to I
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 收到 57 字节，用时 0.00秒 57.00千字节/秒。
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 19:34:01.62 FTP方式下载 1111.txt 失败 
+2019-05-17 20:47:55.41  使用FTP方式进行下载 1111.txt 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd "/"
+250 "/" is current directory.
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\\"
+\weihu\McafeeUpdate\drive\transfer\..\..\history\\: 找不到文件 
+ftp> bin
+200 Type set to I
+ftp> mget 1111.txt
+"1111.txt": Directory not found.
+
+200 Type set to I
+找不到远程文件列表。
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 20:47:55.72 FTP方式下载 1111.txt 失败 
+2019-05-17 20:48:02.85  使用FTP方式进行下载 1.exe 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd "/"
+250 "/" is current directory.
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\\"
+\weihu\McafeeUpdate\drive\transfer\..\..\history\\: 找不到文件 
+ftp> bin
+200 Type set to I
+ftp> mget 1.exe
+200 Type set to I
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 收到 6373296 字节，用时 0.56秒 11421.68千字节/秒。
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 20:48:03.60 FTP方式下载 1.exe 失败 
+2019-05-17 20:49:08.81  使用FTP方式进行下载 1.exe 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd "/"
+250 "/" is current directory.
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\"
+\weihu\McafeeUpdate\drive\transfer\..\..\history\: 找不到文件 
+ftp> bin
+200 Type set to I
+ftp> mget 1.exe
+200 Type set to I
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 收到 6373296 字节，用时 0.56秒 11401.25千字节/秒。
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 20:49:09.57 FTP方式下载 1.exe 失败 
+2019-05-17 20:49:25.90  使用FTP方式进行下载 1.exe 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd "/"
+250 "/" is current directory.
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\"
+\weihu\McafeeUpdate\drive\transfer\..\..\history\: 找不到文件 
+ftp> bin
+200 Type set to I
+ftp> mget 1.exe
+"1.exe": Directory not found.
+
+200 Type set to I
+找不到远程文件列表。
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 20:49:25.99 FTP方式下载 1.exe 失败 
+2019-05-17 20:49:34.45  使用FTP方式进行下载 1.exe 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd "/"
+250 "/" is current directory.
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\"
+\weihu\McafeeUpdate\drive\transfer\..\..\history\: 找不到文件 
+ftp> bin
+200 Type set to I
+ftp> mget 1.exe
+"1.exe": Directory not found.
+
+200 Type set to I
+找不到远程文件列表。
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 20:49:34.52 FTP方式下载 1.exe 失败 
+2019-05-17 20:52:43.43  使用FTP方式进行下载 1.exe 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd "/"
+250 "/" is current directory.
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\!currentDate!"
+目前的本地目录 G:\weihu\McafeeUpdate\history\!currentDate!。
+ftp> bin
+200 Type set to I
+ftp> mget 1.exe
+200 Type set to I
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 收到 6373296 字节，用时 0.56秒 11421.68千字节/秒。
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 20:52:44.20 FTP方式下载 1.exe 失败 
+2019-05-17 22:34:50.12  使用FTP方式进行下载 1.exe 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd "/"
+250 "/" is current directory.
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\!currentDate!"
+目前的本地目录 G:\weihu\McafeeUpdate\history\!currentDate!。
+ftp> bin
+200 Type set to I
+ftp> mget 1.exe
+200 Type set to I
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 收到 6373296 字节，用时 0.56秒 11300.17千字节/秒。
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 22:34:51.01 FTP方式下载 1.exe 失败 
+2019-05-17 22:36:57.26  使用FTP方式进行下载 1.exe 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd "/"
+250 "/" is current directory.
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\!currentDate!"
+目前的本地目录 G:\weihu\McafeeUpdate\history\!currentDate!。
+ftp> bin
+200 Type set to I
+ftp> mget 1.exe
+200 Type set to I
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 收到 6373296 字节，用时 0.56秒 11421.68千字节/秒。
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 22:36:58.10 FTP方式下载 1.exe 失败 
+2019-05-17 22:38:35.80  使用FTP方式进行下载 1.exe 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd "/"
+250 "/" is current directory.
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\!currentDate!"
+目前的本地目录 G:\weihu\McafeeUpdate\history\!currentDate!。
+ftp> bin
+200 Type set to I
+ftp> mget 1.exe
+200 Type set to I
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 收到 6373296 字节，用时 0.56秒 11421.68千字节/秒。
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 22:38:36.55 FTP方式下载 1.exe 失败 
+
+
+2019-05-17 22:39:23.68  使用FTP方式进行下载 1.exe 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd "/"
+250 "/" is current directory.
+ftp> lcd "G:\weihu\McafeeUpdate\drive\transfer\..\..\history\"
+\weihu\McafeeUpdate\drive\transfer\..\..\history\: 找不到文件 
+ftp> bin
+200 Type set to I
+ftp> mget 1.exe
+200 Type set to I
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 收到 6373296 字节，用时 0.56秒 11442.18千字节/秒。
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 22:39:24.42 FTP方式下载 1.exe 失败 
+2019-05-17 22:43:22.02  使用FTP方式进行下载 1.exe 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd /
+250 "/" is current directory.
+ftp> lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\
+\weihu\McafeeUpdate\drive\transfer\..\..\history\: 找不到文件 
+ftp> bin
+200 Type set to I
+ftp> mget 1.exe
+200 Type set to I
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 收到 6373296 字节，用时 0.56秒 11401.25千字节/秒。
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 22:43:22.88 FTP方式下载 1.exe 失败 
+2019-05-17 22:44:59.54  使用FTP方式进行下载 1.exe 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd /
+250 "/" is current directory.
+ftp> lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\
+\weihu\McafeeUpdate\drive\transfer\..\..\history\: 找不到文件 
+ftp> bin
+200 Type set to I
+ftp> mget 1.exe
+200 Type set to I
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 收到 6373296 字节，用时 0.56秒 11320.24千字节/秒。
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 22:45:00.29 FTP方式下载 1.exe 失败 
+2019-05-17 22:45:47.48  使用FTP方式进行下载 1.exe 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd /
+250 "/" is current directory.
+ftp> lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-17
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-17。
+ftp> bin
+200 Type set to I
+ftp> mget 1.exe
+200 Type set to I
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 收到 6373296 字节，用时 0.56秒 11421.68千字节/秒。
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 22:45:48.23 FTP方式下载 1.exe 完成 
+2019-05-17 22:47:52.46  使用FTP方式进行下载 1.exe 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd /
+250 "/" is current directory.
+ftp> lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-17
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-17。
+ftp> bin
+200 Type set to I
+ftp> mget 1.exe
+200 Type set to I
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 收到 6373296 字节，用时 0.56秒 11401.25千字节/秒。
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 22:47:53.24 FTP方式下载 1.exe 完成 
+2019-05-17 22:48:21.08  使用FTP方式进行下载 1.exe 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd /
+250 "/" is current directory.
+ftp> lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-17
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-17。
+ftp> bin
+200 Type set to I
+ftp> mget 1.exe
+200 Type set to I
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 收到 6373296 字节，用时 0.56秒 11421.68千字节/秒。
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 22:48:21.84 FTP方式下载 1.exe 完成 
+2019-05-17 22:49:18.41  使用FTP方式进行下载 1.exe 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> cd /
+250 "/" is current directory.
+ftp> lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-17
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-17。
+ftp> bin
+200 Type set to I
+ftp> mget 1.exe
+200 Type set to I
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 收到 6373296 字节，用时 0.56秒 11442.18千字节/秒。
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 22:49:19.18 FTP方式下载 1.exe 完成 
+2019-05-17 22:52:53.76  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\2019-05-17\333.exe 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> mkdir 2019-05-17
+250 Directory created successfully.
+ftp> cd 2019-05-17
+250 "/2019-05-17" is current directory.
+ftp> bin
+200 Type set to I
+ftp> put G:\weihu\McafeeUpdate\history\2019-05-17\333.exe
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 发送 6373296 字节，用时 0.57秒 11142.13千字节/秒。
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 22:52:54.69 FTP方式上传 G:\weihu\McafeeUpdate\history\2019-05-17\333.exe 完成 
+2019-05-17 23:00:36.68  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\2019-05-17\333.exe 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> mkdir 192.168.5.189\2019-05-17
+250 Directory created successfully.
+ftp> cd 192.168.5.189\2019-05-17
+250 "/192.168.5.189/2019-05-17" is current directory.
+ftp> bin
+200 Type set to I
+ftp> put G:\weihu\McafeeUpdate\history\2019-05-17\333.exe
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 发送 6373296 字节，用时 0.60秒 10675.54千字节/秒。
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 23:00:37.87 FTP方式上传 G:\weihu\McafeeUpdate\history\2019-05-17\333.exe 完成 
+2019-05-17 23:01:24.57  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\2019-05-17\333.exe 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> mkdir 192.168.5.189/2019-05-17
+250 Directory created successfully.
+ftp> cd 192.168.5.189/2019-05-17
+250 "/192.168.5.189/2019-05-17" is current directory.
+ftp> bin
+200 Type set to I
+ftp> put G:\weihu\McafeeUpdate\history\2019-05-17\333.exe
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 发送 6373296 字节，用时 0.60秒 10693.45千字节/秒。
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 23:01:25.58 FTP方式上传 G:\weihu\McafeeUpdate\history\2019-05-17\333.exe 完成 
+2019-05-17 23:03:41.99  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\2019-05-17\333.exe 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+ftp> user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+ftp> mkdir 192.168.5.189/2019-05-17
+250 Directory created successfully.
+ftp> cd 192.168.5.189/2019-05-17
+250 "/192.168.5.189/2019-05-17" is current directory.
+ftp> bin
+200 Type set to I
+ftp> put G:\weihu\McafeeUpdate\history\2019-05-17\333.exe
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 发送 6373296 字节，用时 0.56秒 11462.76千字节/秒。
+ftp> bye
+220 再来揍死你!!!
+2019-05-17 23:03:42.99 FTP方式上传 G:\weihu\McafeeUpdate\history\2019-05-17\333.exe 完成 
+2019-05-17 23:06:07.38  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\2019-05-17\333.exe 
+Please login with USER and PASS.
+ftp> user anonymous 1111
+ftp> mkdir 192.168.5.189/2019-05-17
+ftp> cd 192.168.5.189/2019-05-17
+ftp> bin
+ftp> put G:\weihu\McafeeUpdate\history\2019-05-17\333.exe
+ftp> bye
+2019-05-17 23:06:08.65 FTP方式上传 G:\weihu\McafeeUpdate\history\2019-05-17\333.exe 完成 
+2019-05-17 23:08:04.36  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\..\333.exe 
+Please login with USER and PASS.
+ftp> user anonymous 1111
+ftp> mkdir 192.168.5.189/2019-05-17
+Directory already exists.
+ftp> cd 192.168.5.189/2019-05-17
+ftp> bin
+ftp> put G:\weihu\McafeeUpdate\history\..\..\..\333.exe
+G:\weihu\McafeeUpdate\history\..\..\..\333.exe: 找不到文件 
+ftp> bye
+2019-05-17 23:08:04.49 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\..\333.exe 完成 
+2019-05-17 23:09:59.78  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+Please login with USER and PASS.
+ftp> user anonymous 1111
+ftp> mkdir 192.168.5.189/2019-05-17
+Directory already exists.
+ftp> cd 192.168.5.189/2019-05-17
+ftp> bin
+ftp> put G:\weihu\McafeeUpdate\history\..\..\333.exe
+ftp> bye
+2019-05-17 23:10:01.02 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-17 23:13:55.67  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\..\333.exe 
+2019-05-17 23:13:55.81 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\..\333.exe 完成 
+2019-05-17 23:18:04.44  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\..\333.exe 
+2019-05-17 23:18:04.65 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\..\333.exe 完成 
+2019-05-17 23:18:19.87  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\..\333.exe 
+2019-05-17 23:18:20.04 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\..\333.exe 完成 
+2019-05-17 23:27:45.73  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\..\333.exe 
+Please login with USER and PASS.
+ftp> user anonymous 1111
+ftp> mkdir 192.168.5.189/2019-05-17
+Directory already exists.
+ftp> cd 192.168.5.189/2019-05-17
+ftp> bin
+ftp> put G:\weihu\McafeeUpdate\history\..\..\..\333.exe
+G:\weihu\McafeeUpdate\history\..\..\..\333.exe: 找不到文件 
+ftp> bye
+2019-05-17 23:27:45.89 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\..\333.exe 完成 
+2019-05-17 23:27:59.14  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\..\333.exe 
+ftp> user anonymous 1111
+未连接。
+ftp> mkdir 192.168.5.189/2019-05-17
+未连接。
+ftp> cd 192.168.5.189/2019-05-17
+未连接。
+ftp> bin
+未连接。
+ftp> put G:\weihu\McafeeUpdate\history\..\..\..\333.exe
+未连接。
+ftp> bye
+2019-05-17 23:28:20.27 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\..\333.exe 完成 
+2019-05-17 23:28:27.74  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\..\333.exe 
+Please login with USER and PASS.
+ftp> user anonymous 11111
+Not logged in, user or password incorrect!
+ftp> mkdir 192.168.5.189/2019-05-17
+Please login with USER and PASS.
+ftp> cd 192.168.5.189/2019-05-17
+Please login with USER and PASS.
+ftp> bin
+Please login with USER and PASS.
+ftp> put G:\weihu\McafeeUpdate\history\..\..\..\333.exe
+G:\weihu\McafeeUpdate\history\..\..\..\333.exe: 找不到文件 
+ftp> bye
+Please login with USER and PASS.
+2019-05-17 23:28:27.91 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\..\333.exe 完成 
+2019-05-17 23:28:58.62  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+Please login with USER and PASS.
+ftp> user anonymous 1111
+ftp> mkdir 192.168.5.189/2019-05-17
+Directory already exists.
+ftp> cd 192.168.5.189/2019-05-17
+ftp> bin
+ftp> put G:\weihu\McafeeUpdate\history\..\..\333.exe
+ftp> bye
+2019-05-17 23:28:59.89 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-17 23:42:00.36  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+FTP传输日志开始--C:\Users\Carlos\AppData\Local\Temp\ftp.log--FTP传输日志结束 
+2019-05-17 23:42:01.60 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-17 23:43:13.28  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+FTP传输日志开始--( echo C:\Users\Carlos\AppData\Local\Temp\ftp.log )--FTP传输日志结束 
+2019-05-17 23:43:14.52 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-17 23:44:39.08  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+FTP传输日志开始-- 
+echo C:\Users\Carlos\AppData\Local\Temp\ftp.log 
+--FTP传输日志结束 
+2019-05-17 23:44:40.33 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-17 23:45:16.55  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+FTP传输日志开始-- 
+C:\Users\Carlos\AppData\Local\Temp\ftp.log 
+--FTP传输日志结束 
+2019-05-17 23:45:17.80 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-17 23:47:34.18  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+FTP传输日志开始-- 
+2019-05-17 23:49:07.02  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+FTP传输日志开始-- 
+2019-05-17 23:49:26.40  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+FTP传输日志开始-- 
+2019-05-17 23:51:33.37  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+FTP传输日志开始-- Please login with USER and PASS. --FTP传输日志结束 
+2019-05-17 23:51:34.62 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-17 23:55:35.60  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+FTP传输日志开始-- Please login with USER and PASS. --FTP传输日志结束 
+2019-05-17 23:55:36.85 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-17 23:57:43.87  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+FTP传输日志开始-- (type ) --FTP传输日志结束 
+2019-05-17 23:57:45.08 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-17 23:58:06.31  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+FTP传输日志开始-- (type C:\Users\Carlos\AppData\Local\Temp\ftp.log) --FTP传输日志结束 
+2019-05-17 23:58:07.54 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-17 23:59:05.70  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+FTP传输日志开始-- 
+Please login with USER and PASS.
+ftp> user anonymous 1111
+ftp> mkdir 192.168.5.189/2019-05-17
+Directory already exists.
+ftp> cd 192.168.5.189/2019-05-17
+ftp> bin
+ftp> put G:\weihu\McafeeUpdate\history\..\..\333.exe
+ftp> bye
+--FTP传输日志结束 
+2019-05-17 23:59:06.94 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-17 23:59:49.32  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+Please login with USER and PASS.
+ftp> user anonymous 1111
+ftp> mkdir 192.168.5.189/2019-05-17
+Directory already exists.
+ftp> cd 192.168.5.189/2019-05-17
+ftp> bin
+ftp> put G:\weihu\McafeeUpdate\history\..\..\333.exe
+ftp> bye
+----FTP传输日志结束---- 
+2019-05-17 23:59:50.57 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 

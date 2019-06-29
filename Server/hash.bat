@@ -1,21 +1,15 @@
 @echo off
-TITLE 哈希校验
 if not defined Log (
 	set currentPath=%~dp0
 	set currentTime=%date:~0,4%-%date:~5,2%-%date:~8,2% %time%
 	set currentDate=%date:~0,4%-%date:~5,2%-%date:~8,2%
-    	set LogPath=%~dp0log
-	set Log=%LogPath%\%date:~0,4%-%date:~5,2%-%date:~8,2%.log
-	
-
-	::坑爹的变量延迟
-	md !LogPath! >nul 2>nul
+	set Log=%~dp0%date:~0,4%-%date:~5,2%-%date:~8,2%.log
 )
 
 ::哈希默认值
 set hashVal=null
 
-echo %currentTime% 开始对 %~xn1 进行文件哈希值校验流程。 >> %Log%
+echo %currentTime% 开始进行文件哈希值校验流程。 >> %Log%
 
 setlocal enabledelayedexpansion
 ::路径处理
