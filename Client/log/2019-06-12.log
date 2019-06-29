@@ -1,0 +1,931 @@
+2019-06-12 15:04:55.83 本机错峰时间: 253 秒 
+2019-06-12 15:04:56.08 本机错峰时间: 253 秒 
+2019-06-12 15:04:55.37 使用FTP方式进行下载 D:\weihu\McafeeUpdate\bin\..\tmp\update.list 
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+lcd /
+目前的本地目录 D:\。
+bin
+200 Type set to I.
+get D:\weihu\McafeeUpdate\bin\..\tmp\update.list
+200 PORT command successful.
+550 The parameter is incorrect. 
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 15:04:58.78 FTP方式下载 D:\weihu\McafeeUpdate\bin\..\tmp\update.list 失败,可能网络链接存在问题，请联系开发者进行处理 
+2019-06-12 16:05:42.51 本机错峰时间: 253 秒 
+2019-06-12 16:05:42.73 本机错峰时间: 253 秒 
+2019-06-12 16:05:42.07 使用FTP方式进行下载 D:\weihu\McafeeUpdate\bin\..\tmp\update.list 
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+lcd \
+目前的本地目录 D:\。
+bin
+200 Type set to I.
+get D:\weihu\McafeeUpdate\bin\..\tmp\update.list
+200 PORT command successful.
+550 The parameter is incorrect. 
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 16:05:44.86 FTP方式下载 D:\weihu\McafeeUpdate\bin\..\tmp\update.list 失败,可能网络链接存在问题，请联系开发者进行处理 
+2019-06-12 21:22:18.97 使用FTP方式进行下载 update.list 
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+lcd "= 
+= : 找不到文件 
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 6.55千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 21:22:53.92 FTP方式下载 update.list 完成 
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+lcd "= 
+= : 找不到文件 
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 6.86千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 21:24:46.72 FTP方式下载 update.list 完成 
+2019-06-12 22:51:40.46 使用FTP方式 下载 update.list D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+lcd D:\weihu\McafeeUpdate\bin\..\tmp\
+\weihu\McafeeUpdate\bin\..\tmp\: 找不到文件 
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 6.86千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 22:51:41.23 FTP方式下载 update.list 完成 
+2019-06-12 22:51:56.61 使用FTP方式 下载 update.list D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+lcd D:\weihu\McafeeUpdate\bin\..\tmp\
+\weihu\McafeeUpdate\bin\..\tmp\: 找不到文件 
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 6.86千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 22:51:57.31 FTP方式下载 update.list 完成 
+2019-06-12 23:02:57.70 使用FTP方式 下载 update.list D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 6.86千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:02:58.49 FTP方式下载 update.list 完成 
+2019-06-12 23:03:51.82 使用FTP方式 下载 update.list D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 7.02千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:03:52.50 FTP方式下载 update.list 完成 
+2019-06-12 23:04:55.09 使用FTP方式 下载 update.list D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 7.38千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:04:55.79 FTP方式下载 update.list 完成 
+2019-06-12 23:06:08.74 使用FTP方式 下载 update.list D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 6.86千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:06:09.45 FTP方式下载 update.list 完成 
+2019-06-12 23:06:08.74 开始进行文件哈希值校验流程。 
+2019-06-12 23:06:08.74 文件 D:\weihu\McafeeUpdate\history\2019-06-12\update.list 的HASH值为:CertUtil:系统找不到指定的文件。 
+2019-06-12 23:06:08.74 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\tmp\last.update 不合法 
+2019-06-12 23:06:09.65 本机错峰时间: 253 秒 
+2019-06-12 23:06:09.66 现有文件size:!CurrentFileSize! 上一次更新文件size:!OldUpdateFileSize!  
+2019-06-12 23:06:09.66 使用下载更新文件长度：0 
+2019-06-12 23:06:09.67  更新失败，等待网络恢复后再次更新。 
+2019-06-12 23:06:09.67 更新文件安装已完成 
+2019-06-12 23:06:08.74 本次更新操作已完成。 
+2019-06-12 23:07:51.24 使用FTP方式 下载 update.list D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 6.86千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:07:51.99 FTP方式下载 update.list 完成 
+2019-06-12 23:07:51.24 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\history\2019-06-12\update.list 不合法 
+2019-06-12 23:07:51.24 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\tmp\last.update 不合法 
+2019-06-12 23:07:52.03 本机错峰时间: 253 秒 
+2019-06-12 23:07:52.03 现有文件size:!CurrentFileSize! 上一次更新文件size:!OldUpdateFileSize!  
+2019-06-12 23:07:52.03 使用下载更新文件长度：0 
+2019-06-12 23:07:52.04  更新失败，等待网络恢复后再次更新。 
+2019-06-12 23:07:52.04 更新文件安装已完成 
+2019-06-12 23:07:51.24 本次更新操作已完成。 
+2019-06-12 23:09:22.62 使用FTP方式 下载 update.list D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 6.86千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:09:23.35 FTP方式下载 update.list 完成 
+2019-06-12 23:09:22.62 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\history\2019-06-12\update.list 不合法 
+2019-06-12 23:09:22.62 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\tmp\last.update 不合法 
+2019-06-12 23:09:23.39 本机错峰时间: 253 秒 
+2019-06-12 23:09:23.40 现有文件size:!CurrentFileSize! 上一次更新文件size:!OldUpdateFileSize!  
+2019-06-12 23:09:23.40 使用下载更新文件长度：0 
+2019-06-12 23:09:23.41  更新失败，等待网络恢复后再次更新。 
+2019-06-12 23:09:23.41 更新文件安装已完成 
+2019-06-12 23:09:22.62 本次更新操作已完成。 
+2019-06-12 23:14:43.99 使用FTP方式 下载 update.list 至 D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 6.86千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:14:44.75 FTP方式下载 update.list 完成 
+2019-06-12 23:14:43.99 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\history\2019-06-12\update.list 不合法 
+2019-06-12 23:14:43.99 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\tmp\last.update 不合法 
+2019-06-12 23:14:44.79 本机错峰时间: 253 秒 
+2019-06-12 23:14:44.80 现有文件size:!CurrentFileSize! 上一次更新文件size:!OldUpdateFileSize!  
+2019-06-12 23:14:44.80 使用下载更新文件长度：0 
+2019-06-12 23:14:44.81  更新失败，等待网络恢复后再次更新。 
+2019-06-12 23:14:44.81 更新文件安装已完成 
+2019-06-12 23:14:43.99 本次更新操作已完成。 
+2019-06-12 23:16:31.29 使用FTP方式 下载 update.list 至 D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 7.02千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:16:32.03 FTP方式下载 update.list 完成 
+2019-06-12 23:16:31.29 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\history\2019-06-12\update.list 不合法 
+2019-06-12 23:16:31.29 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\tmp\last.update 不合法 
+2019-06-12 23:16:32.06 本机错峰时间: 253 秒 
+2019-06-12 23:16:32.07 现有文件size:!CurrentFileSize! 上一次更新文件size:!OldUpdateFileSize!  
+2019-06-12 23:16:32.07 使用下载更新文件长度：0 
+2019-06-12 23:16:32.08  更新失败，等待网络恢复后再次更新。 
+2019-06-12 23:16:32.08 更新文件安装已完成 
+2019-06-12 23:16:31.29 本次更新操作已完成。 
+2019-06-12 23:18:38.71 使用FTP方式 下载 update.list 至 D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 7.02千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:18:39.45 FTP方式下载 update.list 完成 
+2019-06-12 23:18:38.71 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\history\2019-06-12\update.list 不合法 
+2019-06-12 23:18:38.71 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\tmp\last.update 不合法 
+2019-06-12 23:18:39.48 本机错峰时间: 253 秒 
+2019-06-12 23:18:39.49 现有文件size:!CurrentFileSize! 上一次更新文件size:!OldUpdateFileSize!  
+2019-06-12 23:18:39.49 使用下载更新文件长度：0 
+2019-06-12 23:18:39.50  更新失败，等待网络恢复后再次更新。 
+2019-06-12 23:18:39.50 更新文件安装已完成 
+2019-06-12 23:18:38.71 本次更新操作已完成。 
+2019-06-12 23:19:02.92 使用FTP方式 下载 update.list 至 D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 7.02千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:19:03.60 FTP方式下载 update.list 完成 
+2019-06-12 23:19:02.92 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\history\2019-06-12\update.list 不合法 
+2019-06-12 23:19:02.92 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\tmp\last.update 不合法 
+2019-06-12 23:19:03.63 本机错峰时间: 253 秒 
+2019-06-12 23:19:03.64 现有文件size:!CurrentFileSize! 上一次更新文件size:!OldUpdateFileSize!  
+2019-06-12 23:19:03.64 使用下载更新文件长度：0 
+2019-06-12 23:19:03.65  更新失败，等待网络恢复后再次更新。 
+2019-06-12 23:19:03.65 更新文件安装已完成 
+2019-06-12 23:19:02.92 本次更新操作已完成。 
+2019-06-12 23:20:42.19 使用FTP方式 下载 update.list 至 D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 6.86千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:20:42.93 FTP方式下载 update.list 完成 
+2019-06-12 23:20:42.19 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\history\2019-06-12\update.list 不合法 
+2019-06-12 23:20:42.19 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\tmp\last.update 不合法 
+2019-06-12 23:20:42.96 本机错峰时间: 253 秒 
+2019-06-12 23:20:42.96 本次更新:782d39bac87adc5238fbd6e3a2624df67c58c258错峰等待时间 253 秒 
+2019-06-12 23:20:42.96 更新更新:782d39bac87adc5238fbd6e3a2624df67c58c258错峰等待完成,准备执行下载流程 
+2019-06-12 23:20:42.19 使用FTP方式 下载 Update/9241xdat.exe 至 /
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get Update/9241xdat.exe
+200 PORT command successful.
+550 The system cannot find the path specified. 
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:24:55.45 FTP方式下载 Update/9241xdat.exe 失败,可能网络链接存在问题，请联系开发者进行处理 
+2019-06-12 23:20:42.96 执行下载流程完成 
+2019-06-12 23:20:42.96 本次更新:33c8e95aa436f82b753657c6a741fb56872e1044错峰等待时间 253 秒 
+2019-06-12 23:20:42.96 更新更新:33c8e95aa436f82b753657c6a741fb56872e1044错峰等待完成,准备执行下载流程 
+2019-06-12 23:28:26.92 使用FTP方式 下载 update.list 至 D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 7.02千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:28:27.68 FTP方式下载 update.list 完成 
+2019-06-12 23:28:26.92 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\history\2019-06-12\update.list 不合法 
+2019-06-12 23:28:26.92 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\tmp\last.update 不合法 
+2019-06-12 23:28:27.71 本机错峰时间: 253 秒 
+2019-06-12 23:28:27.72 现有文件size:!CurrentFileSize! 上一次更新文件size:!OldUpdateFileSize!  
+2019-06-12 23:28:27.72 使用下载更新文件长度：0 
+2019-06-12 23:28:27.72  更新失败，等待网络恢复后再次更新。 
+2019-06-12 23:28:27.72 更新文件安装已完成 
+2019-06-12 23:28:26.92 本次更新操作已完成。 
+2019-06-12 23:31:52.13 使用FTP方式 下载 update.list 至 D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 7.02千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:31:52.86 FTP方式下载 update.list 完成 
+2019-06-12 23:31:52.13 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\history\2019-06-12\update.list 不合法 
+2019-06-12 23:31:52.13 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\tmp\last.update 不合法 
+2019-06-12 23:31:52.88 本机错峰时间: 253 秒 
+2019-06-12 23:31:52.88 现有文件size:!CurrentFileSize! 上一次更新文件size:!OldUpdateFileSize!  
+2019-06-12 23:31:52.88 使用下载更新文件长度：0 
+2019-06-12 23:31:52.88  更新失败，等待网络恢复后再次更新。 
+2019-06-12 23:31:52.89 更新文件安装已完成 
+2019-06-12 23:31:52.13 本次更新操作已完成。 
+2019-06-12 23:32:30.93 使用FTP方式 下载 update.list 至 D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 6.86千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:32:31.61 FTP方式下载 update.list 完成 
+2019-06-12 23:32:30.93 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\history\2019-06-12\update.list 不合法 
+2019-06-12 23:32:30.93 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\history\2019-06-12\update.list 不合法 
+2019-06-12 23:32:30.93 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\history\2019-06-12\update.list 不合法 
+2019-06-12 23:34:00.48 使用FTP方式 下载 update.list 至 D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 6.86千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:34:01.42 FTP方式下载 update.list 完成 
+2019-06-12 23:34:00.48 开始进行文件哈希值校验流程。 
+2019-06-12 23:34:00.48 文件 D:\weihu\McafeeUpdate\history\2019-06-12\ 的HASH值为:CertUtil:系统找不到指定的文件。 
+2019-06-12 23:35:08.37 使用FTP方式 下载 update.list 至 D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 7.20千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:35:09.38 FTP方式下载 update.list 完成 
+2019-06-12 23:35:08.37 开始进行文件哈希值校验流程。 
+2019-06-12 23:35:08.37 文件 D:\weihu\McafeeUpdate\history\2019-06-12\ 的HASH值为:CertUtil:系统找不到指定的文件。 
+2019-06-12 23:35:55.33 使用FTP方式 下载 update.list 至 D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 6.86千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:35:56.45 FTP方式下载 update.list 完成 
+2019-06-12 23:35:55.33 开始进行文件哈希值校验流程。 
+2019-06-12 23:35:55.33 文件 D:\weihu\McafeeUpdate\history\2019-06-12\ 的HASH值为:CertUtil:系统找不到指定的文件。 
+2019-06-12 23:39:46.47 使用FTP方式 下载 update.list 至 D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 6.86千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:39:47.63 FTP方式下载 update.list 完成 
+2019-06-12 23:39:46.47 开始进行文件哈希值校验流程。 
+2019-06-12 23:39:46.47 文件 D:\weihu\McafeeUpdate\history\2019-06-12\update.list 的HASH值为:44f3959b2bb6152c60d258e2160f3023d9ddd3fd 
+2019-06-12 23:40:03.69 使用FTP方式 下载 update.list 至 D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 7.02千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:40:04.79 FTP方式下载 update.list 完成 
+2019-06-12 23:40:03.69 开始进行文件哈希值校验流程。 
+2019-06-12 23:40:03.69 文件 D:\weihu\McafeeUpdate\history\2019-06-12\update.list 的HASH值为:44f3959b2bb6152c60d258e2160f3023d9ddd3fd 
+2019-06-12 23:41:48.92 使用FTP方式 下载 update.list 至 D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 6.86千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:41:49.93 FTP方式下载 update.list 完成 
+2019-06-12 23:41:48.92 开始进行文件哈希值校验流程。 
+2019-06-12 23:41:48.92 文件 D:\weihu\McafeeUpdate\history\2019-06-12\update.list 的HASH值为:44f3959b2bb6152c60d258e2160f3023d9ddd3fd 
+2019-06-12 23:42:14.84 使用FTP方式 下载 update.list 至 D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 7.02千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:42:15.61 FTP方式下载 update.list 完成 
+2019-06-12 23:42:14.84 开始进行文件哈希值校验流程。 
+2019-06-12 23:42:14.84 文件 D:\weihu\McafeeUpdate\history\2019-06-12\update.list 的HASH值为:44f3959b2bb6152c60d258e2160f3023d9ddd3fd 
+2019-06-12 23:42:14.84 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\tmp\last.update 不合法 
+2019-06-12 23:42:15.80 本机错峰时间: 253 秒 
+2019-06-12 23:42:15.81 本次更新:782d39bac87adc5238fbd6e3a2624df67c58c258错峰等待时间 253 秒 
+2019-06-12 23:42:15.81 更新更新:782d39bac87adc5238fbd6e3a2624df67c58c258错峰等待完成,准备执行下载流程 
+2019-06-12 23:42:14.84 使用FTP方式 下载 Update/9241xdat.exe 至 /
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get Update/9241xdat.exe
+200 PORT command successful.
+550 The system cannot find the path specified. 
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:42:30.30 FTP方式下载 Update/9241xdat.exe 失败,可能网络链接存在问题，请联系开发者进行处理 
+2019-06-12 23:42:15.81 执行下载流程完成 
+2019-06-12 23:42:15.81 本次更新:33c8e95aa436f82b753657c6a741fb56872e1044错峰等待时间 253 秒 
+2019-06-12 23:42:15.81 更新更新:33c8e95aa436f82b753657c6a741fb56872e1044错峰等待完成,准备执行下载流程 
+2019-06-12 23:42:14.84 使用FTP方式 下载 Update/9246xdat.exe 至 /
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get Update/9246xdat.exe
+200 PORT command successful.
+550 The system cannot find the path specified. 
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:45:54.43 FTP方式下载 Update/9246xdat.exe 失败,可能网络链接存在问题，请联系开发者进行处理 
+2019-06-12 23:42:15.81 执行下载流程完成 
+2019-06-12 23:42:15.81 本次更新:5e25512583ede2e293340d8bfba3f40f97d85ab5错峰等待时间 253 秒 
+2019-06-12 23:42:15.81 更新更新:5e25512583ede2e293340d8bfba3f40f97d85ab5错峰等待完成,准备执行下载流程 
+2019-06-12 23:42:14.84 使用FTP方式 下载 Update/9248xdat.exe 至 /
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get Update/9248xdat.exe
+200 PORT command successful.
+550 The system cannot find the path specified. 
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:45:55.42 FTP方式下载 Update/9248xdat.exe 失败,可能网络链接存在问题，请联系开发者进行处理 
+2019-06-12 23:42:15.81 执行下载流程完成 
+2019-06-12 23:42:15.81 本次更新:55df11afbdb24d89159cf231f181bd1de165e695错峰等待时间 253 秒 
+2019-06-12 23:42:15.81 更新更新:55df11afbdb24d89159cf231f181bd1de165e695错峰等待完成,准备执行下载流程 
+2019-06-12 23:42:14.84 使用FTP方式 下载 Update/9256xdat.exe 至 /
+----FTP传输日志开始---- 
+----FTP传输日志结束---- 
+2019-06-12 23:45:56.32 FTP方式下载 Update/9256xdat.exe 失败,可能网络链接存在问题，请联系开发者进行处理 
+2019-06-12 23:42:15.81 执行下载流程完成 
+2019-06-12 23:46:00.22 使用FTP方式 下载 update.list 至 D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 7.02千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:46:01.05 FTP方式下载 update.list 完成 
+2019-06-12 23:46:00.22 开始进行文件哈希值校验流程。 
+2019-06-12 23:46:00.22 文件 D:\weihu\McafeeUpdate\history\2019-06-12\update.list 的HASH值为:44f3959b2bb6152c60d258e2160f3023d9ddd3fd 
+2019-06-12 23:46:00.22 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\tmp\last.update 不合法 
+当前更新源列表 D:\weihu\McafeeUpdate\bin\..\history\2019-06-12\update.list  Hash： 44f3959b2bb6152c60d258e2160f3023d9ddd3fd 
+上一次更新源 D:\weihu\McafeeUpdate\bin\..\tmp\last.update Hash:  null 
+2019-06-12 23:46:01.24 本机错峰时间: 253 秒 
+2019-06-12 23:46:01.24 本次更新:782d39bac87adc5238fbd6e3a2624df67c58c258错峰等待时间 253 秒 
+2019-06-12 23:46:01.24 更新更新:782d39bac87adc5238fbd6e3a2624df67c58c258错峰等待完成,准备执行下载流程 
+2019-06-12 23:46:00.22 使用FTP方式 下载 Update/9241xdat.exe 至 /
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get Update/9241xdat.exe
+200 PORT command successful.
+550 The system cannot find the path specified. 
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:47:08.80 FTP方式下载 Update/9241xdat.exe 失败,可能网络链接存在问题，请联系开发者进行处理 
+2019-06-12 23:46:01.24 执行下载流程完成 
+2019-06-12 23:46:01.24 本次更新:33c8e95aa436f82b753657c6a741fb56872e1044错峰等待时间 253 秒 
+2019-06-12 23:46:01.24 更新更新:33c8e95aa436f82b753657c6a741fb56872e1044错峰等待完成,准备执行下载流程 
+2019-06-12 23:46:00.22 使用FTP方式 下载 Update/9246xdat.exe 至 /
+----FTP传输日志开始---- 
+----FTP传输日志结束---- 
+2019-06-12 23:47:09.41 FTP方式下载 Update/9246xdat.exe 失败,可能网络链接存在问题，请联系开发者进行处理 
+2019-06-12 23:46:01.24 执行下载流程完成 
+2019-06-12 23:46:01.24 本次更新:5e25512583ede2e293340d8bfba3f40f97d85ab5错峰等待时间 253 秒 
+2019-06-12 23:46:01.24 更新更新:5e25512583ede2e293340d8bfba3f40f97d85ab5错峰等待完成,准备执行下载流程 
+2019-06-12 23:46:00.22 使用FTP方式 下载 Update/9248xdat.exe 至 /
+----FTP传输日志开始---- 
+----FTP传输日志结束---- 
+2019-06-12 23:47:09.77 FTP方式下载 Update/9248xdat.exe 失败,可能网络链接存在问题，请联系开发者进行处理 
+2019-06-12 23:46:01.24 执行下载流程完成 
+2019-06-12 23:46:01.24 本次更新:55df11afbdb24d89159cf231f181bd1de165e695错峰等待时间 253 秒 
+2019-06-12 23:46:01.24 更新更新:55df11afbdb24d89159cf231f181bd1de165e695错峰等待完成,准备执行下载流程 
+2019-06-12 23:46:00.22 使用FTP方式 下载 Update/9256xdat.exe 至 /
+----FTP传输日志开始---- 
+----FTP传输日志结束---- 
+2019-06-12 23:47:10.20 FTP方式下载 Update/9256xdat.exe 失败,可能网络链接存在问题，请联系开发者进行处理 
+2019-06-12 23:46:01.24 执行下载流程完成 
+2019-06-12 23:47:12.30 使用FTP方式 下载 update.list 至 D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 6.86千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:47:13.10 FTP方式下载 update.list 完成 
+2019-06-12 23:47:12.30 开始进行文件哈希值校验流程。 
+2019-06-12 23:47:12.30 文件 D:\weihu\McafeeUpdate\history\2019-06-12\update.list 的HASH值为:44f3959b2bb6152c60d258e2160f3023d9ddd3fd 
+2019-06-12 23:47:12.30 hash 输入参数:D:\weihu\McafeeUpdate\bin\..\tmp\last.update 不合法 
+当前更新源列表 D:\weihu\McafeeUpdate\bin\..\history\2019-06-12\update.list  Hash： 44f3959b2bb6152c60d258e2160f3023d9ddd3fd 
+上一次更新源 D:\weihu\McafeeUpdate\bin\..\tmp\last.update Hash:  null 
+2019-06-12 23:47:13.30 本机错峰时间: 253 秒 
+2019-06-12 23:47:13.30 本次更新:782d39bac87adc5238fbd6e3a2624df67c58c258错峰等待时间 253 秒 
+2019-06-12 23:47:13.30 更新更新:782d39bac87adc5238fbd6e3a2624df67c58c258错峰等待完成,准备执行下载流程 
+2019-06-12 23:47:12.30 使用FTP方式 下载 Update/9241xdat.exe 至 /
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get Update/9241xdat.exe
+200 PORT command successful.
+550 The system cannot find the path specified. 
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:49:08.00 FTP方式下载 Update/9241xdat.exe 失败,可能网络链接存在问题，请联系开发者进行处理 
+2019-06-12 23:47:13.30 执行下载流程完成 
+2019-06-12 23:47:13.30 本次更新:33c8e95aa436f82b753657c6a741fb56872e1044错峰等待时间 253 秒 
+2019-06-12 23:47:13.30 更新更新:33c8e95aa436f82b753657c6a741fb56872e1044错峰等待完成,准备执行下载流程 
+2019-06-12 23:52:51.38 使用FTP方式 下载 update.list 至 D:\weihu\McafeeUpdate\bin\..\tmp\
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 288 字节，用时 0.04秒 6.86千字节/秒。
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:52:52.23 FTP方式下载 update.list 完成 
+2019-06-12 23:52:51.38 开始进行文件哈希值校验流程。 
+2019-06-12 23:52:51.38 文件 D:\weihu\McafeeUpdate\history\2019-06-12\update.list 的HASH值为:44f3959b2bb6152c60d258e2160f3023d9ddd3fd 
+2019-06-12 23:52:51.38 待处理文件 hash 参数:D:\weihu\McafeeUpdate\bin\..\tmp\last.update 不合法 
+当前更新源列表 D:\weihu\McafeeUpdate\bin\..\history\2019-06-12\update.list  Hash： 44f3959b2bb6152c60d258e2160f3023d9ddd3fd 
+上一次更新源 D:\weihu\McafeeUpdate\bin\..\tmp\last.update Hash:  null 
+2019-06-12 23:52:52.42 本机错峰时间: 253 秒 
+2019-06-12 23:52:52.42 本次更新:Update/9241xdat.exe 错峰等待时间 253 秒 
+2019-06-12 23:52:52.42 更新更新:Update/9241xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-12 23:52:51.38 使用FTP方式 下载 Update/9241xdat.exe 至 /
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get Update/9241xdat.exe
+200 PORT command successful.
+550 The system cannot find the path specified. 
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:52:52.67 FTP方式下载 Update/9241xdat.exe 失败,可能网络链接存在问题，请联系开发者进行处理 
+2019-06-12 23:52:52.42 执行下载流程完成 
+2019-06-12 23:52:52.42 本次更新:Update/9246xdat.exe 错峰等待时间 253 秒 
+2019-06-12 23:52:52.42 更新更新:Update/9246xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-12 23:52:51.38 使用FTP方式 下载 Update/9246xdat.exe 至 /
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get Update/9246xdat.exe
+200 PORT command successful.
+550 The system cannot find the path specified. 
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:52:52.93 FTP方式下载 Update/9246xdat.exe 失败,可能网络链接存在问题，请联系开发者进行处理 
+2019-06-12 23:52:52.42 执行下载流程完成 
+2019-06-12 23:52:52.42 本次更新:Update/9248xdat.exe 错峰等待时间 253 秒 
+2019-06-12 23:52:52.42 更新更新:Update/9248xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-12 23:52:51.38 使用FTP方式 下载 Update/9248xdat.exe 至 /
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get Update/9248xdat.exe
+200 PORT command successful.
+550 The system cannot find the path specified. 
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:52:53.20 FTP方式下载 Update/9248xdat.exe 失败,可能网络链接存在问题，请联系开发者进行处理 
+2019-06-12 23:52:52.42 执行下载流程完成 
+2019-06-12 23:52:52.42 本次更新:Update/9256xdat.exe 错峰等待时间 253 秒 
+2019-06-12 23:52:52.42 更新更新:Update/9256xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-12 23:52:51.38 使用FTP方式 下载 Update/9256xdat.exe 至 /
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 Microsoft FTP Service
+200 OPTS UTF8 command successful - UTF8 encoding now ON.
+user Mcafee 12345
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get Update/9256xdat.exe
+200 PORT command successful.
+550 The system cannot find the path specified. 
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-12 23:52:53.46 FTP方式下载 Update/9256xdat.exe 失败,可能网络链接存在问题，请联系开发者进行处理 
+2019-06-12 23:52:52.42 执行下载流程完成 
+2019-06-12 23:52:53.47 现有文件size:!CurrentFileSize! 上一次更新文件size:!OldUpdateFileSize!  
+2019-06-12 23:52:53.47 使用下载更新文件长度：0 
+2019-06-12 23:52:53.48  更新失败，等待网络恢复后再次更新。 
+2019-06-12 23:52:53.49 更新文件安装已完成 
+2019-06-12 23:52:51.38 本次更新操作已完成。 

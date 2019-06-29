@@ -1,0 +1,642 @@
+2019-06-20 21:34:43.20  开始进行文件签名校验流程。 
+2019-06-20 21:34:43.20  文件签名校验结果: 
+	Publisher:	Sysinternals 	Description:	File 	Product:	Sysinternals 	Version:	1.71 	File  
+2019-06-20 21:34:43.20  文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 21:36:36.00 开始进行文件签名校验流程。 
+2019-06-20 21:36:37.35 文件签名校验结果: 
+	Publisher:	Sysinternals 	Description:	File 	Product:	Sysinternals 	Version:	1.71 	File  
+2019-06-20 21:36:37.40 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 21:37:14.68 开始进行文件签名校验流程。 
+2019-06-20 21:44:35.25 开始进行文件签名校验流程。 
+2019-06-20 21:44:51.82 开始进行文件签名校验流程。 
+2019-06-20 21:44:55.64 开始进行文件签名校验流程。 
+2019-06-20 21:45:16.10 开始进行文件签名校验流程。 
+2019-06-20 21:45:17.46 文件签名校验结果: 
+	Publisher:	Sysinternals 	Description:	File 	Product:	Sysinternals 	Version:	1.71 	File  
+2019-06-20 21:45:17.51 数字签名损坏或未签名。 
+2019-06-20 21:45:29.54 开始进行文件签名校验流程。 
+2019-06-20 21:45:29.85 文件签名校验结果: 
+	Publisher:	Sysinternals 	Description:	File 	Product:	Sysinternals 	Version:	1.71 	File  
+2019-06-20 21:45:29.89 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 21:45:31.73 开始进行文件签名校验流程。 
+2019-06-20 21:45:32.06 文件签名校验结果: 
+	Publisher:	Sysinternals 	Description:	File 	Product:	Sysinternals 	Version:	1.71 	File  
+2019-06-20 21:45:32.10 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 22:41:05.60 开始进行文件签名校验流程。 
+2019-06-20 22:41:07.03 文件签名校验结果: 
+	Publisher:	Sysinternals 	Description:	File 	Product:	Sysinternals 	Version:	1.71 	File  
+2019-06-20 22:41:07.07 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 22:42:15.62 开始进行文件签名校验流程。 
+2019-06-20 22:42:16.96 文件签名校验结果: 
+	Publisher:	Sysinternals 	Description:	File 	Product:	Sysinternals 	Version:	1.71 	File  
+2019-06-20 22:42:17.01 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 22:42:55.35 开始进行文件签名校验流程。 
+2019-06-20 22:42:56.70 文件签名校验结果: 
+	Signing 	Publisher:	Sysinternals 	Description:	File 	Product:	Sysinternals 	Version:	1.71 	File  
+2019-06-20 22:42:56.75 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 22:43:52.07 开始进行文件签名校验流程。 
+2019-06-20 22:43:53.42 文件签名校验结果: 
+date:	3:56 - version Sigcheck version:	1.71  
+2019-06-20 22:43:53.46 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 22:44:43.00 开始进行文件签名校验流程。 
+2019-06-20 22:44:44.34 文件签名校验结果: 
+c:\weihu\mcafeeupdate\drive\validation\sigcheck.exe:
+	Verified:	Signed
+	Signing date:	3:56 2010-10-13
+	Publisher:	Sysinternals - www.sysinternals.com
+	Description:	File version and signature viewer
+	Product:	Sysinternals Sigcheck
+	Version:	1.71
+	File version:	1.71
+date:	3:56 - version Sigcheck version:	1.71  
+2019-06-20 22:44:44.39 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 22:45:38.56 开始进行文件签名校验流程。 
+2019-06-20 22:45:38.65 文件签名校验结果: 
+C:\Documents and Settings\Administrator\NTUSER.DAT:
+	Verified:	Error accessing file
+	Publisher:	n/a
+	Description:	n/a
+	Product:	n/a
+	Version:	n/a
+	File version:	n/a
+C:\Documents and Settings\Administrator\ntuser.dat.LOG:
+	Verified:	Error accessing file
+	Publisher:	n/a
+	Description:	n/a
+	Product:	n/a
+	Version:	n/a
+	File version:	n/a
+C:\Documents and Settings\Administrator\ntuser.ini:
+	Verified:	Unsigned
+	File date:	23:37 2019-6-18
+	Publisher:	n/a
+	Description:	n/a
+	Product:	n/a
+	Version:	n/a
+	File version:	n/a
+C:\Documents and Settings\Administrator\ntuser.pol:
+	Verified:	Unsigned
+	File date:	13:30 2017-8-1
+	Publisher:	n/a
+	Description:	n/a
+	Product:	n/a
+	Version:	n/a
+	File version:	n/a
+version:	n/a and accessing version:	n/a and date:	23:37 version:	n/a and date:	13:30 version:	n/a  
+2019-06-20 22:45:38.73 数字签名损坏或未签名。 
+2019-06-20 22:49:56.50 开始进行文件签名校验流程。 
+2019-06-20 22:49:56.62 文件签名校验结果: 
+C:\Documents and Settings\Administrator\NTUSER.DAT:
+	Verified:	Error accessing file
+	Publisher:	n/a
+	Description:	n/a
+	Product:	n/a
+	Version:	n/a
+	File version:	n/a
+C:\Documents and Settings\Administrator\ntuser.dat.LOG:
+	Verified:	Error accessing file
+	Publisher:	n/a
+	Description:	n/a
+	Product:	n/a
+	Version:	n/a
+	File version:	n/a
+C:\Documents and Settings\Administrator\ntuser.ini:
+	Verified:	Unsigned
+	File date:	23:37 2019-6-18
+	Publisher:	n/a
+	Description:	n/a
+	Product:	n/a
+	Version:	n/a
+	File version:	n/a
+C:\Documents and Settings\Administrator\ntuser.pol:
+	Verified:	Unsigned
+	File date:	13:30 2017-8-1
+	Publisher:	n/a
+	Description:	n/a
+	Product:	n/a
+	Version:	n/a
+	File version:	n/a
+n/a n/a n/a n/a n/a Error accessing file n/a n/a n/a n/a n/a Unsigned 23:37 2019-6-18 n/a n/a n/a n/a n/a Unsigned 13:30 2017-8-1 n/a n/a n/a n/a n/a  
+2019-06-20 22:49:56.78 数字签名损坏或未签名。 
+2019-06-20 22:50:33.70 开始进行文件签名校验流程。 
+2019-06-20 22:50:33.79 文件签名校验结果: 
+n/a n/a n/a n/a n/a Error accessing file n/a n/a n/a n/a n/a Unsigned 23:37 2019-6-18 n/a n/a n/a n/a n/a Unsigned 13:30 2017-8-1 n/a n/a n/a n/a n/a  
+2019-06-20 22:50:34.01 数字签名损坏或未签名。 
+2019-06-20 22:51:14.87 开始进行文件签名校验流程。 
+2019-06-20 22:51:14.98 文件签名校验结果: 
+n/a 
+n/a n/a 
+n/a n/a 
+n/a n/a 
+n/a n/a 
+n/a Error accessing file 
+Error accessing file n/a 
+n/a n/a 
+n/a n/a 
+n/a n/a 
+n/a n/a 
+n/a Unsigned 
+Unsigned 23:37 2019-6-18 
+23:37 2019-6-18 n/a 
+n/a n/a 
+n/a n/a 
+n/a n/a 
+n/a n/a 
+n/a Unsigned 
+Unsigned 13:30 2017-8-1 
+13:30 2017-8-1 n/a 
+n/a n/a 
+n/a n/a 
+n/a n/a 
+n/a n/a 
+n/a  
+2019-06-20 22:51:15.23 数字签名损坏或未签名。 
+2019-06-20 22:53:22.20 开始进行文件签名校验流程。 
+2019-06-20 22:53:22.29 文件签名校验结果: 
+Publisher n/a  
+Publisher Description n/a  
+Description Product n/a  
+Product Version n/a  
+Version File version n/a  
+File version C \Documents and Settings\Administrator\ntuser.dat.LOG  
+C Verified Error accessing file  
+Verified Publisher n/a  
+Publisher Description n/a  
+Description Product n/a  
+Product Version n/a  
+Version File version n/a  
+File version C \Documents and Settings\Administrator\ntuser.ini  
+C Verified Unsigned  
+Verified File date 23 37 2019-6-18 
+File date Publisher n/a  
+Publisher Description n/a  
+Description Product n/a  
+Product Version n/a  
+Version File version n/a  
+File version C \Documents and Settings\Administrator\ntuser.pol  
+C Verified Unsigned  
+Verified File date 13 30 2017-8-1 
+File date Publisher n/a  
+Publisher Description n/a  
+Description Product n/a  
+Product Version n/a  
+Version File version n/a  
+File version  
+2019-06-20 22:53:22.57 数字签名损坏或未签名。 
+2019-06-20 22:53:46.42 开始进行文件签名校验流程。 
+2019-06-20 22:53:46.51 文件签名校验结果: 
+Publisher-n/a- 
+Publisher Description-n/a- 
+Description Product-n/a- 
+Product Version-n/a- 
+Version File version-n/a- 
+File version C-\Documents and Settings\Administrator\ntuser.dat.LOG- 
+C Verified-Error accessing file- 
+Verified Publisher-n/a- 
+Publisher Description-n/a- 
+Description Product-n/a- 
+Product Version-n/a- 
+Version File version-n/a- 
+File version C-\Documents and Settings\Administrator\ntuser.ini- 
+C Verified-Unsigned- 
+Verified File date-23-37 2019-6-18 
+File date Publisher-n/a- 
+Publisher Description-n/a- 
+Description Product-n/a- 
+Product Version-n/a- 
+Version File version-n/a- 
+File version C-\Documents and Settings\Administrator\ntuser.pol- 
+C Verified-Unsigned- 
+Verified File date-13-30 2017-8-1 
+File date Publisher-n/a- 
+Publisher Description-n/a- 
+Description Product-n/a- 
+Product Version-n/a- 
+Version File version-n/a- 
+File version  
+2019-06-20 22:53:46.79 数字签名损坏或未签名。 
+2019-06-20 22:54:38.82 开始进行文件签名校验流程。 
+2019-06-20 22:54:38.92 文件签名校验结果: 
+C:\Documents and Settings\Administrator\NTUSER.DAT:
+	Verified:	Error accessing file
+	Publisher:	n/a
+	Description:	n/a
+	Product:	n/a
+	Version:	n/a
+	File version:	n/a
+C:\Documents and Settings\Administrator\ntuser.dat.LOG:
+	Verified:	Error accessing file
+	Publisher:	n/a
+	Description:	n/a
+	Product:	n/a
+	Version:	n/a
+	File version:	n/a
+C:\Documents and Settings\Administrator\ntuser.ini:
+	Verified:	Unsigned
+	File date:	23:37 2019-6-18
+	Publisher:	n/a
+	Description:	n/a
+	Product:	n/a
+	Version:	n/a
+	File version:	n/a
+C:\Documents and Settings\Administrator\ntuser.pol:
+	Verified:	Unsigned
+	File date:	13:30 2017-8-1
+	Publisher:	n/a
+	Description:	n/a
+	Product:	n/a
+	Version:	n/a
+	File version:	n/a
+Publisher-n/a- 
+Publisher Description-n/a- 
+Description Product-n/a- 
+Product Version-n/a- 
+Version File version-n/a- 
+File version C-\Documents and Settings\Administrator\ntuser.dat.LOG- 
+C Verified-Error accessing file- 
+Verified Publisher-n/a- 
+Publisher Description-n/a- 
+Description Product-n/a- 
+Product Version-n/a- 
+Version File version-n/a- 
+File version C-\Documents and Settings\Administrator\ntuser.ini- 
+C Verified-Unsigned- 
+Verified File date-23-37 2019-6-18 
+File date Publisher-n/a- 
+Publisher Description-n/a- 
+Description Product-n/a- 
+Product Version-n/a- 
+Version File version-n/a- 
+File version C-\Documents and Settings\Administrator\ntuser.pol- 
+C Verified-Unsigned- 
+Verified File date-13-30 2017-8-1 
+File date Publisher-n/a- 
+Publisher Description-n/a- 
+Description Product-n/a- 
+Product Version-n/a- 
+Version File version-n/a- 
+File version  
+2019-06-20 22:54:39.21 数字签名损坏或未签名。 
+2019-06-20 22:55:03.20 开始进行文件签名校验流程。 
+2019-06-20 22:55:04.56 文件签名校验结果: 
+c:\weihu\mcafeeupdate\drive\validation\sigcheck.exe:
+	Verified:	Signed
+	Signing date:	3:56 2010-10-13
+	Publisher:	Sysinternals - www.sysinternals.com
+	Description:	File version and signature viewer
+	Product:	Sysinternals Sigcheck
+	Version:	1.71
+	File version:	1.71
+Signing date-3-56 2010-10-13 
+Signing date Publisher-Sysinternals - www.sysinternals.com- 
+Publisher Description-File version and signature viewer- 
+Description Product-Sysinternals Sigcheck- 
+Product Version-1.71- 
+Version File version-1.71- 
+File version  
+2019-06-20 22:55:04.64 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 22:56:00.10 开始进行文件签名校验流程。 
+2019-06-20 22:56:01.46 文件签名校验结果: 
+c:\weihu\mcafeeupdate\drive\validation\sigcheck.exe:
+	Verified:	Signed
+	Signing date:	3:56 2010-10-13
+	Publisher:	Sysinternals - www.sysinternals.com
+	Description:	File version and signature viewer
+	Product:	Sysinternals Sigcheck
+	Version:	1.71
+	File version:	1.71
+*Signing date:+3:56 2010-10-13- 
+Signing date: *Publisher:+Sysinternals - www.sysinternals.com- 
+Publisher: *Description:+File version and signature viewer- 
+Description: *Product:+Sysinternals Sigcheck- 
+Product: *Version:+1.71- 
+Version: *File version:+1.71- 
+File version:  
+2019-06-20 22:56:01.54 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 22:56:57.39 开始进行文件签名校验流程。 
+2019-06-20 22:56:58.73 文件签名校验结果: 
+c:\weihu\mcafeeupdate\drive\validation\sigcheck.exe:
+	Verified:	Signed
+	Signing date:	3:56 2010-10-13
+	Publisher:	Sysinternals - www.sysinternals.com
+	Description:	File version and signature viewer
+	Product:	Sysinternals Sigcheck
+	Version:	1.71
+	File version:	1.71
+*Signing date+3-56 2010-10-13 
+Signing date *Publisher+Sysinternals - www.sysinternals.com- 
+Publisher *Description+File version and signature viewer- 
+Description *Product+Sysinternals Sigcheck- 
+Product *Version+1.71- 
+Version *File version+1.71- 
+File version  
+2019-06-20 22:56:58.82 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 22:57:48.78 开始进行文件签名校验流程。 
+2019-06-20 22:57:50.12 文件签名校验结果: 
+c:\weihu\mcafeeupdate\drive\validation\sigcheck.exe:
+	Verified:	Signed
+	Signing date:	3:56 2010-10-13
+	Publisher:	Sysinternals - www.sysinternals.com
+	Description:	File version and signature viewer
+	Product:	Sysinternals Sigcheck
+	Version:	1.71
+	File version:	1.71
+*Signing date+3 
+Signing date *Publisher+Sysinternals - www.sysinternals.com 
+Publisher *Description+File version and signature viewer 
+Description *Product+Sysinternals Sigcheck 
+Product *Version+1.71 
+Version *File version+1.71 
+File version  
+2019-06-20 22:57:50.20 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 22:58:49.92 开始进行文件签名校验流程。 
+2019-06-20 22:58:51.28 文件签名校验结果: 
+c:\weihu\mcafeeupdate\drive\validation\sigcheck.exe:
+	Verified:	Signed
+	Signing date:	3:56 2010-10-13
+	Publisher:	Sysinternals - www.sysinternals.com
+	Description:	File version and signature viewer
+	Product:	Sysinternals Sigcheck
+	Version:	1.71
+	File version:	1.71
+*Signing date+3 
+*Publisher+Sysinternals - www.sysinternals.com 
+*Description+File version and signature viewer 
+*Product+Sysinternals Sigcheck 
+*Version+1.71 
+*File version+1.71 
+ 
+2019-06-20 22:58:51.35 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 22:59:34.35 开始进行文件签名校验流程。 
+2019-06-20 22:59:35.70 文件签名校验结果: 
+c:\weihu\mcafeeupdate\drive\validation\sigcheck.exe:
+	Verified:	Signed
+	Signing date:	3:56 2010-10-13
+	Publisher:	Sysinternals - www.sysinternals.com
+	Description:	File version and signature viewer
+	Product:	Sysinternals Sigcheck
+	Version:	1.71
+	File version:	1.71
+*Signing date*3*56 2010-10-13 
+*Publisher*Sysinternals - www.sysinternals.com* 
+*Description*File version and signature viewer* 
+*Product*Sysinternals Sigcheck* 
+*Version*1.71* 
+*File version*1.71* 
+ 
+2019-06-20 22:59:35.76 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 23:00:10.35 开始进行文件签名校验流程。 
+2019-06-20 23:00:11.70 文件签名校验结果: 
+c:\weihu\mcafeeupdate\drive\validation\sigcheck.exe:
+	Verified:	Signed
+	Signing date:	3:56 2010-10-13
+	Publisher:	Sysinternals - www.sysinternals.com
+	Description:	File version and signature viewer
+	Product:	Sysinternals Sigcheck
+	Version:	1.71
+	File version:	1.71
+*Signing date:*3:56 2010-10-13* 
+*Publisher:*Sysinternals - www.sysinternals.com* 
+*Description:*File version and signature viewer* 
+*Product:*Sysinternals Sigcheck* 
+*Version:*1.71* 
+*File version:*1.71* 
+ 
+2019-06-20 23:00:11.78 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 23:00:50.20 开始进行文件签名校验流程。 
+2019-06-20 23:00:51.57 文件签名校验结果: 
+c:\weihu\mcafeeupdate\drive\validation\sigcheck.exe:
+	Verified:	Signed
+	Signing date:	3:56 2010-10-13
+	Publisher:	Sysinternals - www.sysinternals.com
+	Description:	File version and signature viewer
+	Product:	Sysinternals Sigcheck
+	Version:	1.71
+	File version:	1.71
+*Verified:*Signed* 
+*Signing date:*3:56 2010-10-13* 
+*Publisher:*Sysinternals - www.sysinternals.com* 
+*Description:*File version and signature viewer* 
+*Product:*Sysinternals Sigcheck* 
+*Version:*1.71* 
+*File version:*1.71* 
+ 
+2019-06-20 23:00:51.64 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 23:02:34.09 开始进行文件签名校验流程。 
+2019-06-20 23:02:35.46 文件签名校验结果: 
+c:\weihu\mcafeeupdate\drive\validation\sigcheck.exe:
+	Verified:	Signed
+	Signing date:	3:56 2010-10-13
+	Publisher:	Sysinternals - www.sysinternals.com
+	Description:	File version and signature viewer
+	Product:	Sysinternals Sigcheck
+	Version:	1.71
+	File version:	1.71
+*Verified:*Signed+ 
+*Signing date:*3:56 2010-10-13+ 
+*Publisher:*Sysinternals - www.sysinternals.com+ 
+*Description:*File version and signature viewer+ 
+*Product:*Sysinternals Sigcheck+ 
+*Version:*1.71+ 
+*File version:*1.71+ 
+ 
+2019-06-20 23:02:35.51 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 23:03:27.00 开始进行文件签名校验流程。 
+2019-06-20 23:03:28.35 文件签名校验结果: 
+c:\weihu\mcafeeupdate\drive\validation\sigcheck.exe:
+	Verified:	Signed
+	Signing date:	3:56 2010-10-13
+	Publisher:	Sysinternals - www.sysinternals.com
+	Description:	File version and signature viewer
+	Product:	Sysinternals Sigcheck
+	Version:	1.71
+	File version:	1.71
+*Verified:*Signed+ 
+*Signing date:*3:56 2010-10-13+ 
+*Publisher:*Sysinternals - www.sysinternals.com+ 
+*Description:*File version and signature viewer+ 
+*Product:*Sysinternals Sigcheck+ 
+*Version:*1.71+ 
+ 
+2019-06-20 23:03:28.40 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 23:03:55.07 开始进行文件签名校验流程。 
+2019-06-20 23:03:55.37 文件签名校验结果: 
+c:\weihu\mcafeeupdate\drive\validation\sigcheck.exe:
+	Verified:	Signed
+	Signing date:	3:56 2010-10-13
+	Publisher:	Sysinternals - www.sysinternals.com
+	Description:	File version and signature viewer
+	Product:	Sysinternals Sigcheck
+	Version:	1.71
+	File version:	1.71
+	MD5:	84455c82454ecbb590078f93effee000
+	SHA1:	da810374103390174028c94c604f60fabd1271e8
+	SHA256:	642027cb6f4a691cf47c8e0763b2a0318ae6d593ad1205dcf7e63e1b1cf5ea1a
+*Verified:*Signed+ 
+*Signing date:*3:56 2010-10-13+ 
+*Publisher:*Sysinternals - www.sysinternals.com+ 
+*Description:*File version and signature viewer+ 
+*Product:*Sysinternals Sigcheck+ 
+*Version:*1.71+ 
+*MD5:*84455c82454ecbb590078f93effee000+ 
+*SHA1:*da810374103390174028c94c604f60fabd1271e8+ 
+*SHA256:*642027cb6f4a691cf47c8e0763b2a0318ae6d593ad1205dcf7e63e1b1cf5ea1a+ 
+ 
+2019-06-20 23:03:55.43 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 23:06:18.20 开始进行文件签名校验流程。 
+2019-06-20 23:06:19.54 文件签名校验结果: 
+c:\weihu\mcafeeupdate\drive\validation\sigcheck.exe:
+	Verified:	Signed
+	Signing date:	3:56 2010-10-13
+	Publisher:	Sysinternals - www.sysinternals.com
+	Description:	File version and signature viewer
+	Product:	Sysinternals Sigcheck
+	Version:	1.71
+	File version:	1.71
+	MD5:	84455c82454ecbb590078f93effee000
+	SHA1:	da810374103390174028c94c604f60fabd1271e8
+	SHA256:	642027cb6f4a691cf47c8e0763b2a0318ae6d593ad1205dcf7e63e1b1cf5ea1a
+Verified* 
+Signing date* 
+Publisher* 
+Description* 
+Product* 
+Version* 
+MD5* 
+SHA1* 
+SHA256* 
+ 
+2019-06-20 23:06:19.67 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 23:07:43.62 开始进行文件签名校验流程。 
+2019-06-20 23:07:44.98 文件签名校验结果: 
+c:\weihu\mcafeeupdate\drive\validation\sigcheck.exe:
+	Verified:	Signed
+	Signing date:	3:56 2010-10-13
+	Publisher:	Sysinternals - www.sysinternals.com
+	Description:	File version and signature viewer
+	Product:	Sysinternals Sigcheck
+	Version:	1.71
+	File version:	1.71
+	MD5:	84455c82454ecbb590078f93effee000
+	SHA1:	da810374103390174028c94c604f60fabd1271e8
+	SHA256:	642027cb6f4a691cf47c8e0763b2a0318ae6d593ad1205dcf7e63e1b1cf5ea1a
+Verified*Signed 
+Signing date*3:562010-10-13 
+Publisher*Sysinternals-www.sysinternals.com 
+Description*Fileversionandsignatureviewer 
+Product*SysinternalsSigcheck 
+Version*1.71 
+MD5*84455c82454ecbb590078f93effee000 
+SHA1*da810374103390174028c94c604f60fabd1271e8 
+SHA256*642027cb6f4a691cf47c8e0763b2a0318ae6d593ad1205dcf7e63e1b1cf5ea1a 
+ 
+2019-06-20 23:07:45.09 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 23:08:39.90 开始进行文件签名校验流程。 
+2019-06-20 23:08:41.26 文件签名校验结果: 
+Verified*Signed 
+Signing date*3:562010-10-13 
+Publisher*Sysinternals-www.sysinternals.com 
+Description*Fileversionandsignatureviewer 
+Product*SysinternalsSigcheck 
+Version*1.71 
+MD5*84455c82454ecbb590078f93effee000 
+SHA1*da810374103390174028c94c604f60fabd1271e8 
+SHA256*642027cb6f4a691cf47c8e0763b2a0318ae6d593ad1205dcf7e63e1b1cf5ea1a 
+ 
+2019-06-20 23:08:41.37 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 23:08:56.42 开始进行文件签名校验流程。 
+2019-06-20 23:08:56.71 文件签名校验结果: 
+Verified*Signed 
+Signing date*3:562010-10-13 
+Publisher*Sysinternals-www.sysinternals.com 
+Description*Fileversionandsignatureviewer 
+Product*SysinternalsSigcheck 
+Version*1.71 
+MD5*84455c82454ecbb590078f93effee000 
+SHA1*da810374103390174028c94c604f60fabd1271e8 
+SHA256*642027cb6f4a691cf47c8e0763b2a0318ae6d593ad1205dcf7e63e1b1cf5ea1a 
+2019-06-20 23:08:56.82 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 23:15:29.31 开始进行文件签名校验流程。 
+2019-06-20 23:15:30.67 文件签名校验结果: 
+Verified*Signed 
+Signing date*3:562010-10-13 
+Publisher*Sysinternals-www.sysinternals.com 
+Description*Fileversionandsignatureviewer 
+Product*SysinternalsSigcheck 
+Version*1.71 
+MD5*84455c82454ecbb590078f93effee000 
+SHA1*da810374103390174028c94c604f60fabd1271e8 
+SHA256*642027cb6f4a691cf47c8e0763b2a0318ae6d593ad1205dcf7e63e1b1cf5ea1a 
+2019-06-20 23:15:31.28 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 23:16:43.89 开始进行文件签名校验流程。 
+2019-06-20 23:16:45.25 文件签名校验结果: 
+2019-06-20 23:16:45.25 Verified : Signed 
+2019-06-20 23:16:45.25 Signing date : 3:562010-10-13 
+2019-06-20 23:16:45.25 Publisher : Sysinternals-www.sysinternals.com 
+2019-06-20 23:16:45.25 Description : Fileversionandsignatureviewer 
+2019-06-20 23:16:45.25 Product : SysinternalsSigcheck 
+2019-06-20 23:16:45.25 Version : 1.71 
+2019-06-20 23:16:45.25 MD5 : 84455c82454ecbb590078f93effee000 
+2019-06-20 23:16:45.25 SHA1 : da810374103390174028c94c604f60fabd1271e8 
+2019-06-20 23:16:45.25 SHA256 : 642027cb6f4a691cf47c8e0763b2a0318ae6d593ad1205dcf7e63e1b1cf5ea1a 
+2019-06-20 23:16:45.35 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 23:17:23.15 开始进行文件签名校验流程。 
+2019-06-20 23:17:24.50 文件签名校验结果: 
+2019-06-20 23:17:24.50 Verified:Signed 
+2019-06-20 23:17:24.50 Signing date:3:562010-10-13 
+2019-06-20 23:17:24.50 Publisher:Sysinternals-www.sysinternals.com 
+2019-06-20 23:17:24.50 Description:Fileversionandsignatureviewer 
+2019-06-20 23:17:24.50 Product:SysinternalsSigcheck 
+2019-06-20 23:17:24.50 Version:1.71 
+2019-06-20 23:17:24.50 MD5:84455c82454ecbb590078f93effee000 
+2019-06-20 23:17:24.50 SHA1:da810374103390174028c94c604f60fabd1271e8 
+2019-06-20 23:17:24.50 SHA256:642027cb6f4a691cf47c8e0763b2a0318ae6d593ad1205dcf7e63e1b1cf5ea1a 
+2019-06-20 23:17:24.60 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 23:46:39.54 开始进行文件签名校验流程。 
+2019-06-20 23:46:43.07 文件签名校验结果: 
+2019-06-20 23:46:43.07 Verified:Signed 
+2019-06-20 23:46:43.07 Signing date:15:282019-4-28 
+2019-06-20 23:46:43.07 Publisher:McAfee,Inc. 
+2019-06-20 23:46:43.07 Description:SuperDATStub 
+2019-06-20 23:46:43.07 Product:McAfeeCoreComponents 
+2019-06-20 23:46:43.07 Version:2.5 
+2019-06-20 23:46:43.07 MD5:44aa46c9d0b5402d144b0b9953b2b1bf 
+2019-06-20 23:46:43.07 SHA1:782d39bac87adc5238fbd6e3a2624df67c58c258 
+2019-06-20 23:46:43.07 SHA256:be2c0c965ec198f25a65823f66f75219298c6d3df2c8e7a294a0b271ffa74396 
+2019-06-20 23:46:43.18 文件:C:\weihu\McafeeUpdate\history\2019-06-20\9241xdat.exe 签名正常。 
+2019-06-20 23:47:21.62 开始进行文件签名校验流程。 
+2019-06-20 23:47:23.00 文件签名校验结果: 
+2019-06-20 23:47:23.00 Verified:Signed 
+2019-06-20 23:47:23.00 Signing date:3:562010-10-13 
+2019-06-20 23:47:23.00 Publisher:Sysinternals-www.sysinternals.com 
+2019-06-20 23:47:23.00 Description:Fileversionandsignatureviewer 
+2019-06-20 23:47:23.00 Product:SysinternalsSigcheck 
+2019-06-20 23:47:23.00 Version:1.71 
+2019-06-20 23:47:23.00 MD5:84455c82454ecbb590078f93effee000 
+2019-06-20 23:47:23.00 SHA1:da810374103390174028c94c604f60fabd1271e8 
+2019-06-20 23:47:23.00 SHA256:642027cb6f4a691cf47c8e0763b2a0318ae6d593ad1205dcf7e63e1b1cf5ea1a 
+2019-06-20 23:47:23.10 文件:C:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-06-20 23:52:43.23 开始进行文件签名校验流程。 
+2019-06-20 23:52:44.59 文件签名校验结果: 
+2019-06-20 23:52:44.59 Verified:Signed 
+2019-06-20 23:52:44.59 Signing date:3:562010-10-13 
+2019-06-20 23:52:44.59 Publisher:Sysinternals-www.sysinternals.com 
+2019-06-20 23:52:44.59 Description:Fileversionandsignatureviewer 
+2019-06-20 23:52:44.59 Product:SysinternalsSigcheck 
+2019-06-20 23:52:44.59 Version:1.71 
+2019-06-20 23:52:44.59 MD5:84455c82454ecbb590078f93effee000 
+2019-06-20 23:52:44.59 SHA1:da810374103390174028c94c604f60fabd1271e8 
+2019-06-20 23:52:44.59 SHA256:642027cb6f4a691cf47c8e0763b2a0318ae6d593ad1205dcf7e63e1b1cf5ea1a 
+2019-06-20 23:52:44.70 文件:sigcheck.exe 签名正常。 
+2019-06-20 23:53:23.78 开始进行文件签名校验流程。 
+2019-06-20 23:53:25.15 文件签名校验结果: 
+2019-06-20 23:53:25.15 Verified:Signed 
+2019-06-20 23:53:25.15 Signing date:3:562010-10-13 
+2019-06-20 23:53:25.15 Publisher:Sysinternals-www.sysinternals.com 
+2019-06-20 23:53:25.15 Description:Fileversionandsignatureviewer 
+2019-06-20 23:53:25.15 Product:SysinternalsSigcheck 
+2019-06-20 23:53:25.15 Version:1.71 
+2019-06-20 23:53:25.15 MD5:84455c82454ecbb590078f93effee000 
+2019-06-20 23:53:25.15 SHA1:da810374103390174028c94c604f60fabd1271e8 
+2019-06-20 23:53:25.15 SHA256:642027cb6f4a691cf47c8e0763b2a0318ae6d593ad1205dcf7e63e1b1cf5ea1a 
+2019-06-20 23:53:25.26 文件:sigcheck.exe 签名正常。 

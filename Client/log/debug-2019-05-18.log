@@ -1,0 +1,1005 @@
+2019-05-18  0:15:17.31  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\1333.exe 
+----FTP传输日志开始---- 
+Please login with USER and PASS.
+
+ftp> user anonymous 1111
+ftp> mkdir 192.168.5.189/2019-05-18
+ftp> cd 192.168.5.189/2019-05-18
+ftp> bin
+ftp> put G:\weihu\McafeeUpdate\history\..\..\1333.exe
+G:\weihu\McafeeUpdate\history\..\..\1333.exe: 找不到文件 
+ftp> bye
+----FTP传输日志结束---- 
+2019-05-18  0:15:17.53 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\1333.exe 完成 
+2019-05-18  0:15:37.15  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\1333.exe 
+----FTP传输日志开始---- 
+Please login with USER and PASS.
+
+ftp> user anonymous 1111
+ftp> mkdir 192.168.5.189/2019-05-18
+ftp> cd 192.168.5.189/2019-05-18
+ftp> bin
+ftp> put G:\weihu\McafeeUpdate\history\..\..\1333.exe
+G:\weihu\McafeeUpdate\history\..\..\1333.exe: 找不到文件 
+ftp> bye
+----FTP传输日志结束---- 
+2019-05-18  0:15:37.33 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\1333.exe 完成 
+2019-05-18  0:16:56.16  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+Please login with USER and PASS.
+
+ftp> user anonymous 1111
+ftp> mkdir 192.168.5.189/2019-05-18
+ftp> cd 192.168.5.189/2019-05-18
+ftp> bin
+ftp> put G:\weihu\McafeeUpdate\history\..\..\1333.exe
+G:\weihu\McafeeUpdate\history\..\..\1333.exe: 找不到文件 
+ftp> bye
+----FTP传输日志结束---- 
+2019-05-18  0:16:56.35 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-18  0:17:11.57  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+Please login with USER and PASS.
+
+ftp> user anonymous 1111
+ftp> mkdir 192.168.5.189/2019-05-18
+ftp> cd 192.168.5.189/2019-05-18
+ftp> bin
+ftp> put G:\weihu\McafeeUpdate\history\..\..\1333.exe
+G:\weihu\McafeeUpdate\history\..\..\1333.exe: 找不到文件 
+ftp> bye
+----FTP传输日志结束---- 
+2019-05-18  0:17:11.76 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-18  0:17:29.69  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+Please login with USER and PASS.
+
+ftp> user anonymous 1111
+ftp> mkdir 192.168.5.189/2019-05-18
+ftp> cd 192.168.5.189/2019-05-18
+ftp> bin
+ftp> put G:\weihu\McafeeUpdate\history\..\..\1333.exe
+G:\weihu\McafeeUpdate\history\..\..\1333.exe: 找不到文件 
+ftp> bye
+----FTP传输日志结束---- 
+2019-05-18  0:17:29.86 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-18  0:19:08.06  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+Please login with USER and PASS.
+
+ftp> user anonymous 1111
+ftp> mkdir 192.168.5.189/2019-05-18
+Directory already exists.
+
+ftp> cd 192.168.5.189/2019-05-18
+ftp> bin
+ftp> put G:\weihu\McafeeUpdate\history\..\..\333.exe
+ftp> bye
+----FTP传输日志结束---- 
+2019-05-18  0:19:09.31 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-18  0:19:29.43  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+ftp> user anonymous 1111
+未连接。
+ftp> mkdir 192.168.5.189/2019-05-18
+未连接。
+ftp> cd 192.168.5.189/2019-05-18
+未连接。
+ftp> bin
+未连接。
+ftp> put G:\weihu\McafeeUpdate\history\..\..\333.exe
+未连接。
+ftp> bye
+----FTP传输日志结束---- 
+2019-05-18  0:19:50.59 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-18  0:20:55.25  使用FTP方式进行下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+ftp> user anonymous 1111
+未连接。
+ftp> cd /
+未连接。
+ftp> lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+ftp> bin
+未连接。
+ftp> mget G:\weihu\McafeeUpdate\history\..\..\333.exe
+未连接。
+ftp> bye
+----FTP传输日志结束---- 
+2019-05-18  0:21:16.44 FTP方式下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 失败 
+2019-05-18  0:22:13.39  使用FTP方式进行下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+ftp> user anonymous 1111
+未连接。
+ftp> cd /
+未连接。
+ftp> lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+ftp> bin
+未连接。
+ftp> mget G:\weihu\McafeeUpdate\history\..\..\333.exe
+未连接。
+ftp> bye
+----FTP传输日志结束---- 
+2019-05-18  0:22:34.54 FTP方式下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-18  0:23:13.81  使用FTP方式进行下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+2019-05-18  0:23:35.58  使用FTP方式进行下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+2019-05-18  0:24:04.81  使用FTP方式进行下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+2019-05-18  0:42:06.84  使用FTP方式进行下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+ftp> user anonymous 1111
+未连接。
+ftp> cd /
+未连接。
+ftp> lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+ftp> bin
+未连接。
+ftp> get G:\weihu\McafeeUpdate\history\..\..\333.exe
+未连接。
+ftp> bye
+----FTP传输日志结束---- 
+2019-05-18  0:42:28.28 FTP方式下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-18  0:46:48.96  使用FTP方式进行下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+ftp> user anonymous 1111
+未连接。
+ftp> cd /
+未连接。
+ftp> lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+ftp> bin
+未连接。
+ftp> get G:\weihu\McafeeUpdate\history\..\..\333.exe
+未连接。
+ftp> bye
+----FTP传输日志结束---- 
+2019-05-18  0:50:39.75 FTP方式下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-18  0:53:31.53  使用FTP方式进行下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+ftp> user anonymous 1111
+未连接。
+ftp> cd /
+未连接。
+ftp> lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+ftp> bin
+未连接。
+ftp> get G:\weihu\McafeeUpdate\history\..\..\333.exe
+未连接。
+ftp> bye
+----FTP传输日志结束---- 
+2019-05-18  0:53:52.80 FTP方式下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-18  0:54:40.32  使用FTP方式进行下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+ftp> user anonymous 1111
+未连接。
+ftp> cd /
+未连接。
+ftp> lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+ftp> bin
+未连接。
+ftp> get G:\weihu\McafeeUpdate\history\..\..\333.exe
+未连接。
+ftp> bye
+----FTP传输日志结束---- 
+2019-05-18  0:55:01.71 FTP方式下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-18  1:01:32.30  使用FTP方式进行下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+ftp> user anonymous 1111
+未连接。
+ftp> cd /
+未连接。
+ftp> lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+ftp> bin
+未连接。
+ftp> get G:\weihu\McafeeUpdate\history\..\..\333.exe
+未连接。
+ftp> bye
+----FTP传输日志结束---- 
+2019-05-18  1:01:53.55 FTP方式下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-18  1:03:58.50  使用FTP方式进行下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+ftp> user anonymous 1111
+未连接。
+ftp> cd /
+未连接。
+ftp> lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+ftp> bin
+未连接。
+ftp> get G:\weihu\McafeeUpdate\history\..\..\333.exe
+未连接。
+ftp> bye
+----FTP传输日志结束---- 
+2019-05-18  1:04:19.74 FTP方式下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-18  1:05:19.48  使用FTP方式进行下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+ftp> user anonymous 1111
+未连接。
+ftp> cd /
+未连接。
+ftp> lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+ftp> bin
+未连接。
+ftp> get G:\weihu\McafeeUpdate\history\..\..\333.exe
+未连接。
+ftp> bye
+----FTP传输日志结束---- 
+2019-05-18  1:05:40.68 FTP方式下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 失败,原因：连接服务器失败  
+2019-05-18  1:06:39.80  使用FTP方式进行下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+Please login with USER and PASS.
+
+ftp> user anonymous 11111
+Not logged in, user or password incorrect!
+
+ftp> cd /
+Please login with USER and PASS.
+
+ftp> lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+ftp> bin
+Please login with USER and PASS.
+
+ftp> get G:\weihu\McafeeUpdate\history\..\..\333.exe
+Please login with USER and PASS.
+
+Please login with USER and PASS.
+
+ftp> bye
+Please login with USER and PASS.
+
+----FTP传输日志结束---- 
+2019-05-18  1:06:40.01 FTP方式下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 失败,原因：身份认证失败  
+2019-05-18  1:09:44.83  使用FTP方式进行下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+Please login with USER and PASS.
+
+ftp> user anonymous 11111
+Not logged in, user or password incorrect!
+
+ftp> cd /
+Please login with USER and PASS.
+
+ftp> lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+ftp> bin
+Please login with USER and PASS.
+
+ftp> get G:\weihu\McafeeUpdate\history\..\..\333.exe
+Please login with USER and PASS.
+
+Please login with USER and PASS.
+
+ftp> bye
+Please login with USER and PASS.
+
+----FTP传输日志结束---- 
+2019-05-18  1:09:45.04 FTP方式下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 失败,原因：身份认证失败  
+2019-05-18  1:10:08.15  使用FTP方式进行下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+Please login with USER and PASS.
+
+ftp> user anonymous 1111
+ftp> cd /
+ftp> lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+ftp> bin
+ftp> get G:\weihu\McafeeUpdate\history\..\..\333.exe
+File not found.
+
+ftp> bye
+----FTP传输日志结束---- 
+2019-05-18  1:10:08.36 FTP方式下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 失败,原因：身份认证失败  
+2019-05-18  1:12:24.74  使用FTP方式进行下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+Please login with USER and PASS.
+
+ftp> user anonymous 1111
+ftp> cd /
+ftp> lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+ftp> bin
+ftp> get G:\weihu\McafeeUpdate\history\..\..\333.exe
+File not found.
+
+ftp> bye
+----FTP传输日志结束---- 
+2019-05-18  1:12:24.98 FTP方式下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 失败,原因：请求文件不可用  
+2019-05-18  1:12:41.97  使用FTP方式进行下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+Please login with USER and PASS.
+
+ftp> user anonymous 1111
+ftp> cd /
+ftp> lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+ftp> bin
+ftp> get G:\weihu\McafeeUpdate\history\..\..\333.exe
+File not found.
+
+ftp> bye
+----FTP传输日志结束---- 
+2019-05-18  1:12:42.20 FTP方式下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 失败,原因：请求文件不可用  
+2019-05-18  1:15:01.24  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+Please login with USER and PASS.
+
+ftp> user anonymous 1111
+ftp> mkdir 192.168.5.189/2019-05-18
+Directory already exists.
+
+ftp> cd 192.168.5.189/2019-05-18
+ftp> bin
+ftp> put G:\weihu\McafeeUpdate\history\..\..\333.exe
+ftp> bye
+----FTP传输日志结束---- 
+2019-05-18  1:15:02.74 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-18  1:15:47.98  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+Please login with USER and PASS.
+
+ftp> user anonymous 1111
+ftp> mkdir 192.168.5.189/2019-05-18
+Directory already exists.
+
+ftp> cd 192.168.5.189/2019-05-18
+ftp> bin
+ftp> put G:\weihu\McafeeUpdate\history\..\..\333.exe
+ftp> bye
+----FTP传输日志结束---- 
+2019-05-18  1:15:49.30 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-18  9:53:39.25  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+ftp> user anonymous 1111
+未连接。
+ftp> mkdir G:\
+未连接。
+ftp> cd G:\
+未连接。
+ftp> bin
+未连接。
+ftp> put G:\weihu\McafeeUpdate\history\..\..\333.exe
+未连接。
+ftp> bye
+----FTP传输日志结束---- 
+2019-05-18  9:54:59.10 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 失败,原因：连接FTP服务器失败  
+2019-05-18  9:56:52.78  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+mkdir 192.168.5.189/2019-05-18
+550 Directory already exists.
+
+cd 192.168.5.189/2019-05-18
+250 "/192.168.5.189/2019-05-18" is current directory.
+bin
+200 Type set to I
+put G:\weihu\McafeeUpdate\history\..\..\333.exe
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 发送 113678096 字节，用时 21.41秒 5308.59千字节/秒。
+bye
+220 再来揍死你!!!
+----FTP传输日志结束---- 
+2019-05-18  9:57:14.75 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 失败,原因：身份认证失败  
+2019-05-18  9:59:23.00  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+mkdir D:\
+450 Internal error creating the directory.
+cd D:\
+550 "D:\": Directory not found.
+
+bin
+200 Type set to I
+put G:\weihu\McafeeUpdate\history\..\..\333.exe
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 发送 113678096 字节，用时 10.42秒 10907.51千字节/秒。
+bye
+220 再来揍死你!!!
+----FTP传输日志结束---- 
+2019-05-18  9:59:36.20 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 失败,原因：请求文件不可用  
+2019-05-18 10:10:18.46  使用FTP方式进行下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+cd /
+250 "/" is current directory.
+lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+bin
+200 Type set to I
+get G:\weihu\McafeeUpdate\history\..\..\333.exe
+200 Port command successful.
+550 File not found.
+
+bye
+220 再来揍死你!!!
+----FTP传输日志结束---- 
+2019-05-18 10:10:18.76 FTP方式下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 失败,原因：请求文件不可用  
+2019-05-18 10:20:24.20  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+mkdir 192.168.5.189/2019-05-18
+550 Directory already exists.
+
+cd 192.168.5.189/2019-05-18
+250 "/192.168.5.189/2019-05-18" is current directory.
+bin
+200 Type set to I
+put G:\weihu\McafeeUpdate\history\..\..\333.exe
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 发送 113678096 字节，用时 18.10秒 6281.25千字节/秒。
+bye
+220 再来揍死你!!!
+----FTP传输日志结束---- 
+2019-05-18 10:20:42.80 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-18 10:25:15.26  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+mkdir G:\
+450 Internal error creating the directory.
+cd G:\
+550 "G:\": Directory not found.
+
+bin
+200 Type set to I
+put G:\weihu\McafeeUpdate\history\..\..\333.exe
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 发送 113678096 字节，用时 18.01秒 6310.54千字节/秒。
+bye
+220 再来揍死你!!!
+----FTP传输日志结束---- 
+2019-05-18 10:38:41.64 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-18 10:38:51.34  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+mkdir C:\Users\Carlos\222
+450 Internal error creating the directory.
+cd C:\Users\Carlos\222
+550 "C:\Users\Carlos\222": Directory not found.
+
+bin
+200 Type set to I
+put G:\weihu\McafeeUpdate\history\..\..\333.exe
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 发送 113678096 字节，用时 18.99秒 5984.95千字节/秒。
+bye
+220 再来揍死你!!!
+----FTP传输日志结束---- 
+2019-05-18 10:39:10.65 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-18 10:41:02.99  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+mkdir 222
+250 Directory created successfully.
+cd 222
+250 "/222" is current directory.
+bin
+200 Type set to I
+put G:\weihu\McafeeUpdate\history\..\..\333.exe
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 发送 113678096 字节，用时 10.27秒 11072.18千字节/秒。
+bye
+220 再来揍死你!!!
+----FTP传输日志结束---- 
+2019-05-18 10:41:16.11 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 完成 
+2019-05-18 11:00:09.65  使用FTP方式进行下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+cd /
+250 "/" is current directory.
+lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+bin
+200 Type set to I
+get G:\weihu\McafeeUpdate\history\..\..\333.exe
+200 Port command successful.
+550 File not found.
+
+bye
+220 再来揍死你!!!
+----FTP传输日志结束---- 
+2019-05-18 11:00:10.09 FTP方式下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 失败,原因：请求文件不可用  
+2019-05-18 11:00:09.65  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+2019-05-18 11:00:41.25  使用FTP方式进行下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+cd /
+250 "/" is current directory.
+lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+bin
+200 Type set to I
+get G:\weihu\McafeeUpdate\history\..\..\333.exe
+200 Port command successful.
+550 File not found.
+
+bye
+220 再来揍死你!!!
+----FTP传输日志结束---- 
+2019-05-18 11:00:41.55 FTP方式下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 失败,原因：请求文件不可用  
+2019-05-18 11:00:41.25  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+mkdir G:\\
+450 Internal error creating the directory.
+cd G:\\
+550 "G:\\": Directory not found.
+
+bin
+200 Type set to I
+put G:\weihu\McafeeUpdate\history\..\..\333.exe
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 发送 113678096 字节，用时 18.96秒 5996.95千字节/秒。
+bye
+220 再来揍死你!!!
+----FTP传输日志结束---- 
+2019-05-18 11:01:01.03 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 失败,原因：请求文件不可用  
+2019-05-18 11:03:15.12  使用FTP方式进行下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+cd /
+250 "/" is current directory.
+lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+bin
+200 Type set to I
+get G:\weihu\McafeeUpdate\history\..\..\333.exe
+200 Port command successful.
+550 File not found.
+
+bye
+220 再来揍死你!!!
+----FTP传输日志结束---- 
+2019-05-18 11:03:15.41 FTP方式下载 G:\weihu\McafeeUpdate\history\..\..\333.exe 失败,原因：请求文件不可用  
+2019-05-18 11:03:15.12  使用FTP方式进行上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 
+----FTP传输日志开始---- 
+连接到 192.168.3.117。
+220 你Y又来了!!!
+530 Please login with USER and PASS.
+
+user anonymous 1111
+331 Password required for anonymous
+230 User successfully logged in.
+mkdir G:\\
+450 Internal error creating the directory.
+cd G:\\
+550 "G:\\": Directory not found.
+
+bin
+200 Type set to I
+put G:\weihu\McafeeUpdate\history\..\..\333.exe
+200 Port command successful.
+150 Opening BINARY mode data connection for file transfer.
+226 Transfer complete
+ftp: 发送 113678096 字节，用时 18.93秒 6003.60千字节/秒。
+bye
+220 再来揍死你!!!
+----FTP传输日志结束---- 
+2019-05-18 11:03:34.67 FTP方式上传 G:\weihu\McafeeUpdate\history\..\..\333.exe 失败,原因：请求文件不可用  
+2019-05-18 19:25:27.31  使用FTP方式进行上传 D:\Downloads\FocusTool.exe 
+----FTP传输日志开始---- 
+user anonymous 1111
+未连接。
+mkdir 192.168.5.189/2019-05-18
+未连接。
+cd 192.168.5.189/2019-05-18
+未连接。
+bin
+未连接。
+put D:\Downloads\FocusTool.exe
+未连接。
+bye
+----FTP传输日志结束---- 
+2019-05-18 19:25:49.13 FTP方式上传 D:\Downloads\FocusTool.exe 失败,原因：连接FTP服务器失败  
+2019-05-18 19:31:02.53  使用FTP方式进行上传 D:\Downloads\FocusTool.exe 
+----FTP传输日志开始---- 
+连接到 192.168.5.17。
+220 Microsoft FTP Service
+530 Please login with USER and PASS.
+
+user anonymous 1111
+331 Anonymous access allowed, send identity (e-mail name) as password.
+530 User 1111 cannot log in.
+
+mkdir 192.168.5.189/2019-05-18
+530 Please login with USER and PASS.
+
+cd 192.168.5.189/2019-05-18
+530 Please login with USER and PASS.
+
+bin
+530 Please login with USER and PASS.
+
+put D:\Downloads\FocusTool.exe
+530 Please login with USER and PASS.
+
+530 Please login with USER and PASS.
+
+bye
+221  
+----FTP传输日志结束---- 
+2019-05-18 19:31:03.02 FTP方式上传 D:\Downloads\FocusTool.exe 完成 
+2019-05-18 19:32:55.81  使用FTP方式进行上传 D:\Downloads\FocusTool.exe 
+----FTP传输日志开始---- 
+连接到 192.168.5.17。
+220 Microsoft FTP Service
+530 Please login with USER and PASS.
+
+user anonymous 1111
+331 Anonymous access allowed, send identity (e-mail name) as password.
+530 User 1111 cannot log in.
+
+mkdir 192.168.5.189/2019-05-18
+530 Please login with USER and PASS.
+
+cd 192.168.5.189/2019-05-18
+530 Please login with USER and PASS.
+
+bin
+530 Please login with USER and PASS.
+
+put D:\Downloads\FocusTool.exe
+530 Please login with USER and PASS.
+
+530 Please login with USER and PASS.
+
+bye
+221  
+----FTP传输日志结束---- 
+2019-05-18 19:32:56.07 FTP方式上传 D:\Downloads\FocusTool.exe 完成 
+2019-05-18 19:34:17.23  使用FTP方式进行上传 D:\Downloads\FocusTool.exe 
+----FTP传输日志开始---- 
+连接到 192.168.5.17。
+220 Microsoft FTP Service
+530 Please login with USER and PASS.
+
+user mcafee 1111
+331 Password required for mcafee.
+530 User mcafee cannot log in.
+
+mkdir 192.168.5.189/2019-05-18
+530 Please login with USER and PASS.
+
+cd 192.168.5.189/2019-05-18
+530 Please login with USER and PASS.
+
+bin
+530 Please login with USER and PASS.
+
+put D:\Downloads\FocusTool.exe
+530 Please login with USER and PASS.
+
+530 Please login with USER and PASS.
+
+bye
+221  
+----FTP传输日志结束---- 
+2019-05-18 19:34:17.53 FTP方式上传 D:\Downloads\FocusTool.exe 完成 
+2019-05-18 19:36:30.82  使用FTP方式进行上传 D:\Downloads\FocusTool.exe 
+----FTP传输日志开始---- 
+连接到 192.168.5.17。
+220 Microsoft FTP Service
+530 Please login with USER and PASS.
+
+user mcafee 1111
+331 Password required for mcafee.
+230 User mcafee logged in.
+mkdir 192.168.5.189/2019-05-18
+550 192.168.5.189/2019-05-18: The system cannot find the path specified. 
+
+cd 192.168.5.189/2019-05-18
+550 192.168.5.189/2019-05-18: The system cannot find the path specified. 
+
+bin
+200 Type set to I.
+put D:\Downloads\FocusTool.exe
+200 PORT command successful.
+150 Opening BINARY mode data connection for FocusTool.exe.
+226 Transfer complete.
+ftp: 发送 6373296 字节，用时 0.30秒 21458.91千字节/秒。
+bye
+221  
+----FTP传输日志结束---- 
+2019-05-18 19:36:31.46 FTP方式上传 D:\Downloads\FocusTool.exe 完成 
+2019-05-18 20:35:54.44  使用FTP方式进行上传 D:\Downloads\FocusTool.exe 
+----FTP传输日志开始---- 
+连接到 192.168.5.17。
+220 Microsoft FTP Service
+530 Please login with USER and PASS.
+
+user mcafee 11111
+331 Password required for mcafee.
+530 User mcafee cannot log in.
+
+mkdir 192.168.5.189/2019-05-18
+530 Please login with USER and PASS.
+
+cd 192.168.5.189/2019-05-18
+530 Please login with USER and PASS.
+
+bin
+530 Please login with USER and PASS.
+
+put D:\Downloads\FocusTool.exe
+530 Please login with USER and PASS.
+
+530 Please login with USER and PASS.
+
+bye
+221  
+----FTP传输日志结束---- 
+2019-05-18 20:35:55.04 FTP方式上传 D:\Downloads\FocusTool.exe 失败,原因：身份认证失败  
+2019-05-18 20:36:12.02  使用FTP方式进行上传 D:\Downloads\FocusTool1.exe 
+----FTP传输日志开始---- 
+连接到 192.168.5.17。
+220 Microsoft FTP Service
+530 Please login with USER and PASS.
+
+user mcafee 11111
+331 Password required for mcafee.
+530 User mcafee cannot log in.
+
+mkdir 192.168.5.189/2019-05-18
+530 Please login with USER and PASS.
+
+cd 192.168.5.189/2019-05-18
+530 Please login with USER and PASS.
+
+bin
+530 Please login with USER and PASS.
+
+put D:\Downloads\FocusTool1.exe
+D:\Downloads\FocusTool1.exe: 找不到文件 
+bye
+221  
+----FTP传输日志结束---- 
+2019-05-18 20:36:12.26 FTP方式上传 D:\Downloads\FocusTool1.exe 失败,原因：本地文件不可用  
+2019-05-18 20:36:48.58  使用FTP方式进行下载 FocusTool1.exe 
+----FTP传输日志开始---- 
+连接到 192.168.5.17。
+220 Microsoft FTP Service
+530 Please login with USER and PASS.
+
+user mcafee 11111
+331 Password required for mcafee.
+530 User mcafee cannot log in.
+
+cd /
+530 Please login with USER and PASS.
+
+lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+bin
+530 Please login with USER and PASS.
+
+get FocusTool1.exe
+530 Please login with USER and PASS.
+
+530 Please login with USER and PASS.
+
+bye
+221  
+----FTP传输日志结束---- 
+2019-05-18 20:36:48.88 FTP方式下载 FocusTool1.exe 失败,原因：身份认证失败  
+2019-05-18 20:37:01.70  使用FTP方式进行下载 FocusTool1.exe 
+----FTP传输日志开始---- 
+连接到 192.168.5.17。
+220 Microsoft FTP Service
+530 Please login with USER and PASS.
+
+user mcafee 1111
+331 Password required for mcafee.
+230 User mcafee logged in.
+cd /
+250 CWD command successful.
+lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+bin
+200 Type set to I.
+get FocusTool1.exe
+200 PORT command successful.
+550 FocusTool1.exe: Access is denied. 
+
+bye
+221  
+----FTP传输日志结束---- 
+2019-05-18 20:37:01.97 FTP方式下载 FocusTool1.exe 完成 
+2019-05-18 20:37:25.87  使用FTP方式进行下载 FocusTool.exe 
+----FTP传输日志开始---- 
+连接到 192.168.5.17。
+220 Microsoft FTP Service
+530 Please login with USER and PASS.
+
+user mcafee 1111
+331 Password required for mcafee.
+230 User mcafee logged in.
+cd /
+250 CWD command successful.
+lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+bin
+200 Type set to I.
+get FocusTool.exe
+200 PORT command successful.
+550 FocusTool.exe: Access is denied. 
+
+bye
+221  
+----FTP传输日志结束---- 
+2019-05-18 20:37:26.12 FTP方式下载 FocusTool.exe 完成 
+2019-05-18 20:39:49.11  使用FTP方式进行下载 FocusTool.exe 
+----FTP传输日志开始---- 
+连接到 192.168.5.17。
+220 Microsoft FTP Service
+530 Please login with USER and PASS.
+
+user mcafee 1111
+331 Password required for mcafee.
+230 User mcafee logged in.
+cd /
+250 CWD command successful.
+lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+bin
+200 Type set to I.
+get FocusTool.exe
+200 PORT command successful.
+550 FocusTool.exe: Access is denied. 
+
+bye
+221  
+----FTP传输日志结束---- 
+2019-05-18 20:39:49.40 FTP方式下载 FocusTool.exe 失败,原因：无权限完成请求的操作  
+2019-05-18 20:48:21.85  使用FTP方式进行下载 FocusTool.exe 
+----FTP传输日志开始---- 
+连接到 192.168.5.17。
+220 Microsoft FTP Service
+530 Please login with USER and PASS.
+user mcafee 1111
+331 Password required for mcafee.
+230 User mcafee logged in.
+cd /
+250 CWD command successful.
+lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+bin
+200 Type set to I.
+get FocusTool.exe
+200 PORT command successful.
+150 Opening BINARY mode data connection for FocusTool.exe(6373296 bytes).
+226 Transfer complete.
+ftp: 收到 6373296 字节，用时 0.39秒 16341.78千字节/秒。
+bye
+221  
+----FTP传输日志结束---- 
+2019-05-18 20:48:22.91 FTP方式下载 FocusTool.exe 完成 
+2019-05-18 20:49:10.91  使用FTP方式进行下载 FocusTool.exe 
+----FTP传输日志开始---- 
+连接到 192.168.5.17。
+220 Microsoft FTP Service
+530 Please login with USER and PASS.
+user mcafee 1111
+331 Password required for mcafee.
+230 User mcafee logged in.
+cd /
+250 CWD command successful.
+lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+bin
+200 Type set to I.
+get FocusTool.exe
+200 PORT command successful.
+150 Opening BINARY mode data connection for FocusTool.exe(6373296 bytes).
+226 Transfer complete.
+ftp: 收到 6373296 字节，用时 0.35秒 18209.42千字节/秒。
+bye
+221  
+----FTP传输日志结束---- 
+2019-05-18 20:49:11.65 FTP方式下载 FocusTool.exe 失败,原因：null  
+2019-05-18 20:49:19.95  使用FTP方式进行下载 FocusTool.exe 
+----FTP传输日志开始---- 
+连接到 192.168.5.17。
+220 Microsoft FTP Service
+530 Please login with USER and PASS.
+user mcafee 1111
+331 Password required for mcafee.
+230 User mcafee logged in.
+cd /
+250 CWD command successful.
+lcd G:\weihu\McafeeUpdate\drive\transfer\..\..\history\2019-05-18
+目前的本地目录 G:\weihu\McafeeUpdate\history\2019-05-18。
+bin
+200 Type set to I.
+get FocusTool.exe
+200 PORT command successful.
+150 Opening BINARY mode data connection for FocusTool.exe(6373296 bytes).
+226 Transfer complete.
+ftp: 收到 6373296 字节，用时 0.32秒 19792.84千字节/秒。
+bye
+221  
+----FTP传输日志结束---- 
+2019-05-18 20:49:20.95 FTP方式下载 FocusTool.exe 失败,原因：nul  

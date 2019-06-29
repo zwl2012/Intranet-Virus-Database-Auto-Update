@@ -1,0 +1,327 @@
+2019-05-16  1:34:04.50  输入参数不合法 
+2019-05-16  1:35:11.61  输入参数格式:D:\weihu\McafeeUpdate\drive\validation\hash.batD:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 不合法 
+SHA1 的 G:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 哈希:
+3449bdd24fff1ce0c26ddd0d04250b8aca4a6189
+CertUtil: -hashfile 命令成功完成。
+C:\Users\Carlos\AppData\Local\Temp\2019-05-16-hash.info 
+C:\Users\Carlos\AppData\Local\Temp\2019-05-16-hash.info 
+2019-05-16 20:24:24.27  文件 G:\weihu\McafeeUpdate\drive\validation\hash.bat 的哈希值为:c2ee65ade8450858208e24cbb6bcf6e30eb0d949 哈希类型为:SHA1 
+2019-05-16 20:24:27.45  文件 G:\weihu\McafeeUpdate\drive\validation\hash.bat 的哈希值为:c2ee65ade8450858208e24cbb6bcf6e30eb0d949 哈希类型为:SHA1 
+2019-05-16 20:24:46.97  文件 G:\weihu\McafeeUpdate\drive\validation\hash.bat 的哈希值为:2f774d6b4881494f76750a93391814e4affa2ea8 哈希类型为:SHA1 
+2019-05-16 20:24:48.73  文件 G:\weihu\McafeeUpdate\drive\validation\hash.bat 的哈希值为:2f774d6b4881494f76750a93391814e4affa2ea8 哈希类型为:SHA1 
+2019-05-16 20:51:39.54  开始进行文件签名校验流程。 
+2019-05-16 20:51:39.54  文件签名校验结果: 
+g:\weihu\mcafeeupdate\drive\validation\sigcheck.exe:
+	Verified:	Signed
+	Signing date:	8:41 2019/3/1
+	Publisher:	Microsoft Corporation
+	Company:	Sysinternals - www.sysinternals.com
+	Description:	File version and signature viewer
+	Product:	Sysinternals Sigcheck
+	Prod version:	2.72
+	File version:	2.72
+	MachineType:	32-bit
+2019-05-16 20:51:39.54  更新:G:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 文件已签名。 
+2019-05-16 20:52:16.87  开始进行文件签名校验流程。 
+2019-05-16 20:52:16.87  文件签名校验结果: 
+g:\weihu\mcafeeupdate\drive\validation\sigcheck.exe:
+	Verified:	Signed
+	Signing date:	8:41 2019/3/1
+	Publisher:	Microsoft Corporation
+	Company:	Sysinternals - www.sysinternals.com
+	Description:	File version and signature viewer
+	Product:	Sysinternals Sigcheck
+	Prod version:	2.72
+	File version:	2.72
+	MachineType:	32-bit
+2019-05-16 20:52:16.87  更新:G:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 文件已签名。 
+2019-05-16 20:53:23.05  开始进行文件签名校验流程。 
+2019-05-16 20:53:23.05  文件签名校验结果: 
+g:\weihu\mcafeeupdate\drive\validation\sigcheck.exe:
+	Verified:	Signed
+	Signing date:	8:41 2019/3/1
+	Publisher:	Microsoft Corporation
+	Company:	Sysinternals - www.sysinternals.com
+	Description:	File version and signature viewer
+	Product:	Sysinternals Sigcheck
+	Prod version:	2.72
+	File version:	2.72
+	MachineType:	32-bit
+2019-05-16 20:53:23.05  更新文件:G:\weihu\McafeeUpdate\drive\validation\sigcheck.exe 签名正常。 
+2019-05-16 21:15:52.00  开始进行文件签名校验流程。 
+2019-05-16 21:15:52.00  文件签名校验结果: 
+g:\tools\????\????\????\dsigntool\DSignTool.exe:
+	Verified:	???????????????????????????
+	Link date:	10:54 2018/1/30
+	Publisher:	n/a
+	Company:	??????????????
+	Description:	??????
+	Product:	n/a
+	Prod version:	3.0.0.0
+	File version:	3.1.0.27
+	MachineType:	32-bit
+2019-05-16 21:15:52.00 更新文件:G:\Tools\系统安全\文件签名\签名工具\DSigntool\DSignTool.exe 数字签名损坏或未签名。 
+2019-05-16 21:16:58.72  开始进行文件签名校验流程。 
+2019-05-16 21:16:58.72  文件签名校验结果: 
+g:\tools\????\????\????\dsigntool\HookSigntool.dll:
+	Verified:	???????????????????????????
+	Link date:	17:49 2019/2/17
+	Publisher:	n/a
+	Company:	n/a
+	Description:	n/a
+	Product:	n/a
+	Prod version:	n/a
+	File version:	n/a
+	MachineType:	32-bit
+2019-05-16 21:16:58.72 更新文件:G:\Tools\系统安全\文件签名\签名工具\DSigntool\HookSigntool.dll 数字签名损坏或未签名。 
+2019-05-16 21:17:14.37  开始进行文件签名校验流程。 
+2019-05-16 21:17:14.37  文件签名校验结果: 
+usage: G:\weihu\McafeeUpdate\drive\validation\sigcheck.exe [-a][-h][-i][-e][-l][-n][[-s]|[-c|-ct]|[-m]][-q][-r][-u][-vt][-v[r][s]][-f catalog file] [-w file] <file or directory>
+usage: G:\weihu\McafeeUpdate\drive\validation\sigcheck.exe -d [-c|-ct] [-w file] <file or directory>
+usage: G:\weihu\McafeeUpdate\drive\validation\sigcheck.exe -o [-vt][-v[r]] [-w file] <G:\weihu\McafeeUpdate\drive\validation\sigcheck.exe csv file>
+usage: G:\weihu\McafeeUpdate\drive\validation\sigcheck.exe -t[u][v] [-i] [-c|-ct] [-w file] <certificate store name|*>
+  -a      Show extended version information. The entropy measure reported
+          is the bits per byte of information of the file's contents.
+  -c      CSV output with comma delimiter
+  -ct     CSV output with tab delimiter
+          Specify -nobanner to avoid banner being output to CSV
+  -d      Dump contents of a catalog file
+  -e      Scan executable images only (regardless of their extension)
+  -f      Look for signature in the specified catalog file
+  -h      Show file hashes
+  -i      Show catalog name and signing chain
+  -l      Traverse symbolic links and directory junctions
+  -m      Dump manifest
+  -n      Only show file version number
+  -o      Performs Virus Total lookups of hashes captured in a CSV
+          file previously captured by Sigcheck when using the -h option.
+          This usage is intended for scans of offline systems.
+  -r      Disable check for certificate revocation
+  -s      Recurse subdirectories
+  -t[u][v] Dump contents of specified certificate store ('*' for all stores).
+          Specify -tu to query the user store (machine store is the default).
+          Append '-v' to have Sigcheck download the trusted Microsoft
+          root certificate list and only output valid certificates not rooted to
+          a certificate on that list. If the site is not accessible,
+          authrootstl.cab or authroot.stl in the current directory are
+          used instead, if present.
+  -u      If VirusTotal check is enabled, show files that are unknown
+          by VirusTotal or have non-zero detection, otherwise show only
+          unsigned files.
+  -v[rs]  Query VirusTotal (www.virustotal.com) for malware based on file hash.
+          Add 'r' to open reports for files with non-zero detection. Files
+          reported as not previously scanned will be uploaded to VirusTotal
+          if the 's' option is specified. Note scan results may not be
+          available for five or more minutes.
+  -vt     Before using VirusTotal features, you must accept
+          VirusTotal terms of service. See:
+
+          https://www.virustotal.com/en/about/terms-of-service/
+
+          If you haven't accepted the terms and you omit this
+          option, you will be interactively prompted.
+  -w      Writes the output to the specified file.
+  -nobanner
+          Do not display the startup banner and copyright message.
+
+2019-05-16 21:17:14.37 更新文件: 数字签名损坏或未签名。 
+2019-05-16 21:33:05.41  开始进行文件签名校验流程。 
+2019-05-16 21:33:05.41  文件签名校验结果: 
+usage: G:\weihu\McafeeUpdate\drive\validation\sigcheck.exe [-a][-h][-i][-e][-l][-n][[-s]|[-c|-ct]|[-m]][-q][-r][-u][-vt][-v[r][s]][-f catalog file] [-w file] <file or directory>
+usage: G:\weihu\McafeeUpdate\drive\validation\sigcheck.exe -d [-c|-ct] [-w file] <file or directory>
+usage: G:\weihu\McafeeUpdate\drive\validation\sigcheck.exe -o [-vt][-v[r]] [-w file] <G:\weihu\McafeeUpdate\drive\validation\sigcheck.exe csv file>
+usage: G:\weihu\McafeeUpdate\drive\validation\sigcheck.exe -t[u][v] [-i] [-c|-ct] [-w file] <certificate store name|*>
+  -a      Show extended version information. The entropy measure reported
+          is the bits per byte of information of the file's contents.
+  -c      CSV output with comma delimiter
+  -ct     CSV output with tab delimiter
+          Specify -nobanner to avoid banner being output to CSV
+  -d      Dump contents of a catalog file
+  -e      Scan executable images only (regardless of their extension)
+  -f      Look for signature in the specified catalog file
+  -h      Show file hashes
+  -i      Show catalog name and signing chain
+  -l      Traverse symbolic links and directory junctions
+  -m      Dump manifest
+  -n      Only show file version number
+  -o      Performs Virus Total lookups of hashes captured in a CSV
+          file previously captured by Sigcheck when using the -h option.
+          This usage is intended for scans of offline systems.
+  -r      Disable check for certificate revocation
+  -s      Recurse subdirectories
+  -t[u][v] Dump contents of specified certificate store ('*' for all stores).
+          Specify -tu to query the user store (machine store is the default).
+          Append '-v' to have Sigcheck download the trusted Microsoft
+          root certificate list and only output valid certificates not rooted to
+          a certificate on that list. If the site is not accessible,
+          authrootstl.cab or authroot.stl in the current directory are
+          used instead, if present.
+  -u      If VirusTotal check is enabled, show files that are unknown
+          by VirusTotal or have non-zero detection, otherwise show only
+          unsigned files.
+  -v[rs]  Query VirusTotal (www.virustotal.com) for malware based on file hash.
+          Add 'r' to open reports for files with non-zero detection. Files
+          reported as not previously scanned will be uploaded to VirusTotal
+          if the 's' option is specified. Note scan results may not be
+          available for five or more minutes.
+  -vt     Before using VirusTotal features, you must accept
+          VirusTotal terms of service. See:
+
+          https://www.virustotal.com/en/about/terms-of-service/
+
+          If you haven't accepted the terms and you omit this
+          option, you will be interactively prompted.
+  -w      Writes the output to the specified file.
+  -nobanner
+          Do not display the startup banner and copyright message.
+
+2019-05-16 21:33:05.41 更新文件: 数字签名损坏或未签名。 
+2019-05-16 21:33:11.09  开始进行文件签名校验流程。 
+2019-05-16 21:33:11.09  文件签名校验结果: 
+usage: G:\weihu\McafeeUpdate\drive\validation\sigcheck.exe [-a][-h][-i][-e][-l][-n][[-s]|[-c|-ct]|[-m]][-q][-r][-u][-vt][-v[r][s]][-f catalog file] [-w file] <file or directory>
+usage: G:\weihu\McafeeUpdate\drive\validation\sigcheck.exe -d [-c|-ct] [-w file] <file or directory>
+usage: G:\weihu\McafeeUpdate\drive\validation\sigcheck.exe -o [-vt][-v[r]] [-w file] <G:\weihu\McafeeUpdate\drive\validation\sigcheck.exe csv file>
+usage: G:\weihu\McafeeUpdate\drive\validation\sigcheck.exe -t[u][v] [-i] [-c|-ct] [-w file] <certificate store name|*>
+  -a      Show extended version information. The entropy measure reported
+          is the bits per byte of information of the file's contents.
+  -c      CSV output with comma delimiter
+  -ct     CSV output with tab delimiter
+          Specify -nobanner to avoid banner being output to CSV
+  -d      Dump contents of a catalog file
+  -e      Scan executable images only (regardless of their extension)
+  -f      Look for signature in the specified catalog file
+  -h      Show file hashes
+  -i      Show catalog name and signing chain
+  -l      Traverse symbolic links and directory junctions
+  -m      Dump manifest
+  -n      Only show file version number
+  -o      Performs Virus Total lookups of hashes captured in a CSV
+          file previously captured by Sigcheck when using the -h option.
+          This usage is intended for scans of offline systems.
+  -r      Disable check for certificate revocation
+  -s      Recurse subdirectories
+  -t[u][v] Dump contents of specified certificate store ('*' for all stores).
+          Specify -tu to query the user store (machine store is the default).
+          Append '-v' to have Sigcheck download the trusted Microsoft
+          root certificate list and only output valid certificates not rooted to
+          a certificate on that list. If the site is not accessible,
+          authrootstl.cab or authroot.stl in the current directory are
+          used instead, if present.
+  -u      If VirusTotal check is enabled, show files that are unknown
+          by VirusTotal or have non-zero detection, otherwise show only
+          unsigned files.
+  -v[rs]  Query VirusTotal (www.virustotal.com) for malware based on file hash.
+          Add 'r' to open reports for files with non-zero detection. Files
+          reported as not previously scanned will be uploaded to VirusTotal
+          if the 's' option is specified. Note scan results may not be
+          available for five or more minutes.
+  -vt     Before using VirusTotal features, you must accept
+          VirusTotal terms of service. See:
+
+          https://www.virustotal.com/en/about/terms-of-service/
+
+          If you haven't accepted the terms and you omit this
+          option, you will be interactively prompted.
+  -w      Writes the output to the specified file.
+  -nobanner
+          Do not display the startup banner and copyright message.
+
+2019-05-16 21:33:11.09 更新文件: 数字签名损坏或未签名。 
+参数不合法 
+2019-05-16 21:44:40.27  输入参数不合法 
+2019-05-16 21:46:08.20  "G:\weihu\McafeeUpdate\drive\validation\signature.bat":输入参数不合法 
+2019-05-16 21:46:30.29  G:\weihu\McafeeUpdate\drive\validation\signature.batn:输入参数不合法 
+2019-05-16 21:46:39.86  signature:输入参数不合法 
+2019-05-16 21:47:30.29  signature:输入参数不合法 
+2019-05-16 21:51:06.41  开始进行文件签名校验流程。 
+2019-05-16 21:51:06.41  文件签名校验结果: 
+No matching files were found.
+
+2019-05-16 21:51:06.41  更新文件:1213213 签名正常。 
+2019-05-16 21:53:07.76  开始进行文件签名校验流程。 
+2019-05-16 21:53:07.76  文件签名校验结果: 
+No matching files were found.
+
+2019-05-16 21:53:07.76  更新文件:1213213 签名正常。 
+2019-05-16 21:53:15.56  开始进行文件签名校验流程。 
+2019-05-16 21:53:15.56  文件签名校验结果: 
+No matching files were found.
+
+2019-05-16 21:53:15.56  更新文件:1213213qqq 签名正常。 
+2019-05-16 21:54:06.50  开始进行文件签名校验流程。 
+2019-05-16 21:54:06.50  文件签名校验结果: 
+No matching files were found.
+
+2019-05-16 21:54:06.50  更新文件:1213213qqq 签名正常。 
+2019-05-16 21:55:37.61  开始进行文件签名校验流程。 
+2019-05-16 21:55:37.61  文件签名校验结果: 
+No matching files were found.
+
+2019-05-16 21:55:37.61  更新文件:1213213qqq 签名正常。 
+2019-05-16 21:57:01.10  开始进行文件签名校验流程。 
+2019-05-16 21:57:01.10  文件签名校验结果: 
+No matching files were found.
+
+2019-05-16 21:57:01.10  更新文件:1213213qqq 签名正常。 
+2019-05-16 21:58:08.90  开始进行文件签名校验流程。 
+2019-05-16 21:58:08.90  文件签名校验结果: 
+No matching files were found.
+
+2019-05-16 21:58:08.90  更新文件:1213213qqq 签名正常。 
+2019-05-16 22:00:00.77  开始进行文件签名校验流程。 
+2019-05-16 22:00:00.77  文件签名校验结果: 
+No matching files were found.
+
+2019-05-16 22:00:00.77  更新文件:1213213qqq 签名正常。 
+2019-05-16 22:00:45.08  开始进行文件签名校验流程。 
+2019-05-16 22:00:45.08  文件签名校验结果: 
+No matching files were found.
+
+2019-05-16 22:00:45.08  更新文件:1213213qqq 签名正常。 
+2019-05-16 22:01:58.36  开始进行文件签名校验流程。 
+2019-05-16 22:01:58.36  文件签名校验结果: 
+No matching files were found.
+
+2019-05-16 22:01:58.36  更新文件:1213213qqq 签名正常。 
+2019-05-16 22:02:10.99  开始进行文件签名校验流程。 
+2019-05-16 22:02:10.99  文件签名校验结果: 
+No matching files were found.
+
+2019-05-16 22:02:10.99  更新文件:1213213qqq 签名正常。 
+2019-05-16 22:02:28.01  开始进行文件签名校验流程。 
+2019-05-16 22:02:28.01  文件签名校验结果: 
+No matching files were found.
+
+2019-05-16 22:02:28.01  更新文件:111 签名正常。 
+2019-05-16 22:02:28.01  开始进行文件签名校验流程。 
+2019-05-16 22:02:28.01  文件签名校验结果: 
+No matching files were found.
+
+2019-05-16 22:02:28.01  更新文件:111 签名正常。 
+2019-05-16 22:02:28.01  开始进行文件签名校验流程。 
+2019-05-16 22:02:28.01  文件签名校验结果: 
+No matching files were found.
+
+2019-05-16 22:02:28.01  更新文件:111 签名正常。 
+2019-05-16 22:02:28.01  开始进行文件签名校验流程。 
+2019-05-16 22:02:28.01  文件签名校验结果: 
+No matching files were found.
+
+2019-05-16 22:02:28.01  更新文件:111 签名正常。 
+2019-05-16 22:02:28.01  开始进行文件签名校验流程。 
+2019-05-16 22:02:28.01  文件签名校验结果: 
+No matching files were found.
+
+2019-05-16 22:02:28.01  更新文件:111 签名正常。 
+2019-05-16 22:08:52.40  signature 输入参数: 不合法 
+2019-05-16 22:09:11.64  signature 输入参数: 不合法 
+2019-05-16 22:09:20.95  开始进行文件签名校验流程。 
+2019-05-16 22:09:20.95  文件签名校验结果: 
+No matching files were found.
+
+2019-05-16 22:09:20.95  更新文件:111 签名正常。 
+2019-05-16 22:09:24.03  开始进行文件签名校验流程。 
+2019-05-16 22:09:24.03  文件签名校验结果: 
+No matching files were found.
+
+2019-05-16 22:09:24.03  更新文件:111 签名正常。 

@@ -1,0 +1,139 @@
+2019-05-22  9:28:40.02  使用FTP方式进行上传 G:\weihu\McafeeUpdate\2222.zip 
+----FTP传输日志开始---- 
+连接到 192.168.5.17。
+220 Microsoft FTP Service
+530 Please login with USER and PASS.
+user mcafee 1111
+331 Password required for mcafee.
+230 User mcafee logged in.
+mkdir 192.168.5.189/2019-05-22
+550 192.168.5.189/2019-05-22: The system cannot find the path specified. 
+cd 192.168.5.189/2019-05-22
+550 192.168.5.189/2019-05-22: The system cannot find the path specified. 
+bin
+200 Type set to I.
+put G:\weihu\McafeeUpdate\2222.zip
+200 PORT command successful.
+150 Opening BINARY mode data connection for 2222.zip.
+226 Transfer complete.
+ftp: 发送 78287230 字节，用时 4.80秒 16292.87千字节/秒。
+bye
+221  
+----FTP传输日志结束---- 
+2019-05-22  9:28:45.94 FTP方式上传 G:\weihu\McafeeUpdate\2222.zip 完成 
+2019-05-22 15:49:26.06  使用FTP方式进行上传 G:\weihu\McafeeUpdate\2222.zip 
+----FTP传输日志开始---- 
+连接到 192.168.5.17。
+220 Microsoft FTP Service
+530 Please login with USER and PASS.
+user mcafee 1111
+331 Password required for mcafee.
+230 User mcafee logged in.
+mkdir 192.168.5.189/2019-05-22
+550 192.168.5.189/2019-05-22: The system cannot find the path specified. 
+cd 192.168.5.189/2019-05-22
+550 192.168.5.189/2019-05-22: The system cannot find the path specified. 
+bin
+200 Type set to I.
+put G:\weihu\McafeeUpdate\2222.zip
+G:\weihu\McafeeUpdate\2222.zip: 找不到文件 
+bye
+221  
+----FTP传输日志结束---- 
+2019-05-22 15:49:27.05 FTP方式上传 G:\weihu\McafeeUpdate\2222.zip 失败,原因：本地文件不可用  
+2019-05-22 15:49:47.04  使用FTP方式进行上传 G:\weihu\McafeeUpdate\2222.zip 
+----FTP传输日志开始---- 
+连接到 192.168.5.17。
+220 Microsoft FTP Service
+530 Please login with USER and PASS.
+user mcafee 1111
+331 Password required for mcafee.
+230 User mcafee logged in.
+mkdir 192.168.5.189/2019-05-22
+550 192.168.5.189/2019-05-22: The system cannot find the path specified. 
+cd 192.168.5.189/2019-05-22
+550 192.168.5.189/2019-05-22: The system cannot find the path specified. 
+bin
+200 Type set to I.
+put G:\weihu\McafeeUpdate\2222.zip
+200 PORT command successful.
+150 Opening BINARY mode data connection for 2222.zip.
+226 Transfer complete.
+ftp: 发送 117575957 字节，用时 4.34秒 27078.76千字节/秒。
+bye
+221  
+----FTP传输日志结束---- 
+2019-05-22 15:49:51.73 FTP方式上传 G:\weihu\McafeeUpdate\2222.zip 完成 
+2019-05-22 16:19:28.14  hash 输入参数: 不合法 
+2019-05-22 16:19:29.43  hash 输入参数: 不合法 
+2019-05-22 16:19:30.43  hash 输入参数: 不合法 
+2019-05-22 16:19:31.17  hash 输入参数: 不合法 
+2019-05-22 16:19:32.21  hash 输入参数: 不合法 
+2019-05-22 16:19:32.85  hash 输入参数: 不合法 
+2019-05-22 16:20:14.94  hash 输入参数: 不合法 
+2019-05-22 17:21:03.92  使用FTP方式进行上传 G:\weihu\McafeeUpdate\2222.zip 
+----FTP传输日志开始---- 
+连接到 192.168.5.17。
+220 Microsoft FTP Service
+530 Please login with USER and PASS.
+user mcafee 1111
+331 Password required for mcafee.
+230 User mcafee logged in.
+mkdir 192.168.5.189/2019-05-22
+550 192.168.5.189/2019-05-22: The system cannot find the path specified. 
+cd 192.168.5.189/2019-05-22
+550 192.168.5.189/2019-05-22: The system cannot find the path specified. 
+bin
+200 Type set to I.
+put G:\weihu\McafeeUpdate\2222.zip
+200 PORT command successful.
+150 Opening BINARY mode data connection for 2222.zip.
+226 Transfer complete.
+ftp: 发送 117575957 字节，用时 4.09秒 28768.28千字节/秒。
+bye
+221  
+----FTP传输日志结束---- 
+2019-05-22 17:21:09.25 FTP方式上传 G:\weihu\McafeeUpdate\2222.zip 完成 
+2019-05-22 17:23:37.45  使用FTP方式进行上传 G:\weihu\McafeeUpdate\2222.zip 
+----FTP传输日志开始---- 
+连接到 192.168.5.17。
+220 Microsoft FTP Service
+530 Please login with USER and PASS.
+user mcafee 1111
+331 Password required for mcafee.
+230 User mcafee logged in.
+mkdir 192.168.5.189/2019-05-22
+550 192.168.5.189/2019-05-22: The system cannot find the path specified. 
+cd 192.168.5.189/2019-05-22
+550 192.168.5.189/2019-05-22: The system cannot find the path specified. 
+bin
+200 Type set to I.
+put G:\weihu\McafeeUpdate\2222.zip
+200 PORT command successful.
+150 Opening BINARY mode data connection for 2222.zip.
+226 Transfer complete.
+ftp: 发送 117575957 字节，用时 4.04秒 29102.96千字节/秒。
+bye
+221  
+----FTP传输日志结束---- 
+2019-05-22 17:23:41.81 FTP方式上传 G:\weihu\McafeeUpdate\2222.zip 完成 
+2019-05-22 17:24:28.58  使用FTP方式进行上传 G:\2.txt 
+----FTP传输日志开始---- 
+连接到 192.168.5.17。
+220 Microsoft FTP Service
+530 Please login with USER and PASS.
+user mcafee 1111
+331 Password required for mcafee.
+230 User mcafee logged in.
+mkdir 192.168.5.189/2019-05-22
+550 192.168.5.189/2019-05-22: The system cannot find the path specified. 
+cd 192.168.5.189/2019-05-22
+550 192.168.5.189/2019-05-22: The system cannot find the path specified. 
+bin
+200 Type set to I.
+put G:\2.txt
+200 PORT command successful.
+150 Opening BINARY mode data connection for 2.txt.
+bye
+----FTP传输日志结束---- 
+2019-05-22 17:26:33.64 FTP方式上传 G:\2.txt 失败,因错误信息不在内置特征库中，请联系开发者进行解决 

@@ -1,0 +1,2747 @@
+2019-06-18  9:13:04.25 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 10:00:14.59 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee 9rI7431@
+331 Password required for Mcafee.
+530 User cannot log in.
+
+bin
+200 Type set to I.
+get update.list
+530 Please login with USER and PASS.
+
+530 Please login with USER and PASS.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 10:00:15.78 FTP方式下载 update.list 失败,原因：身份认证失败  
+2019-06-18 10:00:14.59 使用FTP方式 上传 C:\mcafee\bin\..\log\2019-06-18-Fail.log 至 192.168.253.133  
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee 9rI7431@
+331 Password required for Mcafee.
+530 User cannot log in.
+
+mkdir 192.168.253.133  
+530 Please login with USER and PASS.
+
+cd 192.168.253.133  
+530 Please login with USER and PASS.
+
+bin
+200 Type set to I.
+put C:\mcafee\bin\..\log\2019-06-18-Fail.log
+530 Please login with USER and PASS.
+
+530 Please login with USER and PASS.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 10:00:16.32 FTP方式上传 C:\mcafee\bin\..\log\2019-06-18-Fail.log 失败,原因：身份认证失败  
+2019-06-18 10:06:06.67 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+150 Opening BINARY mode data connection.
+Aborting any active data connections...
+
+550 
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 10:07:29.39 FTP方式下载 update.list 失败,可能网络链接存在问题，请联系开发者进行处理 
+2019-06-18 10:06:06.67 使用FTP方式 上传 C:\mcafee\bin\..\log\2019-06-18-Fail.log 至 192.168.253.133  
+2019-06-18 10:40:57.50 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 324 字节，用时 0.20Seconds 1.59Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 10:40:58.70 FTP方式下载 update.list 完成 
+2019-06-18 10:40:57.50 开始进行文件哈希值校验流程。 
+2019-06-18 10:40:57.50 文件 C:\mcafee\history\2019-06-18\update.list 的HASH值为:null 
+2019-06-18 10:40:57.50 开始进行文件哈希值校验流程。 
+2019-06-18 10:40:57.50 文件 C:\mcafee\tmp\last.update 的HASH值为:null 
+2019-06-18 10:40:57.50 当前更新源 Hash： null 上一次更新源 Hash:  null 
+2019-06-18 10:40:58.90 本机错峰时间: 845 秒 
+本次更新与上次更新一致，不予更新。 
+2019-06-18 10:40:57.50 使用FTP方式 上传 C:\mcafee\bin\..\log\2019-06-18-Fail.log 至 192.168.5.169  
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+mkdir 192.168.5.169  
+257 "192.168.5.169" directory created.
+cd 192.168.5.169  
+250 CWD command successful.
+bin
+200 Type set to I.
+put C:\mcafee\bin\..\log\2019-06-18-Fail.log
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 发送 2853 字节，用时 0.00Seconds 2853000.00Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 10:40:59.32 FTP方式上传 C:\mcafee\bin\..\log\2019-06-18-Fail.log 完成 
+2019-06-18 14:20:59.24 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+550 The system cannot find the file specified. 
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 14:21:01.27 FTP方式下载 update.list 失败,可能网络链接存在问题，请联系开发者进行处理 
+2019-06-18 14:22:27.56 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+550 The system cannot find the file specified. 
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 14:24:18.41 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+550 The system cannot find the file specified. 
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 14:32:02.22 FTP方式下载 update.list 失败,可能网络链接存在问题，请联系开发者进行处理 
+2019-06-18 14:24:18.41 使用FTP方式 上传 C:\mcafee\bin\..\log\2019-06-18-Fail.log 至 192.168.253.134  
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+mkdir 192.168.253.134  
+257 "192.168.253.134" directory created.
+cd 192.168.253.134  
+250 CWD command successful.
+bin
+200 Type set to I.
+put C:\mcafee\bin\..\log\2019-06-18-Fail.log
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 发送 5014 字节，用时 0.00Seconds 5014000.00Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 14:32:02.75 FTP方式上传 C:\mcafee\bin\..\log\2019-06-18-Fail.log 完成 
+2019-06-18 14:34:05.13 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 324 字节，用时 0.17Seconds 1.88Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 14:34:07.22 FTP方式下载 update.list 完成 
+2019-06-18 14:34:05.13 开始进行文件哈希值校验流程。 
+2019-06-18 14:34:05.13 文件 C:\mcafee\history\2019-06-18\update.list 的HASH值为:f8e84b811064f8e767990c6931b81f2be39ec5f0 
+2019-06-18 14:34:05.13 开始进行文件哈希值校验流程。 
+2019-06-18 14:34:05.13 文件 C:\mcafee\tmp\last.update 的HASH值为:ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 14:34:05.13 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 14:34:07.56 本机错峰时间: 75 秒 
+2019-06-18 14:34:07.56 本次更新:\20191113012811\9241xdat.exe 错峰等待时间 75 秒 
+2019-06-18 14:34:07.56 更新更新:\20191113012811\9241xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 14:34:05.13 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9241xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 114158088 字节，用时 11.98Seconds 9525.08Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 14:34:20.02 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 14:34:07.56 更新：\20191113012811\9241xdat.exe 下载完成。 
+2019-06-18 14:34:07.56 本次更新:\20191113012811\9246xdat.exe 错峰等待时间 75 秒 
+2019-06-18 14:34:07.56 更新更新:\20191113012811\9246xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 14:34:05.13 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9246xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 115549152 字节，用时 11.69Seconds 9886.98Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 14:34:32.24 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 14:34:07.56 更新：\20191113012811\9246xdat.exe 下载完成。 
+2019-06-18 14:34:07.56 本次更新:\20191113012811\9248xdat.exe 错峰等待时间 75 秒 
+2019-06-18 14:34:07.56 更新更新:\20191113012811\9248xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 14:34:05.13 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9248xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 116280216 字节，用时 11.69Seconds 9948.68Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 14:34:44.42 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 14:34:07.56 更新：\20191113012811\9248xdat.exe 下载完成。 
+2019-06-18 14:34:07.56 本次更新:\20191113012811\9256xdat.exe 错峰等待时间 75 秒 
+2019-06-18 14:34:07.56 更新更新:\20191113012811\9256xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 14:34:05.13 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9256xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 116551832 字节，用时 11.67Seconds 9985.59Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 14:34:56.63 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 14:34:07.56 更新：\20191113012811\9256xdat.exe 下载完成。 
+2019-06-18 14:34:56.64 本次更新文件总量为：441M 
+2019-06-18 14:34:56.66 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 14:34:05.13 开始进行文件哈希值校验流程。 
+2019-06-18 14:34:05.13 hash 输入参数不合法,退出计算Hash流程 
+2019-06-18 14:34:05.13  更新文件  下载不完整。 
+2019-06-18 14:34:05.13 开始进行文件哈希值校验流程。 
+2019-06-18 14:34:05.13 hash 输入参数不合法,退出计算Hash流程 
+2019-06-18 14:34:05.13  更新文件  下载不完整。 
+2019-06-18 14:34:05.13 开始进行文件哈希值校验流程。 
+2019-06-18 14:34:05.13 hash 输入参数不合法,退出计算Hash流程 
+2019-06-18 14:34:05.13  更新文件  下载不完整。 
+2019-06-18 14:34:05.13 开始进行文件哈希值校验流程。 
+2019-06-18 14:34:05.13 hash 输入参数不合法,退出计算Hash流程 
+2019-06-18 14:34:05.13  更新文件  下载不完整。 
+2019-06-18 14:34:05.13 更新文件校验完毕，准备进行安装更新 
+2019-06-18 14:34:57.00 更新文件安装已完成 
+2019-06-18 15:09:19.38 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 324 字节，用时 0.19Seconds 1.73Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 15:09:21.80 FTP方式下载 update.list 完成 
+2019-06-18 15:09:19.38 开始进行文件哈希值校验流程。 
+2019-06-18 15:09:19.38 文件 C:\mcafee\history\2019-06-18\update.list 的HASH值为:f8e84b811064f8e767990c6931b81f2be39ec5f0 
+2019-06-18 15:09:19.38 开始进行文件哈希值校验流程。 
+2019-06-18 15:09:19.38 文件 C:\mcafee\tmp\last.update 的HASH值为:ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 15:09:19.38 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 15:09:22.17 本机错峰时间: 75 秒 
+2019-06-18 15:09:22.17 本次更新:\20191113012811\9241xdat.exe 错峰等待时间 75 秒 
+2019-06-18 15:09:22.17 更新更新:\20191113012811\9241xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 15:09:19.38 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9241xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 114158088 字节，用时 11.23Seconds 10161.84Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 15:09:33.94 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 15:09:22.17 更新：\20191113012811\9241xdat.exe 下载完成。 
+2019-06-18 15:09:22.17 本次更新:\20191113012811\9246xdat.exe 错峰等待时间 75 秒 
+2019-06-18 15:09:22.17 更新更新:\20191113012811\9246xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 15:09:19.38 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9246xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 115549152 字节，用时 11.41Seconds 10130.56Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 15:09:45.89 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 15:09:22.17 更新：\20191113012811\9246xdat.exe 下载完成。 
+2019-06-18 15:09:22.17 本次更新:\20191113012811\9248xdat.exe 错峰等待时间 75 秒 
+2019-06-18 15:09:22.17 更新更新:\20191113012811\9248xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 15:09:19.38 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9248xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 116280216 字节，用时 11.70Seconds 9935.93Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 15:09:58.08 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 15:09:22.17 更新：\20191113012811\9248xdat.exe 下载完成。 
+2019-06-18 15:09:22.17 本次更新:\20191113012811\9256xdat.exe 错峰等待时间 75 秒 
+2019-06-18 15:09:22.17 更新更新:\20191113012811\9256xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 15:09:19.38 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9256xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 116551832 字节，用时 11.47Seconds 10162.34Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 15:10:10.05 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 15:09:22.17 更新：\20191113012811\9256xdat.exe 下载完成。 
+2019-06-18 15:10:10.06 本次更新文件总量为：441M 
+2019-06-18 15:10:10.08 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 15:09:19.38 开始进行文件哈希值校验流程。 
+2019-06-18 15:09:19.38 文件 C:\mcafee\history\2019-06-18\9241xdat.exe 的HASH值为:782d39bac87adc5238fbd6e3a2624df67c58c258 
+2019-06-18 15:09:19.38  更新文件 9256xdat.exe 下载不完整。 
+2019-06-18 15:09:19.38 开始进行文件哈希值校验流程。 
+2019-06-18 15:09:19.38 文件 C:\mcafee\history\2019-06-18\9246xdat.exe 的HASH值为:33c8e95aa436f82b753657c6a741fb56872e1044 
+2019-06-18 15:09:19.38  更新文件 9256xdat.exe 下载不完整。 
+2019-06-18 15:09:19.38 开始进行文件哈希值校验流程。 
+2019-06-18 15:09:19.38 文件 C:\mcafee\history\2019-06-18\9248xdat.exe 的HASH值为:5e25512583ede2e293340d8bfba3f40f97d85ab5 
+2019-06-18 15:09:19.38  更新文件 9256xdat.exe 下载不完整。 
+2019-06-18 15:09:19.38 开始进行文件哈希值校验流程。 
+2019-06-18 15:09:19.38 文件 C:\mcafee\history\2019-06-18\9256xdat.exe 的HASH值为:55df11afbdb24d89159cf231f181bd1de165e695 
+2019-06-18 15:09:19.38  更新文件 9256xdat.exe 下载不完整。 
+2019-06-18 15:09:19.38 更新文件校验完毕，准备进行安装更新 
+2019-06-18 15:10:14.99 更新文件安装已完成 
+2019-06-18 15:17:26.27 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 324 字节，用时 0.16Seconds 2.06Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 15:17:28.61 FTP方式下载 update.list 完成 
+2019-06-18 15:17:26.27 开始进行文件哈希值校验流程。 
+2019-06-18 15:17:26.27 文件 C:\mcafee\history\2019-06-18\update.list 的HASH值为:f8e84b811064f8e767990c6931b81f2be39ec5f0 
+2019-06-18 15:17:26.27 开始进行文件哈希值校验流程。 
+2019-06-18 15:17:26.27 文件 C:\mcafee\tmp\last.update 的HASH值为:ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 15:17:26.27 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 15:17:28.94 本机错峰时间: 75 秒 
+2019-06-18 15:17:28.94 本次更新:\20191113012811\9241xdat.exe 错峰等待时间 75 秒 
+2019-06-18 15:17:28.94 更新更新:\20191113012811\9241xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 15:17:26.27 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9241xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 114158088 字节，用时 11.20Seconds 10189.05Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 15:17:40.74 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 15:17:28.94 更新：\20191113012811\9241xdat.exe 下载完成。 
+2019-06-18 15:17:28.94 本次更新:\20191113012811\9246xdat.exe 错峰等待时间 75 秒 
+2019-06-18 15:17:28.94 更新更新:\20191113012811\9246xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 15:17:26.27 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9246xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 115549152 字节，用时 11.38Seconds 10158.17Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 15:17:52.64 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 15:17:28.94 更新：\20191113012811\9246xdat.exe 下载完成。 
+2019-06-18 15:17:28.94 本次更新:\20191113012811\9248xdat.exe 错峰等待时间 75 秒 
+2019-06-18 15:17:28.94 更新更新:\20191113012811\9248xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 15:17:26.27 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9248xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 116280216 字节，用时 11.42Seconds 10180.37Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 15:18:04.60 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 15:17:28.94 更新：\20191113012811\9248xdat.exe 下载完成。 
+2019-06-18 15:17:28.94 本次更新:\20191113012811\9256xdat.exe 错峰等待时间 75 秒 
+2019-06-18 15:17:28.94 更新更新:\20191113012811\9256xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 15:17:26.27 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9256xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 116551832 字节，用时 11.47Seconds 10162.34Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 15:18:16.56 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 15:17:28.94 更新：\20191113012811\9256xdat.exe 下载完成。 
+2019-06-18 15:18:16.58 本次更新文件总量为：441M 
+2019-06-18 15:18:16.60 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 15:24:18.19 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 324 字节，用时 0.17Seconds 1.88Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 15:24:20.52 FTP方式下载 update.list 完成 
+2019-06-18 15:24:18.19 开始进行文件哈希值校验流程。 
+2019-06-18 15:24:18.19 文件 C:\mcafee\history\2019-06-18\update.list 的HASH值为:f8e84b811064f8e767990c6931b81f2be39ec5f0 
+2019-06-18 15:24:18.19 开始进行文件哈希值校验流程。 
+2019-06-18 15:24:18.19 文件 C:\mcafee\tmp\last.update 的HASH值为:ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 15:24:18.19 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 15:24:20.89 本机错峰时间: 75 秒 
+2019-06-18 15:24:20.89 本次更新:\20191113012811\9241xdat.exe 错峰等待时间 75 秒 
+2019-06-18 15:24:20.89 更新更新:\20191113012811\9241xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 15:24:18.19 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9241xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 114158088 字节，用时 11.33Seconds 10077.51Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 15:24:32.72 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 15:24:20.89 更新：\20191113012811\9241xdat.exe 下载完成。 
+2019-06-18 15:24:20.89 本次更新:\20191113012811\9246xdat.exe 错峰等待时间 75 秒 
+2019-06-18 15:24:20.89 更新更新:\20191113012811\9246xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 15:24:18.19 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9246xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 115549152 字节，用时 11.61Seconds 9952.55Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 15:24:44.80 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 15:24:20.89 更新：\20191113012811\9246xdat.exe 下载完成。 
+2019-06-18 15:24:20.89 本次更新:\20191113012811\9248xdat.exe 错峰等待时间 75 秒 
+2019-06-18 15:24:20.89 更新更新:\20191113012811\9248xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 15:24:18.19 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9248xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 116280216 字节，用时 11.48Seconds 10124.53Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 15:24:56.75 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 15:24:20.89 更新：\20191113012811\9248xdat.exe 下载完成。 
+2019-06-18 15:24:20.89 本次更新:\20191113012811\9256xdat.exe 错峰等待时间 75 秒 
+2019-06-18 15:24:20.89 更新更新:\20191113012811\9256xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 15:24:18.19 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9256xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 116551832 字节，用时 11.52Seconds 10120.86Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 15:25:08.74 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 15:24:20.89 更新：\20191113012811\9256xdat.exe 下载完成。 
+2019-06-18 15:25:08.75 本次更新文件总量为：441M 
+2019-06-18 15:25:08.77 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 17:11:38.49 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 324 字节，用时 0.14Seconds 2.31Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 17:11:40.16 FTP方式下载 update.list 完成 
+2019-06-18 17:11:38.49 开始进行文件哈希值校验流程。 
+2019-06-18 17:11:38.49 文件 C:\mcafee\history\2019-06-18\update.list 的HASH值为:f8e84b811064f8e767990c6931b81f2be39ec5f0 
+2019-06-18 17:11:38.49 开始进行文件哈希值校验流程。 
+2019-06-18 17:11:38.49 文件 C:\mcafee\tmp\last.update 的HASH值为:ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 17:11:38.49 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 17:11:40.50 本机错峰时间: 75 秒 
+2019-06-18 17:11:40.50 本次更新:\20191113012811\9241xdat.exe 错峰等待时间 75 秒 
+2019-06-18 17:11:40.50 更新更新:\20191113012811\9241xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 17:11:38.49 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9241xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 114158088 字节，用时 11.19Seconds 10203.62Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 17:11:52.16 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 17:11:40.50 更新：\20191113012811\9241xdat.exe 下载完成。 
+2019-06-18 17:11:40.50 本次更新:\20191113012811\9246xdat.exe 错峰等待时间 75 秒 
+2019-06-18 17:11:40.50 更新更新:\20191113012811\9246xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 17:11:38.49 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9246xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 115549152 字节，用时 11.36Seconds 10171.58Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 17:12:04.00 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 17:11:40.50 更新：\20191113012811\9246xdat.exe 下载完成。 
+2019-06-18 17:11:40.50 本次更新:\20191113012811\9248xdat.exe 错峰等待时间 75 秒 
+2019-06-18 17:11:40.50 更新更新:\20191113012811\9248xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 17:11:38.49 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9248xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 116280216 字节，用时 11.84Seconds 9817.65Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 17:12:16.33 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 17:11:40.50 更新：\20191113012811\9248xdat.exe 下载完成。 
+2019-06-18 17:11:40.50 本次更新:\20191113012811\9256xdat.exe 错峰等待时间 75 秒 
+2019-06-18 17:11:40.50 更新更新:\20191113012811\9256xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 17:11:38.49 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9256xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 116551832 字节，用时 11.53Seconds 10106.82Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 17:12:28.35 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 17:11:40.50 更新：\20191113012811\9256xdat.exe 下载完成。 
+2019-06-18 17:12:28.36 本次更新文件总量为：441M 
+2019-06-18 17:12:28.38 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 17:16:09.94 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 324 字节，用时 0.20Seconds 1.59Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 17:16:11.63 FTP方式下载 update.list 完成 
+2019-06-18 17:16:09.94 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 17:16:11.97 本机错峰时间: 75 秒 
+2019-06-18 17:16:11.97 本次更新:\20191113012811\9241xdat.exe 错峰等待时间 75 秒 
+2019-06-18 17:16:11.97 更新更新:\20191113012811\9241xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 17:16:09.94 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9241xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 114158088 字节，用时 11.19Seconds 10203.62Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 17:16:23.64 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 17:16:11.97 更新：\20191113012811\9241xdat.exe 下载完成。 
+2019-06-18 17:16:11.97 本次更新:\20191113012811\9246xdat.exe 错峰等待时间 75 秒 
+2019-06-18 17:16:11.97 更新更新:\20191113012811\9246xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 17:16:09.94 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9246xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 115549152 字节，用时 11.36Seconds 10172.48Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 17:16:35.52 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 17:16:11.97 更新：\20191113012811\9246xdat.exe 下载完成。 
+2019-06-18 17:16:11.97 本次更新:\20191113012811\9248xdat.exe 错峰等待时间 75 秒 
+2019-06-18 17:16:11.97 更新更新:\20191113012811\9248xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 17:16:09.94 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9248xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 116280216 字节，用时 11.64Seconds 9988.85Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 17:16:47.71 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 17:16:11.97 更新：\20191113012811\9248xdat.exe 下载完成。 
+2019-06-18 17:16:11.97 本次更新:\20191113012811\9256xdat.exe 错峰等待时间 75 秒 
+2019-06-18 17:16:11.97 更新更新:\20191113012811\9256xdat.exe 错峰等待完成,准备执行下载流程 
+2019-06-18 17:16:09.94 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9256xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 116551832 字节，用时 11.66Seconds 9998.44Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 17:16:59.92 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 17:16:11.97 更新：\20191113012811\9256xdat.exe 下载完成。 
+2019-06-18 17:16:59.94 本次更新文件总量为：441M 
+2019-06-18 17:16:59.96 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 17:24:21.86 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get update.list
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 324 字节，用时 0.19Seconds 1.72Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 17:24:23.49 FTP方式下载 update.list 完成 
+2019-06-18 17:24:21.86 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 17:24:23.83 本机错峰时间: 75 秒 
+2019-06-18 17:24:21.86 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9241xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 114158088 字节，用时 11.19Seconds 10203.62Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 17:24:35.47 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 17:24:23.83 更新：\20191113012811\9241xdat.exe 下载完成。 
+2019-06-18 17:24:21.86 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9246xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 115549152 字节，用时 11.34Seconds 10185.93Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 17:24:47.30 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 17:24:23.83 更新：\20191113012811\9246xdat.exe 下载完成。 
+2019-06-18 17:24:21.86 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9248xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 116280216 字节，用时 11.47Seconds 10138.65Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 17:24:59.24 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 17:24:23.83 更新：\20191113012811\9248xdat.exe 下载完成。 
+2019-06-18 17:24:21.86 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+----FTP传输日志开始---- 
+Connected to 192.168.3.117.
+
+220 Microsoft FTP Service
+user Mcafee WU4m5DryqQ4re8
+331 Password required for Mcafee.
+230 User logged in.
+bin
+200 Type set to I.
+get \20191113012811\9256xdat.exe
+200 PORT command successful.
+125 Data connection already open; Transfer starting.
+226 Transfer complete.
+ftp: 收到 116551832 字节，用时 11.97Seconds 9737.81Kbytes/sec.
+
+bye
+221 Goodbye.
+----FTP传输日志结束---- 
+2019-06-18 17:25:11.74 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 17:24:23.83 更新：\20191113012811\9256xdat.exe 下载完成。 
+2019-06-18 17:25:11.75 本次更新文件总量为：441M 
+2019-06-18 17:25:11.77 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 17:30:03.81 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 17:30:03.81 FTPLog: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:30:05.50 FTP方式下载 update.list 完成 
+2019-06-18 17:30:03.81 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 17:30:05.85 本机错峰时间: 75 秒 
+2019-06-18 17:30:03.81 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:30:03.81 FTPLog: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:30:17.64 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 17:30:05.85 更新：\20191113012811\9241xdat.exe 下载完成。 
+2019-06-18 17:30:03.81 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:30:03.81 FTPLog: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:30:29.63 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 17:30:05.85 更新：\20191113012811\9246xdat.exe 下载完成。 
+2019-06-18 17:30:03.81 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:30:03.81 FTPLog: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:30:41.63 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 17:30:05.85 更新：\20191113012811\9248xdat.exe 下载完成。 
+2019-06-18 17:30:03.81 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:30:03.81 FTPLog: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:30:53.66 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 17:30:05.85 更新：\20191113012811\9256xdat.exe 下载完成。 
+2019-06-18 17:30:53.67 本次更新文件总量为：441M 
+2019-06-18 17:30:53.69 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 17:34:16.86 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 17:34:16.86 FTPLog: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:34:18.50 FTP方式下载 update.list 完成 
+2019-06-18 17:34:16.86 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 17:34:18.85 本机错峰时间: 75 秒 
+2019-06-18 17:34:16.86 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:34:16.86 FTPLog: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:36:29.66 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 17:34:18.85 更新：\20191113012811\9241xdat.exe 下载完成。 
+2019-06-18 17:34:16.86 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:34:16.86 FTPLog: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:36:41.64 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 17:34:18.85 更新：\20191113012811\9246xdat.exe 下载完成。 
+2019-06-18 17:34:16.86 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:34:16.86 FTPLog: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:36:53.92 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 17:34:18.85 更新：\20191113012811\9248xdat.exe 下载完成。 
+2019-06-18 17:34:16.86 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:34:16.86 FTPLog: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:37:06.08 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 17:34:18.85 更新：\20191113012811\9256xdat.exe 下载完成。 
+2019-06-18 17:38:27.31 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 17:38:27.31 FTPLog: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:38:29.08 FTP方式下载 update.list 完成 
+2019-06-18 17:38:27.31 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 17:38:29.41 本机错峰时间: 75 秒 
+2019-06-18 17:38:27.31 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:38:27.31 FTPLog: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:38:41.13 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 17:38:29.41 更新：%nxi 下载完成。 
+2019-06-18 17:38:27.31 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:38:27.31 FTPLog: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:38:53.10 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 17:38:29.41 更新：%nxi 下载完成。 
+2019-06-18 17:38:27.31 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:38:27.31 FTPLog: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:39:05.50 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 17:38:29.41 更新：%nxi 下载完成。 
+2019-06-18 17:38:27.31 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:38:27.31 FTPLog: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:39:17.85 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 17:38:29.41 更新：%nxi 下载完成。 
+2019-06-18 17:39:17.86 本次更新文件总量为：441M 
+2019-06-18 17:39:17.86 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 17:42:01.62 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 17:42:01.62 FTPLog: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:42:03.42 FTP方式下载 update.list 完成 
+2019-06-18 17:42:01.62 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 17:42:03.76 本机错峰时间: 75 秒 
+2019-06-18 17:42:01.62 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:42:01.62 FTPLog: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:42:15.46 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 17:42:01.62 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:42:01.62 FTPLog: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:42:27.50 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 17:42:01.62 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:42:01.62 FTPLog: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:42:39.59 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 17:42:01.62 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:42:01.62 C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:42:51.78 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 17:42:51.79 本次更新文件总量为：441M 
+2019-06-18 17:42:51.79 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 17:45:34.07 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 17:45:34.07 220 
+2019-06-18 17:45:34.07 user 
+2019-06-18 17:45:34.07 331 
+2019-06-18 17:45:34.07 230 
+2019-06-18 17:45:34.07 bin 
+2019-06-18 17:45:34.07 200 
+2019-06-18 17:45:34.07 get 
+2019-06-18 17:45:34.07 200 
+2019-06-18 17:45:34.07 125 
+2019-06-18 17:45:34.07 226 
+2019-06-18 17:45:34.07 ftp: 
+2019-06-18 17:45:34.07 bye 
+2019-06-18 17:45:34.07 221 
+2019-06-18 17:45:35.90 FTP方式下载 update.list 完成 
+2019-06-18 17:45:34.07 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 17:45:36.29 本机错峰时间: 75 秒 
+2019-06-18 17:45:34.07 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:45:34.07 220 
+2019-06-18 17:45:34.07 user 
+2019-06-18 17:45:34.07 331 
+2019-06-18 17:45:34.07 230 
+2019-06-18 17:45:34.07 bin 
+2019-06-18 17:45:34.07 200 
+2019-06-18 17:45:34.07 get 
+2019-06-18 17:45:34.07 200 
+2019-06-18 17:45:34.07 125 
+2019-06-18 17:45:34.07 226 
+2019-06-18 17:45:34.07 ftp: 
+2019-06-18 17:45:34.07 bye 
+2019-06-18 17:45:34.07 221 
+2019-06-18 17:45:48.28 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 17:45:34.07 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:45:34.07 220 
+2019-06-18 17:45:34.07 user 
+2019-06-18 17:45:34.07 331 
+2019-06-18 17:45:34.07 230 
+2019-06-18 17:45:34.07 bin 
+2019-06-18 17:45:34.07 200 
+2019-06-18 17:45:34.07 get 
+2019-06-18 17:45:34.07 200 
+2019-06-18 17:45:34.07 125 
+2019-06-18 17:45:34.07 226 
+2019-06-18 17:45:34.07 ftp: 
+2019-06-18 17:45:34.07 bye 
+2019-06-18 17:45:34.07 221 
+2019-06-18 17:46:00.37 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 17:45:34.07 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:45:34.07 220 
+2019-06-18 17:45:34.07 user 
+2019-06-18 17:45:34.07 331 
+2019-06-18 17:45:34.07 230 
+2019-06-18 17:45:34.07 bin 
+2019-06-18 17:45:34.07 200 
+2019-06-18 17:45:34.07 get 
+2019-06-18 17:45:34.07 200 
+2019-06-18 17:45:34.07 125 
+2019-06-18 17:45:34.07 226 
+2019-06-18 17:45:34.07 ftp: 
+2019-06-18 17:45:34.07 bye 
+2019-06-18 17:45:34.07 221 
+2019-06-18 17:46:12.71 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 17:45:34.07 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:45:34.07 220 
+2019-06-18 17:45:34.07 user 
+2019-06-18 17:45:34.07 331 
+2019-06-18 17:45:34.07 230 
+2019-06-18 17:45:34.07 bin 
+2019-06-18 17:45:34.07 200 
+2019-06-18 17:45:34.07 get 
+2019-06-18 17:45:34.07 200 
+2019-06-18 17:45:34.07 125 
+2019-06-18 17:45:34.07 226 
+2019-06-18 17:45:34.07 ftp: 
+2019-06-18 17:45:34.07 bye 
+2019-06-18 17:45:34.07 221 
+2019-06-18 17:46:24.96 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 17:46:24.98 本次更新文件总量为：441M 
+2019-06-18 17:46:25.00 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 17:48:12.78 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 17:48:12.78 C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:48:14.53 FTP方式下载 update.list 完成 
+2019-06-18 17:48:12.78 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 17:48:14.87 本机错峰时间: 75 秒 
+2019-06-18 17:48:12.78 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:48:12.78 C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:48:26.79 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 17:48:12.78 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:48:12.78 C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:48:38.75 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 17:48:12.78 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:48:12.78 C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:48:50.87 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 17:48:12.78 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:48:12.78 C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ftp.log 
+2019-06-18 17:49:03.21 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 17:49:03.23 本次更新文件总量为：441M 
+2019-06-18 17:49:03.25 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 17:50:30.09 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 17:50:30.09 Connected 
+2019-06-18 17:50:30.09 220 
+2019-06-18 17:50:30.09 user 
+2019-06-18 17:50:30.09 331 
+2019-06-18 17:50:30.09 230 
+2019-06-18 17:50:30.09 bin 
+2019-06-18 17:50:30.09 200 
+2019-06-18 17:50:30.09 get 
+2019-06-18 17:50:30.09 200 
+2019-06-18 17:50:30.09 125 
+2019-06-18 17:50:30.09 226 
+2019-06-18 17:50:30.09 ftp: 
+2019-06-18 17:50:30.09 bye 
+2019-06-18 17:50:30.09 221 
+2019-06-18 17:50:31.85 FTP方式下载 update.list 完成 
+2019-06-18 17:50:30.09 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 17:50:32.21 本机错峰时间: 75 秒 
+2019-06-18 17:50:30.09 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:50:30.09 Connected 
+2019-06-18 17:50:30.09 220 
+2019-06-18 17:50:30.09 user 
+2019-06-18 17:50:30.09 331 
+2019-06-18 17:50:30.09 230 
+2019-06-18 17:50:30.09 bin 
+2019-06-18 17:50:30.09 200 
+2019-06-18 17:50:30.09 get 
+2019-06-18 17:50:30.09 200 
+2019-06-18 17:50:30.09 125 
+2019-06-18 17:50:30.09 226 
+2019-06-18 17:50:30.09 ftp: 
+2019-06-18 17:50:30.09 bye 
+2019-06-18 17:50:30.09 221 
+2019-06-18 17:50:56.31 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 17:50:30.09 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:50:30.09 Connected 
+2019-06-18 17:50:30.09 220 
+2019-06-18 17:50:30.09 user 
+2019-06-18 17:50:30.09 331 
+2019-06-18 17:50:30.09 230 
+2019-06-18 17:50:30.09 bin 
+2019-06-18 17:50:30.09 200 
+2019-06-18 17:50:30.09 get 
+2019-06-18 17:50:30.09 200 
+2019-06-18 17:50:30.09 125 
+2019-06-18 17:50:30.09 226 
+2019-06-18 17:50:30.09 ftp: 
+2019-06-18 17:50:30.09 bye 
+2019-06-18 17:50:30.09 221 
+2019-06-18 17:51:08.39 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 17:50:30.09 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 17:50:30.09 Connected 
+2019-06-18 17:50:30.09 220 
+2019-06-18 17:50:30.09 user 
+2019-06-18 17:50:30.09 331 
+2019-06-18 17:50:30.09 230 
+2019-06-18 17:50:30.09 bin 
+2019-06-18 17:50:30.09 200 
+2019-06-18 17:50:30.09 get 
+2019-06-18 17:50:30.09 200 
+2019-06-18 17:50:30.09 125 
+2019-06-18 17:50:30.09 226 
+2019-06-18 17:50:30.09 ftp: 
+2019-06-18 17:50:30.09 bye 
+2019-06-18 17:50:30.09 221 
+2019-06-18 17:51:20.35 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 17:51:20.35 本次更新文件总量为：441M 
+2019-06-18 17:51:20.37 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 21:50:23.71 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 21:51:13.48 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 21:51:13.48 220 Microsoft FTP Service 
+2019-06-18 21:51:13.48 user Mcafee WU4m5DryqQ4re8 
+2019-06-18 21:51:13.48 331 Password required for Mcafee. 
+2019-06-18 21:51:13.48 230 User logged in. 
+2019-06-18 21:51:13.48 bin 
+2019-06-18 21:51:13.48 200 Type set to I. 
+2019-06-18 21:51:13.48 get update.list 
+2019-06-18 21:51:13.48 200 PORT command successful. 
+2019-06-18 21:51:13.48 125 Data connection already open; Transfer starting. 
+2019-06-18 21:51:13.48 226 Transfer complete. 
+2019-06-18 21:51:13.48 ftp: 收到 324 字节，用时 0.13Seconds 2.59Kbytes/sec. 
+2019-06-18 21:51:13.48 bye 
+2019-06-18 21:51:13.48 221 Goodbye. 
+2019-06-18 21:51:15.25 FTP方式下载 update.list 完成 
+2019-06-18 21:51:13.48 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 21:51:15.64 本机错峰时间: 75 秒 
+2019-06-18 21:51:13.48 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 21:51:13.48 220 Microsoft FTP Service 
+2019-06-18 21:51:13.48 user Mcafee WU4m5DryqQ4re8 
+2019-06-18 21:51:13.48 331 Password required for Mcafee. 
+2019-06-18 21:51:13.48 230 User logged in. 
+2019-06-18 21:51:13.48 bin 
+2019-06-18 21:51:13.48 200 Type set to I. 
+2019-06-18 21:51:13.48 get \20191113012811\9241xdat.exe 
+2019-06-18 21:51:13.48 200 PORT command successful. 
+2019-06-18 21:51:13.48 125 Data connection already open; Transfer starting. 
+2019-06-18 21:51:13.48 226 Transfer complete. 
+2019-06-18 21:51:13.48 ftp: 收到 114158088 字节，用时 11.55Seconds 9886.39Kbytes/sec. 
+2019-06-18 21:51:13.48 bye 
+2019-06-18 21:51:13.48 221 Goodbye. 
+2019-06-18 21:51:27.70 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 21:51:13.48 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 21:51:13.48 220 Microsoft FTP Service 
+2019-06-18 21:51:13.48 user Mcafee WU4m5DryqQ4re8 
+2019-06-18 21:51:13.48 331 Password required for Mcafee. 
+2019-06-18 21:51:13.48 230 User logged in. 
+2019-06-18 21:51:13.48 bin 
+2019-06-18 21:51:13.48 200 Type set to I. 
+2019-06-18 21:51:13.48 get \20191113012811\9246xdat.exe 
+2019-06-18 21:51:13.48 200 PORT command successful. 
+2019-06-18 21:51:13.48 125 Data connection already open; Transfer starting. 
+2019-06-18 21:51:13.48 226 Transfer complete. 
+2019-06-18 21:51:13.48 ftp: 收到 115549152 字节，用时 12.44Seconds 9290.01Kbytes/sec. 
+2019-06-18 21:51:13.48 bye 
+2019-06-18 21:51:13.48 221 Goodbye. 
+2019-06-18 21:51:40.73 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 21:51:13.48 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 21:51:13.48 220 Microsoft FTP Service 
+2019-06-18 21:51:13.48 user Mcafee WU4m5DryqQ4re8 
+2019-06-18 21:51:13.48 331 Password required for Mcafee. 
+2019-06-18 21:51:13.48 230 User logged in. 
+2019-06-18 21:51:13.48 bin 
+2019-06-18 21:51:13.48 200 Type set to I. 
+2019-06-18 21:51:13.48 get \20191113012811\9248xdat.exe 
+2019-06-18 21:51:13.48 200 PORT command successful. 
+2019-06-18 21:51:13.48 125 Data connection already open; Transfer starting. 
+2019-06-18 21:51:13.48 226 Transfer complete. 
+2019-06-18 21:51:13.48 ftp: 收到 116280216 字节，用时 11.70Seconds 9935.08Kbytes/sec. 
+2019-06-18 21:51:13.48 bye 
+2019-06-18 21:51:13.48 221 Goodbye. 
+2019-06-18 21:51:52.95 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 21:51:13.48 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 21:51:13.48 220 Microsoft FTP Service 
+2019-06-18 21:51:13.48 user Mcafee WU4m5DryqQ4re8 
+2019-06-18 21:51:13.48 331 Password required for Mcafee. 
+2019-06-18 21:51:13.48 230 User logged in. 
+2019-06-18 21:51:13.48 bin 
+2019-06-18 21:51:13.48 200 Type set to I. 
+2019-06-18 21:51:13.48 get \20191113012811\9256xdat.exe 
+2019-06-18 21:51:13.48 200 PORT command successful. 
+2019-06-18 21:51:13.48 125 Data connection already open; Transfer starting. 
+2019-06-18 21:51:13.48 226 Transfer complete. 
+2019-06-18 21:51:13.48 ftp: 收到 116551832 字节，用时 12.95Seconds 8998.06Kbytes/sec. 
+2019-06-18 21:51:13.48 bye 
+2019-06-18 21:51:13.48 221 Goodbye. 
+2019-06-18 21:52:06.43 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 21:52:06.46 本次更新文件总量为：441M 
+2019-06-18 21:52:06.46 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 21:53:07.82 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 21:53:07.82 220 Microsoft FTP Service 
+2019-06-18 21:53:07.82 user Mcafee WU4m5DryqQ4re8 
+2019-06-18 21:53:07.82 331 Password required for Mcafee. 
+2019-06-18 21:53:07.82 230 User logged in. 
+2019-06-18 21:53:07.82 bin 
+2019-06-18 21:53:07.82 200 Type set to I. 
+2019-06-18 21:53:07.82 get update.list 
+2019-06-18 21:53:07.82 200 PORT command successful. 
+2019-06-18 21:53:07.82 125 Data connection already open; Transfer starting. 
+2019-06-18 21:53:07.82 226 Transfer complete. 
+2019-06-18 21:53:07.82 ftp: 收到 324 字节，用时 0.14Seconds 2.30Kbytes/sec. 
+2019-06-18 21:53:07.82 bye 
+2019-06-18 21:53:07.82 221 Goodbye. 
+2019-06-18 21:53:09.67 FTP方式下载 update.list 完成 
+2019-06-18 21:53:07.82 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 21:53:10.06 本机错峰时间: 75 秒 
+2019-06-18 21:53:07.82 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 21:53:07.82 220 Microsoft FTP Service 
+2019-06-18 21:53:07.82 user Mcafee WU4m5DryqQ4re8 
+2019-06-18 21:53:07.82 331 Password required for Mcafee. 
+2019-06-18 21:53:07.82 230 User logged in. 
+2019-06-18 21:53:07.82 bin 
+2019-06-18 21:53:07.82 200 Type set to I. 
+2019-06-18 21:53:07.82 get \20191113012811\9241xdat.exe 
+2019-06-18 21:53:07.82 200 PORT command successful. 
+2019-06-18 21:53:07.82 125 Data connection already open; Transfer starting. 
+2019-06-18 21:53:07.82 226 Transfer complete. 
+2019-06-18 21:53:07.82 ftp: 收到 114158088 字节，用时 11.84Seconds 9638.47Kbytes/sec. 
+2019-06-18 21:53:07.82 bye 
+2019-06-18 21:53:07.82 221 Goodbye. 
+2019-06-18 21:53:22.48 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 21:53:07.82 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 21:53:07.82 220 Microsoft FTP Service 
+2019-06-18 21:53:07.82 user Mcafee WU4m5DryqQ4re8 
+2019-06-18 21:53:07.82 331 Password required for Mcafee. 
+2019-06-18 21:53:07.82 230 User logged in. 
+2019-06-18 21:53:07.82 bin 
+2019-06-18 21:53:07.82 200 Type set to I. 
+2019-06-18 21:53:07.82 get \20191113012811\9246xdat.exe 
+2019-06-18 21:53:07.82 200 PORT command successful. 
+2019-06-18 21:53:07.82 125 Data connection already open; Transfer starting. 
+2019-06-18 21:53:07.82 226 Transfer complete. 
+2019-06-18 21:53:07.82 ftp: 收到 115549152 字节，用时 11.88Seconds 9730.45Kbytes/sec. 
+2019-06-18 21:53:07.82 bye 
+2019-06-18 21:53:07.82 221 Goodbye. 
+2019-06-18 21:53:34.93 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 21:53:07.82 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 21:53:07.82 220 Microsoft FTP Service 
+2019-06-18 21:53:07.82 user Mcafee WU4m5DryqQ4re8 
+2019-06-18 21:53:07.82 331 Password required for Mcafee. 
+2019-06-18 21:53:07.82 230 User logged in. 
+2019-06-18 21:53:07.82 bin 
+2019-06-18 21:53:07.82 200 Type set to I. 
+2019-06-18 21:53:07.82 get \20191113012811\9248xdat.exe 
+2019-06-18 21:53:07.82 200 PORT command successful. 
+2019-06-18 21:53:07.82 125 Data connection already open; Transfer starting. 
+2019-06-18 21:53:07.82 226 Transfer complete. 
+2019-06-18 21:53:07.82 ftp: 收到 116280216 字节，用时 11.92Seconds 9753.42Kbytes/sec. 
+2019-06-18 21:53:07.82 bye 
+2019-06-18 21:53:07.82 221 Goodbye. 
+2019-06-18 21:53:47.46 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 21:53:07.82 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 21:53:07.82 220 Microsoft FTP Service 
+2019-06-18 21:53:07.82 user Mcafee WU4m5DryqQ4re8 
+2019-06-18 21:53:07.82 331 Password required for Mcafee. 
+2019-06-18 21:53:07.82 230 User logged in. 
+2019-06-18 21:53:07.82 bin 
+2019-06-18 21:53:07.82 200 Type set to I. 
+2019-06-18 21:53:07.82 get \20191113012811\9256xdat.exe 
+2019-06-18 21:53:07.82 200 PORT command successful. 
+2019-06-18 21:53:07.82 125 Data connection already open; Transfer starting. 
+2019-06-18 21:53:07.82 226 Transfer complete. 
+2019-06-18 21:53:07.82 ftp: 收到 116551832 字节，用时 12.00Seconds 9712.65Kbytes/sec. 
+2019-06-18 21:53:07.82 bye 
+2019-06-18 21:53:07.82 221 Goodbye. 
+2019-06-18 21:54:00.03 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 21:54:00.04 本次更新文件总量为：441M 
+2019-06-18 21:54:00.06 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 21:56:27.70 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 21:56:27.70 220 Microsoft FTP Service %j %k 
+2019-06-18 21:56:27.70 user Mcafee WU4m5DryqQ4re8 %j %k 
+2019-06-18 21:56:27.70 331 Password required for Mcafee. %j %k 
+2019-06-18 21:56:27.70 230 User logged in. %j %k 
+2019-06-18 21:56:27.70 bin %j %k 
+2019-06-18 21:56:27.70 200 Type set to I. %j %k 
+2019-06-18 21:56:27.70 get update.list %j %k 
+2019-06-18 21:56:27.70 200 PORT command successful. %j %k 
+2019-06-18 21:56:27.70 125 Data connection already open; Transfer starting. %j %k 
+2019-06-18 21:56:27.70 226 Transfer complete. %j %k 
+2019-06-18 21:56:27.70 ftp: 收到 324 字节，用时 0.13Seconds 2.59Kbytes/sec. %j %k 
+2019-06-18 21:56:27.70 bye %j %k 
+2019-06-18 21:56:27.70 221 Goodbye. %j %k 
+2019-06-18 21:56:29.51 FTP方式下载 update.list 完成 
+2019-06-18 21:56:27.70 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 21:56:29.87 本机错峰时间: 75 秒 
+2019-06-18 21:56:27.70 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 21:56:27.70 220 Microsoft FTP Service 782d39bac87adc5238fbd6e3a2624df67c58c258 114158088 
+2019-06-18 21:56:27.70 user Mcafee WU4m5DryqQ4re8 782d39bac87adc5238fbd6e3a2624df67c58c258 114158088 
+2019-06-18 21:56:27.70 331 Password required for Mcafee. 782d39bac87adc5238fbd6e3a2624df67c58c258 114158088 
+2019-06-18 21:56:27.70 230 User logged in. 782d39bac87adc5238fbd6e3a2624df67c58c258 114158088 
+2019-06-18 21:56:27.70 bin 782d39bac87adc5238fbd6e3a2624df67c58c258 114158088 
+2019-06-18 21:56:27.70 200 Type set to I. 782d39bac87adc5238fbd6e3a2624df67c58c258 114158088 
+2019-06-18 21:56:27.70 get \20191113012811\9241xdat.exe 782d39bac87adc5238fbd6e3a2624df67c58c258 114158088 
+2019-06-18 21:56:27.70 200 PORT command successful. 782d39bac87adc5238fbd6e3a2624df67c58c258 114158088 
+2019-06-18 21:56:27.70 125 Data connection already open; Transfer starting. 782d39bac87adc5238fbd6e3a2624df67c58c258 114158088 
+2019-06-18 21:56:27.70 226 Transfer complete. 782d39bac87adc5238fbd6e3a2624df67c58c258 114158088 
+2019-06-18 21:56:27.70 ftp: 收到 114158088 字节，用时 11.91Seconds 9587.48Kbytes/sec. 782d39bac87adc5238fbd6e3a2624df67c58c258 114158088 
+2019-06-18 21:56:27.70 bye 782d39bac87adc5238fbd6e3a2624df67c58c258 114158088 
+2019-06-18 21:56:27.70 221 Goodbye. 782d39bac87adc5238fbd6e3a2624df67c58c258 114158088 
+2019-06-18 21:56:42.35 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 21:56:27.70 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 21:56:27.70 220 Microsoft FTP Service 33c8e95aa436f82b753657c6a741fb56872e1044 115549152 
+2019-06-18 21:56:27.70 user Mcafee WU4m5DryqQ4re8 33c8e95aa436f82b753657c6a741fb56872e1044 115549152 
+2019-06-18 21:56:27.70 331 Password required for Mcafee. 33c8e95aa436f82b753657c6a741fb56872e1044 115549152 
+2019-06-18 21:56:27.70 230 User logged in. 33c8e95aa436f82b753657c6a741fb56872e1044 115549152 
+2019-06-18 21:56:27.70 bin 33c8e95aa436f82b753657c6a741fb56872e1044 115549152 
+2019-06-18 21:56:27.70 200 Type set to I. 33c8e95aa436f82b753657c6a741fb56872e1044 115549152 
+2019-06-18 21:56:27.70 get \20191113012811\9246xdat.exe 33c8e95aa436f82b753657c6a741fb56872e1044 115549152 
+2019-06-18 21:56:27.70 200 PORT command successful. 33c8e95aa436f82b753657c6a741fb56872e1044 115549152 
+2019-06-18 21:56:27.70 125 Data connection already open; Transfer starting. 33c8e95aa436f82b753657c6a741fb56872e1044 115549152 
+2019-06-18 21:56:27.70 226 Transfer complete. 33c8e95aa436f82b753657c6a741fb56872e1044 115549152 
+2019-06-18 21:56:27.70 ftp: 收到 115549152 字节，用时 11.91Seconds 9705.12Kbytes/sec. 33c8e95aa436f82b753657c6a741fb56872e1044 115549152 
+2019-06-18 21:56:27.70 bye 33c8e95aa436f82b753657c6a741fb56872e1044 115549152 
+2019-06-18 21:56:27.70 221 Goodbye. 33c8e95aa436f82b753657c6a741fb56872e1044 115549152 
+2019-06-18 21:56:54.89 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 21:56:27.70 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 21:56:27.70 220 Microsoft FTP Service 5e25512583ede2e293340d8bfba3f40f97d85ab5 116280216 
+2019-06-18 21:56:27.70 user Mcafee WU4m5DryqQ4re8 5e25512583ede2e293340d8bfba3f40f97d85ab5 116280216 
+2019-06-18 21:56:27.70 331 Password required for Mcafee. 5e25512583ede2e293340d8bfba3f40f97d85ab5 116280216 
+2019-06-18 21:56:27.70 230 User logged in. 5e25512583ede2e293340d8bfba3f40f97d85ab5 116280216 
+2019-06-18 21:56:27.70 bin 5e25512583ede2e293340d8bfba3f40f97d85ab5 116280216 
+2019-06-18 21:56:27.70 200 Type set to I. 5e25512583ede2e293340d8bfba3f40f97d85ab5 116280216 
+2019-06-18 21:56:27.70 get \20191113012811\9248xdat.exe 5e25512583ede2e293340d8bfba3f40f97d85ab5 116280216 
+2019-06-18 21:56:27.70 200 PORT command successful. 5e25512583ede2e293340d8bfba3f40f97d85ab5 116280216 
+2019-06-18 21:56:27.70 125 Data connection already open; Transfer starting. 5e25512583ede2e293340d8bfba3f40f97d85ab5 116280216 
+2019-06-18 21:56:27.70 226 Transfer complete. 5e25512583ede2e293340d8bfba3f40f97d85ab5 116280216 
+2019-06-18 21:56:27.70 ftp: 收到 116280216 字节，用时 11.94Seconds 9740.34Kbytes/sec. 5e25512583ede2e293340d8bfba3f40f97d85ab5 116280216 
+2019-06-18 21:56:27.70 bye 5e25512583ede2e293340d8bfba3f40f97d85ab5 116280216 
+2019-06-18 21:56:27.70 221 Goodbye. 5e25512583ede2e293340d8bfba3f40f97d85ab5 116280216 
+2019-06-18 21:57:07.43 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 21:56:27.70 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 21:56:27.70 55df11afbdb24d89159cf231f181bd1de165e695 
+2019-06-18 21:56:27.70 55df11afbdb24d89159cf231f181bd1de165e695 
+2019-06-18 21:56:27.70 55df11afbdb24d89159cf231f181bd1de165e695 
+2019-06-18 21:56:27.70 55df11afbdb24d89159cf231f181bd1de165e695 
+2019-06-18 21:56:27.70 55df11afbdb24d89159cf231f181bd1de165e695 
+2019-06-18 21:56:27.70 55df11afbdb24d89159cf231f181bd1de165e695 
+2019-06-18 21:56:27.70 55df11afbdb24d89159cf231f181bd1de165e695 
+2019-06-18 21:56:27.70 55df11afbdb24d89159cf231f181bd1de165e695 
+2019-06-18 21:56:27.70 55df11afbdb24d89159cf231f181bd1de165e695 
+2019-06-18 21:56:27.70 55df11afbdb24d89159cf231f181bd1de165e695 
+2019-06-18 21:56:27.70 55df11afbdb24d89159cf231f181bd1de165e695 
+2019-06-18 21:56:27.70 55df11afbdb24d89159cf231f181bd1de165e695 
+2019-06-18 21:56:27.70 55df11afbdb24d89159cf231f181bd1de165e695 
+2019-06-18 21:57:20.01 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 21:57:20.04 本次更新文件总量为：441M 
+2019-06-18 21:57:20.04 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 21:58:23.31 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 21:58:23.31 %j 
+2019-06-18 21:58:23.31 %j 
+2019-06-18 21:58:23.31 %j 
+2019-06-18 21:58:23.31 %j 
+2019-06-18 21:58:23.31 %j 
+2019-06-18 21:58:23.31 %j 
+2019-06-18 21:58:23.31 %j 
+2019-06-18 21:58:23.31 %j 
+2019-06-18 21:58:23.31 %j 
+2019-06-18 21:58:23.31 %j 
+2019-06-18 21:58:23.31 %j 
+2019-06-18 21:58:23.31 %j 
+2019-06-18 21:58:23.31 %j 
+2019-06-18 21:58:25.12 FTP方式下载 update.list 完成 
+2019-06-18 21:58:23.31 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 21:58:25.54 本机错峰时间: 75 秒 
+2019-06-18 21:58:23.31 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 21:58:23.31 782d39bac87adc5238fbd6e3a2624df67c58c258 
+2019-06-18 21:58:23.31 782d39bac87adc5238fbd6e3a2624df67c58c258 
+2019-06-18 21:58:23.31 782d39bac87adc5238fbd6e3a2624df67c58c258 
+2019-06-18 21:58:23.31 782d39bac87adc5238fbd6e3a2624df67c58c258 
+2019-06-18 21:58:23.31 782d39bac87adc5238fbd6e3a2624df67c58c258 
+2019-06-18 21:58:23.31 782d39bac87adc5238fbd6e3a2624df67c58c258 
+2019-06-18 21:58:23.31 782d39bac87adc5238fbd6e3a2624df67c58c258 
+2019-06-18 21:58:23.31 782d39bac87adc5238fbd6e3a2624df67c58c258 
+2019-06-18 21:58:23.31 782d39bac87adc5238fbd6e3a2624df67c58c258 
+2019-06-18 21:58:23.31 782d39bac87adc5238fbd6e3a2624df67c58c258 
+2019-06-18 21:58:23.31 782d39bac87adc5238fbd6e3a2624df67c58c258 
+2019-06-18 21:58:23.31 782d39bac87adc5238fbd6e3a2624df67c58c258 
+2019-06-18 21:58:23.31 782d39bac87adc5238fbd6e3a2624df67c58c258 
+2019-06-18 21:58:37.87 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 21:58:23.31 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 21:58:23.31 220 Microsoft FTP Service 33c8e95aa436f82b753657c6a741fb56872e1044 
+2019-06-18 21:58:23.31 user Mcafee WU4m5DryqQ4re8 33c8e95aa436f82b753657c6a741fb56872e1044 
+2019-06-18 21:58:23.31 331 Password required for Mcafee. 33c8e95aa436f82b753657c6a741fb56872e1044 
+2019-06-18 21:58:23.31 230 User logged in. 33c8e95aa436f82b753657c6a741fb56872e1044 
+2019-06-18 21:58:23.31 bin 33c8e95aa436f82b753657c6a741fb56872e1044 
+2019-06-18 21:58:23.31 200 Type set to I. 33c8e95aa436f82b753657c6a741fb56872e1044 
+2019-06-18 21:58:23.31 get \20191113012811\9246xdat.exe 33c8e95aa436f82b753657c6a741fb56872e1044 
+2019-06-18 21:58:23.31 200 PORT command successful. 33c8e95aa436f82b753657c6a741fb56872e1044 
+2019-06-18 21:58:23.31 125 Data connection already open; Transfer starting. 33c8e95aa436f82b753657c6a741fb56872e1044 
+2019-06-18 21:58:23.31 226 Transfer complete. 33c8e95aa436f82b753657c6a741fb56872e1044 
+2019-06-18 21:58:23.31 ftp: 收到 115549152 字节，用时 11.88Seconds 9730.45Kbytes/sec. 33c8e95aa436f82b753657c6a741fb56872e1044 
+2019-06-18 21:58:23.31 bye 33c8e95aa436f82b753657c6a741fb56872e1044 
+2019-06-18 21:58:23.31 221 Goodbye. 33c8e95aa436f82b753657c6a741fb56872e1044 
+2019-06-18 21:58:50.34 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 21:58:23.31 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 21:58:23.31 220 Microsoft FTP Service 5e25512583ede2e293340d8bfba3f40f97d85ab5 
+2019-06-18 21:58:23.31 user Mcafee WU4m5DryqQ4re8 5e25512583ede2e293340d8bfba3f40f97d85ab5 
+2019-06-18 21:58:23.31 331 Password required for Mcafee. 5e25512583ede2e293340d8bfba3f40f97d85ab5 
+2019-06-18 21:58:23.31 230 User logged in. 5e25512583ede2e293340d8bfba3f40f97d85ab5 
+2019-06-18 21:58:23.31 bin 5e25512583ede2e293340d8bfba3f40f97d85ab5 
+2019-06-18 21:58:23.31 200 Type set to I. 5e25512583ede2e293340d8bfba3f40f97d85ab5 
+2019-06-18 21:58:23.31 get \20191113012811\9248xdat.exe 5e25512583ede2e293340d8bfba3f40f97d85ab5 
+2019-06-18 21:58:23.31 200 PORT command successful. 5e25512583ede2e293340d8bfba3f40f97d85ab5 
+2019-06-18 21:58:23.31 125 Data connection already open; Transfer starting. 5e25512583ede2e293340d8bfba3f40f97d85ab5 
+2019-06-18 21:58:23.31 226 Transfer complete. 5e25512583ede2e293340d8bfba3f40f97d85ab5 
+2019-06-18 21:58:23.31 ftp: 收到 116280216 字节，用时 11.97Seconds 9715.12Kbytes/sec. 5e25512583ede2e293340d8bfba3f40f97d85ab5 
+2019-06-18 21:58:23.31 bye 5e25512583ede2e293340d8bfba3f40f97d85ab5 
+2019-06-18 21:58:23.31 221 Goodbye. 5e25512583ede2e293340d8bfba3f40f97d85ab5 
+2019-06-18 21:59:02.92 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 21:58:23.31 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 21:58:23.31 220 Microsoft FTP Service  
+2019-06-18 21:58:23.31 user Mcafee WU4m5DryqQ4re8  
+2019-06-18 21:58:23.31 331 Password required for Mcafee.  
+2019-06-18 21:58:23.31 230 User logged in.  
+2019-06-18 21:58:23.31 bin  
+2019-06-18 21:58:23.31 200 Type set to I.  
+2019-06-18 21:58:23.31 get \20191113012811\9256xdat.exe  
+2019-06-18 21:58:23.31 200 PORT command successful.  
+2019-06-18 21:58:23.31 125 Data connection already open; Transfer starting.  
+2019-06-18 21:58:23.31 226 Transfer complete.  
+2019-06-18 21:58:23.31 ftp: 收到 116551832 字节，用时 12.14Seconds 9599.85Kbytes/sec.  
+2019-06-18 21:58:23.31 bye  
+2019-06-18 21:58:23.31 221 Goodbye.  
+2019-06-18 21:59:15.65 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 21:59:15.67 本次更新文件总量为：441M 
+2019-06-18 21:59:15.68 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 21:59:18.87 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 21:59:18.87 220 Microsoft FTP Service  
+2019-06-18 21:59:18.87 user Mcafee WU4m5DryqQ4re8  
+2019-06-18 21:59:18.87 331 Password required for Mcafee.  
+2019-06-18 21:59:18.87 230 User logged in.  
+2019-06-18 21:59:18.87 bin  
+2019-06-18 21:59:18.87 200 Type set to I.  
+2019-06-18 21:59:18.87 get update.list  
+2019-06-18 21:59:18.87 200 PORT command successful.  
+2019-06-18 21:59:18.87 125 Data connection already open; Transfer starting.  
+2019-06-18 21:59:18.87 226 Transfer complete.  
+2019-06-18 21:59:18.87 ftp: 收到 324 字节，用时 0.17Seconds 1.88Kbytes/sec.  
+2019-06-18 21:59:18.87 bye  
+2019-06-18 21:59:18.87 221 Goodbye.  
+2019-06-18 21:59:20.78 FTP方式下载 update.list 完成 
+2019-06-18 21:59:18.87 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 21:59:21.32 本机错峰时间: 75 秒 
+2019-06-18 21:59:18.87 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 21:59:18.87 220 Microsoft FTP Service  
+2019-06-18 21:59:18.87 user Mcafee WU4m5DryqQ4re8  
+2019-06-18 21:59:18.87 331 Password required for Mcafee.  
+2019-06-18 21:59:18.87 230 User logged in.  
+2019-06-18 21:59:18.87 bin  
+2019-06-18 21:59:18.87 200 Type set to I.  
+2019-06-18 21:59:18.87 get \20191113012811\9241xdat.exe  
+2019-06-18 21:59:18.87 200 PORT command successful.  
+2019-06-18 21:59:18.87 125 Data connection already open; Transfer starting.  
+2019-06-18 21:59:18.87 226 Transfer complete.  
+2019-06-18 21:59:18.87 ftp: 收到 114158088 字节，用时 11.91Seconds 9588.28Kbytes/sec.  
+2019-06-18 21:59:18.87 bye  
+2019-06-18 21:59:18.87 221 Goodbye.  
+2019-06-18 21:59:33.84 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 21:59:18.87 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 21:59:18.87 220 Microsoft FTP Service  
+2019-06-18 21:59:18.87 user Mcafee WU4m5DryqQ4re8  
+2019-06-18 21:59:18.87 331 Password required for Mcafee.  
+2019-06-18 21:59:18.87 230 User logged in.  
+2019-06-18 21:59:18.87 bin  
+2019-06-18 21:59:18.87 200 Type set to I.  
+2019-06-18 21:59:18.87 get \20191113012811\9246xdat.exe  
+2019-06-18 21:59:18.87 200 PORT command successful.  
+2019-06-18 21:59:18.87 125 Data connection already open; Transfer starting.  
+2019-06-18 21:59:18.87 226 Transfer complete.  
+2019-06-18 21:59:18.87 ftp: 收到 115549152 字节，用时 11.89Seconds 9717.36Kbytes/sec.  
+2019-06-18 21:59:18.87 bye  
+2019-06-18 21:59:18.87 221 Goodbye.  
+2019-06-18 21:59:46.35 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 21:59:18.87 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 21:59:18.87 220 Microsoft FTP Service  
+2019-06-18 21:59:18.87 user Mcafee WU4m5DryqQ4re8  
+2019-06-18 21:59:18.87 331 Password required for Mcafee.  
+2019-06-18 21:59:18.87 230 User logged in.  
+2019-06-18 21:59:18.87 bin  
+2019-06-18 21:59:18.87 200 Type set to I.  
+2019-06-18 21:59:18.87 get \20191113012811\9248xdat.exe  
+2019-06-18 21:59:18.87 200 PORT command successful.  
+2019-06-18 21:59:18.87 125 Data connection already open; Transfer starting.  
+2019-06-18 21:59:18.87 226 Transfer complete.  
+2019-06-18 21:59:18.87 ftp: 收到 116280216 字节，用时 11.94Seconds 9740.34Kbytes/sec.  
+2019-06-18 21:59:18.87 bye  
+2019-06-18 21:59:18.87 221 Goodbye.  
+2019-06-18 21:59:58.87 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 21:59:18.87 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 21:59:18.87 220 Microsoft FTP Service  
+2019-06-18 21:59:18.87 user Mcafee WU4m5DryqQ4re8  
+2019-06-18 21:59:18.87 331 Password required for Mcafee.  
+2019-06-18 21:59:18.87 230 User logged in.  
+2019-06-18 21:59:18.87 bin  
+2019-06-18 21:59:18.87 200 Type set to I.  
+2019-06-18 21:59:18.87 get \20191113012811\9256xdat.exe  
+2019-06-18 21:59:18.87 200 PORT command successful.  
+2019-06-18 21:59:18.87 125 Data connection already open; Transfer starting.  
+2019-06-18 21:59:18.87 226 Transfer complete.  
+2019-06-18 21:59:18.87 ftp: 收到 116551832 字节，用时 11.91Seconds 9788.51Kbytes/sec.  
+2019-06-18 21:59:18.87 bye  
+2019-06-18 21:59:18.87 221 Goodbye.  
+2019-06-18 22:00:11.40 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 22:00:11.42 本次更新文件总量为：441M 
+2019-06-18 22:00:11.42 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 22:01:16.59 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 22:01:16.59 220 Microsoft FTP Service  
+2019-06-18 22:01:16.59 user Mcafee WU4m5DryqQ4re8  
+2019-06-18 22:01:16.59 331 Password required for Mcafee.  
+2019-06-18 22:01:16.59 230 User logged in.  
+2019-06-18 22:01:16.59 bin  
+2019-06-18 22:01:16.59 200 Type set to I.  
+2019-06-18 22:01:16.59 get update.list  
+2019-06-18 22:01:16.59 200 PORT command successful.  
+2019-06-18 22:01:16.59 125 Data connection already open; Transfer starting.  
+2019-06-18 22:01:16.59 226 Transfer complete.  
+2019-06-18 22:01:16.59 ftp: 收到 324 字节，用时 0.20Seconds 1.59Kbytes/sec.  
+2019-06-18 22:01:16.59 bye  
+2019-06-18 22:01:16.59 221 Goodbye.  
+2019-06-18 22:01:18.53 FTP方式下载 update.list 完成 
+2019-06-18 22:01:16.59 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 22:01:18.89 本机错峰时间: 75 秒 
+2019-06-18 22:01:16.59 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:01:16.59 220 Microsoft FTP Service  
+2019-06-18 22:01:16.59 user Mcafee WU4m5DryqQ4re8  
+2019-06-18 22:01:16.59 331 Password required for Mcafee.  
+2019-06-18 22:01:16.59 230 User logged in.  
+2019-06-18 22:01:16.59 bin  
+2019-06-18 22:01:16.59 200 Type set to I.  
+2019-06-18 22:01:16.59 get \20191113012811\9241xdat.exe  
+2019-06-18 22:01:16.59 200 PORT command successful.  
+2019-06-18 22:01:16.59 125 Data connection already open; Transfer starting.  
+2019-06-18 22:01:16.59 226 Transfer complete.  
+2019-06-18 22:01:16.59 ftp: 收到 114158088 字节，用时 11.73Seconds 9728.00Kbytes/sec.  
+2019-06-18 22:01:16.59 bye  
+2019-06-18 22:01:16.59 221 Goodbye.  
+2019-06-18 22:01:31.18 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 22:01:16.59 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:01:16.59 220 Microsoft FTP Service  
+2019-06-18 22:01:16.59 user Mcafee WU4m5DryqQ4re8  
+2019-06-18 22:01:16.59 331 Password required for Mcafee.  
+2019-06-18 22:01:16.59 230 User logged in.  
+2019-06-18 22:01:16.59 bin  
+2019-06-18 22:01:16.59 200 Type set to I.  
+2019-06-18 22:01:16.59 get \20191113012811\9246xdat.exe  
+2019-06-18 22:01:16.59 200 PORT command successful.  
+2019-06-18 22:01:16.59 125 Data connection already open; Transfer starting.  
+2019-06-18 22:01:16.59 226 Transfer complete.  
+2019-06-18 22:01:16.59 ftp: 收到 115549152 字节，用时 11.88Seconds 9730.45Kbytes/sec.  
+2019-06-18 22:01:16.59 bye  
+2019-06-18 22:01:16.59 221 Goodbye.  
+2019-06-18 22:01:43.62 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 22:01:16.59 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:01:16.59 220 Microsoft FTP Service  
+2019-06-18 22:01:16.59 user Mcafee WU4m5DryqQ4re8  
+2019-06-18 22:01:16.59 331 Password required for Mcafee.  
+2019-06-18 22:01:16.59 230 User logged in.  
+2019-06-18 22:01:16.59 bin  
+2019-06-18 22:01:16.59 200 Type set to I.  
+2019-06-18 22:01:16.59 get \20191113012811\9248xdat.exe  
+2019-06-18 22:01:16.59 200 PORT command successful.  
+2019-06-18 22:01:16.59 125 Data connection already open; Transfer starting.  
+2019-06-18 22:01:16.59 226 Transfer complete.  
+2019-06-18 22:01:16.59 ftp: 收到 116280216 字节，用时 11.95Seconds 9728.12Kbytes/sec.  
+2019-06-18 22:01:16.59 bye  
+2019-06-18 22:01:16.59 221 Goodbye.  
+2019-06-18 22:01:56.23 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 22:01:16.59 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:01:16.59 220 Microsoft FTP Service  
+2019-06-18 22:01:16.59 user Mcafee WU4m5DryqQ4re8  
+2019-06-18 22:01:16.59 331 Password required for Mcafee.  
+2019-06-18 22:01:16.59 230 User logged in.  
+2019-06-18 22:01:16.59 bin  
+2019-06-18 22:01:16.59 200 Type set to I.  
+2019-06-18 22:01:16.59 get \20191113012811\9256xdat.exe  
+2019-06-18 22:01:16.59 200 PORT command successful.  
+2019-06-18 22:01:16.59 125 Data connection already open; Transfer starting.  
+2019-06-18 22:01:16.59 226 Transfer complete.  
+2019-06-18 22:01:16.59 ftp: 收到 116551832 字节，用时 11.97Seconds 9737.81Kbytes/sec.  
+2019-06-18 22:01:16.59 bye  
+2019-06-18 22:01:16.59 221 Goodbye.  
+2019-06-18 22:02:08.81 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 22:02:08.82 本次更新文件总量为：441M 
+2019-06-18 22:02:08.82 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 22:03:07.31 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 22:03:07.31 230 User logged in.  
+2019-06-18 22:03:07.31 bin  
+2019-06-18 22:03:07.31 200 Type set to I.  
+2019-06-18 22:03:07.31 get update.list  
+2019-06-18 22:03:07.31 200 PORT command successful.  
+2019-06-18 22:03:07.31 125 Data connection already open; Transfer starting.  
+2019-06-18 22:03:07.31 226 Transfer complete.  
+2019-06-18 22:03:07.31 ftp: 收到 324 字节，用时 0.20Seconds 1.60Kbytes/sec.  
+2019-06-18 22:03:07.31 bye  
+2019-06-18 22:03:07.31 221 Goodbye.  
+2019-06-18 22:03:09.18 FTP方式下载 update.list 完成 
+2019-06-18 22:03:07.31 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 22:03:09.54 本机错峰时间: 75 秒 
+2019-06-18 22:03:07.31 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:03:07.31 230 User logged in.  
+2019-06-18 22:03:07.31 bin  
+2019-06-18 22:03:07.31 200 Type set to I.  
+2019-06-18 22:03:07.31 get \20191113012811\9241xdat.exe  
+2019-06-18 22:03:07.31 200 PORT command successful.  
+2019-06-18 22:03:07.31 125 Data connection already open; Transfer starting.  
+2019-06-18 22:03:07.31 226 Transfer complete.  
+2019-06-18 22:03:07.31 ftp: 收到 114158088 字节，用时 11.69Seconds 9767.95Kbytes/sec.  
+2019-06-18 22:03:07.31 bye  
+2019-06-18 22:03:07.31 221 Goodbye.  
+2019-06-18 22:03:21.76 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 22:03:07.31 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:03:07.31 230 User logged in.  
+2019-06-18 22:03:07.31 bin  
+2019-06-18 22:03:07.31 200 Type set to I.  
+2019-06-18 22:03:07.31 get \20191113012811\9246xdat.exe  
+2019-06-18 22:03:07.31 200 PORT command successful.  
+2019-06-18 22:03:07.31 125 Data connection already open; Transfer starting.  
+2019-06-18 22:03:07.31 226 Transfer complete.  
+2019-06-18 22:03:07.31 ftp: 收到 115549152 字节，用时 11.88Seconds 9730.45Kbytes/sec.  
+2019-06-18 22:03:07.31 bye  
+2019-06-18 22:03:07.31 221 Goodbye.  
+2019-06-18 22:03:34.20 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 22:03:07.31 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:03:07.31 230 User logged in.  
+2019-06-18 22:03:07.31 bin  
+2019-06-18 22:03:07.31 200 Type set to I.  
+2019-06-18 22:03:07.31 get \20191113012811\9248xdat.exe  
+2019-06-18 22:03:07.31 200 PORT command successful.  
+2019-06-18 22:03:07.31 125 Data connection already open; Transfer starting.  
+2019-06-18 22:03:07.31 226 Transfer complete.  
+2019-06-18 22:03:07.31 ftp: 收到 116280216 字节，用时 11.92Seconds 9753.42Kbytes/sec.  
+2019-06-18 22:03:07.31 bye  
+2019-06-18 22:03:07.31 221 Goodbye.  
+2019-06-18 22:03:46.68 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 22:03:07.31 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:03:07.31 230 User logged in.  
+2019-06-18 22:03:07.31 bin  
+2019-06-18 22:03:07.31 200 Type set to I.  
+2019-06-18 22:03:07.31 get \20191113012811\9256xdat.exe  
+2019-06-18 22:03:07.31 200 PORT command successful.  
+2019-06-18 22:03:07.31 125 Data connection already open; Transfer starting.  
+2019-06-18 22:03:07.31 226 Transfer complete.  
+2019-06-18 22:03:07.31 ftp: 收到 116551832 字节，用时 11.98Seconds 9724.81Kbytes/sec.  
+2019-06-18 22:03:07.31 bye  
+2019-06-18 22:03:07.31 221 Goodbye.  
+2019-06-18 22:03:59.26 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 22:03:59.28 本次更新文件总量为：441M 
+2019-06-18 22:03:59.28 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 22:04:25.70 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 22:04:25.70 230 User logged in.  
+2019-06-18 22:04:25.70 bin  
+2019-06-18 22:04:25.70 200 Type set to I.  
+2019-06-18 22:04:25.70 get update.list  
+2019-06-18 22:04:25.70 200 PORT command successful.  
+2019-06-18 22:04:25.70 125 Data connection already open; Transfer starting.  
+2019-06-18 22:04:25.70 226 Transfer complete.  
+2019-06-18 22:04:25.70 ftp: 收到 324 字节，用时 0.20Seconds 1.59Kbytes/sec.  
+2019-06-18 22:04:25.70 bye  
+2019-06-18 22:04:25.70 221 Goodbye.  
+2019-06-18 22:04:27.65 FTP方式下载 update.list 完成 
+2019-06-18 22:04:25.70 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 22:04:28.01 本机错峰时间: 75 秒 
+2019-06-18 22:04:25.70 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:04:25.70 230 User logged in.  
+2019-06-18 22:04:25.70 bin  
+2019-06-18 22:04:25.70 200 Type set to I.  
+2019-06-18 22:04:25.70 get \20191113012811\9241xdat.exe  
+2019-06-18 22:04:25.70 200 PORT command successful.  
+2019-06-18 22:04:25.70 125 Data connection already open; Transfer starting.  
+2019-06-18 22:04:25.70 226 Transfer complete.  
+2019-06-18 22:04:25.70 ftp: 收到 114158088 字节，用时 11.78Seconds 9689.19Kbytes/sec.  
+2019-06-18 22:04:25.70 bye  
+2019-06-18 22:04:25.70 221 Goodbye.  
+2019-06-18 22:04:40.31 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 22:04:25.70 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:04:25.70 230 User logged in.  
+2019-06-18 22:04:25.70 bin  
+2019-06-18 22:04:25.70 200 Type set to I.  
+2019-06-18 22:04:25.70 get \20191113012811\9246xdat.exe  
+2019-06-18 22:04:25.70 200 PORT command successful.  
+2019-06-18 22:04:25.70 125 Data connection already open; Transfer starting.  
+2019-06-18 22:04:25.70 226 Transfer complete.  
+2019-06-18 22:04:25.70 ftp: 收到 115549152 字节，用时 11.91Seconds 9704.30Kbytes/sec.  
+2019-06-18 22:04:25.70 bye  
+2019-06-18 22:04:25.70 221 Goodbye.  
+2019-06-18 22:04:52.81 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 22:04:25.70 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:04:25.70 230 User logged in.  
+2019-06-18 22:04:25.70 bin  
+2019-06-18 22:04:25.70 200 Type set to I.  
+2019-06-18 22:04:25.70 get \20191113012811\9248xdat.exe  
+2019-06-18 22:04:25.70 200 PORT command successful.  
+2019-06-18 22:04:25.70 125 Data connection already open; Transfer starting.  
+2019-06-18 22:04:25.70 226 Transfer complete.  
+2019-06-18 22:04:25.70 ftp: 收到 116280216 字节，用时 11.95Seconds 9727.31Kbytes/sec.  
+2019-06-18 22:04:25.70 bye  
+2019-06-18 22:04:25.70 221 Goodbye.  
+2019-06-18 22:05:05.32 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 22:04:25.70 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:04:25.70 230 User logged in.  
+2019-06-18 22:04:25.70 bin  
+2019-06-18 22:04:25.70 200 Type set to I.  
+2019-06-18 22:04:25.70 get \20191113012811\9256xdat.exe  
+2019-06-18 22:04:25.70 200 PORT command successful.  
+2019-06-18 22:04:25.70 125 Data connection already open; Transfer starting.  
+2019-06-18 22:04:25.70 226 Transfer complete.  
+2019-06-18 22:04:25.70 ftp: 收到 116551832 字节，用时 12.02Seconds 9699.72Kbytes/sec.  
+2019-06-18 22:04:25.70 bye  
+2019-06-18 22:04:25.70 221 Goodbye.  
+2019-06-18 22:05:17.87 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 22:05:17.90 本次更新文件总量为：441M 
+2019-06-18 22:05:17.90 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 22:06:22.89 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 22:06:22.89 230 User logged in.  
+2019-06-18 22:06:22.89 bin  
+2019-06-18 22:06:22.89 200 Type set to I.  
+2019-06-18 22:06:22.89 get update.list  
+2019-06-18 22:06:22.89 200 PORT command successful.  
+2019-06-18 22:06:22.89 125 Data connection already open; Transfer starting.  
+2019-06-18 22:06:22.89 226 Transfer complete.  
+2019-06-18 22:06:22.89 ftp: 收到 324 字节，用时 0.14Seconds 2.30Kbytes/sec.  
+2019-06-18 22:06:22.89 bye  
+2019-06-18 22:06:22.89 221 Goodbye.  
+2019-06-18 22:06:24.79 FTP方式下载 update.list 完成 
+2019-06-18 22:06:22.89 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 22:06:25.18 本机错峰时间: 75 秒 
+2019-06-18 22:06:22.89 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:06:22.89 230 User logged in.  
+2019-06-18 22:06:22.89 bin  
+2019-06-18 22:06:22.89 200 Type set to I.  
+2019-06-18 22:06:22.89 get \20191113012811\9241xdat.exe  
+2019-06-18 22:06:22.89 200 PORT command successful.  
+2019-06-18 22:06:22.89 125 Data connection already open; Transfer starting.  
+2019-06-18 22:06:22.89 226 Transfer complete.  
+2019-06-18 22:06:22.89 ftp: 收到 114158088 字节，用时 11.75Seconds 9715.58Kbytes/sec.  
+2019-06-18 22:06:22.89 bye  
+2019-06-18 22:06:22.89 221 Goodbye.  
+2019-06-18 22:06:37.54 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 22:06:22.89 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:06:22.89 230 User logged in.  
+2019-06-18 22:06:22.89 bin  
+2019-06-18 22:06:22.89 200 Type set to I.  
+2019-06-18 22:06:22.89 get \20191113012811\9246xdat.exe  
+2019-06-18 22:06:22.89 200 PORT command successful.  
+2019-06-18 22:06:22.89 125 Data connection already open; Transfer starting.  
+2019-06-18 22:06:22.89 226 Transfer complete.  
+2019-06-18 22:06:22.89 ftp: 收到 115549152 字节，用时 12.06Seconds 9578.81Kbytes/sec.  
+2019-06-18 22:06:22.89 bye  
+2019-06-18 22:06:22.89 221 Goodbye.  
+2019-06-18 22:06:50.15 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 22:06:22.89 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:06:22.89 230 User logged in.  
+2019-06-18 22:06:22.89 bin  
+2019-06-18 22:06:22.89 200 Type set to I.  
+2019-06-18 22:06:22.89 get \20191113012811\9248xdat.exe  
+2019-06-18 22:06:22.89 200 PORT command successful.  
+2019-06-18 22:06:22.89 125 Data connection already open; Transfer starting.  
+2019-06-18 22:06:22.89 226 Transfer complete.  
+2019-06-18 22:06:22.89 ftp: 收到 116280216 字节，用时 11.95Seconds 9728.12Kbytes/sec.  
+2019-06-18 22:06:22.89 bye  
+2019-06-18 22:06:22.89 221 Goodbye.  
+2019-06-18 22:07:02.65 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 22:06:22.89 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:06:22.89 230 User logged in.  
+2019-06-18 22:06:22.89 bin  
+2019-06-18 22:06:22.89 200 Type set to I.  
+2019-06-18 22:06:22.89 get \20191113012811\9256xdat.exe  
+2019-06-18 22:06:22.89 200 PORT command successful.  
+2019-06-18 22:06:22.89 125 Data connection already open; Transfer starting.  
+2019-06-18 22:06:22.89 226 Transfer complete.  
+2019-06-18 22:06:22.89 ftp: 收到 116551832 字节，用时 11.97Seconds 9737.81Kbytes/sec.  
+2019-06-18 22:06:22.89 bye  
+2019-06-18 22:06:22.89 221 Goodbye.  
+2019-06-18 22:07:15.18 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 22:07:15.20 本次更新文件总量为：441M 
+2019-06-18 22:07:15.20 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 22:13:07.51 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 22:13:07.51 230 User logged in.  
+2019-06-18 22:13:07.51 bin  
+2019-06-18 22:13:07.51 200 Type set to I.  
+2019-06-18 22:13:07.51 get update.list  
+2019-06-18 22:13:07.51 200 PORT command successful.  
+2019-06-18 22:13:07.51 125 Data connection already open; Transfer starting.  
+2019-06-18 22:13:07.51 226 Transfer complete.  
+2019-06-18 22:13:07.51 ftp: 收到 324 字节，用时 0.14Seconds 2.30Kbytes/sec.  
+2019-06-18 22:13:07.51 bye  
+2019-06-18 22:13:07.51 221 Goodbye.  
+2019-06-18 22:13:09.37 FTP方式下载 update.list 完成 
+2019-06-18 22:13:07.51 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 22:13:09.73 本机错峰时间: 75 秒 
+2019-06-18 22:13:07.51 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:13:07.51 230 User logged in.  
+2019-06-18 22:13:07.51 bin  
+2019-06-18 22:13:07.51 200 Type set to I.  
+2019-06-18 22:13:07.51 get \20191113012811\9241xdat.exe  
+2019-06-18 22:13:07.51 200 PORT command successful.  
+2019-06-18 22:13:07.51 125 Data connection already open; Transfer starting.  
+2019-06-18 22:13:07.51 226 Transfer complete.  
+2019-06-18 22:13:07.51 ftp: 收到 114158088 字节，用时 11.67Seconds 9780.51Kbytes/sec.  
+2019-06-18 22:13:07.51 bye  
+2019-06-18 22:13:07.51 221 Goodbye.  
+2019-06-18 22:13:21.98 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 22:13:07.51 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:13:07.51 230 User logged in.  
+2019-06-18 22:13:07.51 bin  
+2019-06-18 22:13:07.51 200 Type set to I.  
+2019-06-18 22:13:07.51 get \20191113012811\9246xdat.exe  
+2019-06-18 22:13:07.51 200 PORT command successful.  
+2019-06-18 22:13:07.51 125 Data connection already open; Transfer starting.  
+2019-06-18 22:13:07.51 226 Transfer complete.  
+2019-06-18 22:13:07.51 ftp: 收到 115549152 字节，用时 11.84Seconds 9755.92Kbytes/sec.  
+2019-06-18 22:13:07.51 bye  
+2019-06-18 22:13:07.51 221 Goodbye.  
+2019-06-18 22:13:34.40 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 22:13:07.51 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:13:07.51 230 User logged in.  
+2019-06-18 22:13:07.51 bin  
+2019-06-18 22:13:07.51 200 Type set to I.  
+2019-06-18 22:13:07.51 get \20191113012811\9248xdat.exe  
+2019-06-18 22:13:07.51 200 PORT command successful.  
+2019-06-18 22:13:07.51 125 Data connection already open; Transfer starting.  
+2019-06-18 22:13:07.51 226 Transfer complete.  
+2019-06-18 22:13:07.51 ftp: 收到 116280216 字节，用时 11.89Seconds 9778.84Kbytes/sec.  
+2019-06-18 22:13:07.51 bye  
+2019-06-18 22:13:07.51 221 Goodbye.  
+2019-06-18 22:13:46.87 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 22:13:07.51 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:13:07.51 230 User logged in.  
+2019-06-18 22:13:07.51 bin  
+2019-06-18 22:13:07.51 200 Type set to I.  
+2019-06-18 22:13:07.51 get \20191113012811\9256xdat.exe  
+2019-06-18 22:13:07.51 200 PORT command successful.  
+2019-06-18 22:13:07.51 125 Data connection already open; Transfer starting.  
+2019-06-18 22:13:07.51 226 Transfer complete.  
+2019-06-18 22:13:07.51 ftp: 收到 116551832 字节，用时 11.86Seconds 9828.13Kbytes/sec.  
+2019-06-18 22:13:07.51 bye  
+2019-06-18 22:13:07.51 221 Goodbye.  
+2019-06-18 22:13:59.31 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 22:13:59.32 本次更新文件总量为：441M 
+2019-06-18 22:13:59.32 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 22:15:21.26 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 22:15:21.26 230 User logged in.  
+2019-06-18 22:15:21.26 bin  
+2019-06-18 22:15:21.26 200 Type set to I.  
+2019-06-18 22:15:21.26 get update.list  
+2019-06-18 22:15:21.26 200 PORT command successful.  
+2019-06-18 22:15:21.26 125 Data connection already open; Transfer starting.  
+2019-06-18 22:15:21.26 226 Transfer complete.  
+2019-06-18 22:15:21.26 ftp: 收到 324 字节，用时 0.20Seconds 1.59Kbytes/sec.  
+2019-06-18 22:15:21.26 bye  
+2019-06-18 22:15:21.26 221 Goodbye.  
+2019-06-18 22:15:23.14 FTP方式下载 update.list 完成 
+2019-06-18 22:15:21.26 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 22:15:23.51 本机错峰时间: 75 秒 
+2019-06-18 22:15:21.26 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:15:21.26 230 User logged in.  
+2019-06-18 22:15:21.26 bin  
+2019-06-18 22:15:21.26 200 Type set to I.  
+2019-06-18 22:15:21.26 get \20191113012811\9241xdat.exe  
+2019-06-18 22:15:21.26 200 PORT command successful.  
+2019-06-18 22:15:21.26 125 Data connection already open; Transfer starting.  
+2019-06-18 22:15:21.26 226 Transfer complete.  
+2019-06-18 22:15:21.26 ftp: 收到 114158088 字节，用时 11.73Seconds 9728.00Kbytes/sec.  
+2019-06-18 22:15:21.26 bye  
+2019-06-18 22:15:21.26 221 Goodbye.  
+2019-06-18 22:15:35.75 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 22:15:21.26 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:15:21.26 230 User logged in.  
+2019-06-18 22:15:21.26 bin  
+2019-06-18 22:15:21.26 200 Type set to I.  
+2019-06-18 22:15:21.26 get \20191113012811\9246xdat.exe  
+2019-06-18 22:15:21.26 200 PORT command successful.  
+2019-06-18 22:15:21.26 125 Data connection already open; Transfer starting.  
+2019-06-18 22:15:21.26 226 Transfer complete.  
+2019-06-18 22:15:21.26 ftp: 收到 115549152 字节，用时 11.94Seconds 9679.10Kbytes/sec.  
+2019-06-18 22:15:21.26 bye  
+2019-06-18 22:15:21.26 221 Goodbye.  
+2019-06-18 22:15:48.23 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 22:15:21.26 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:15:21.26 230 User logged in.  
+2019-06-18 22:15:21.26 bin  
+2019-06-18 22:15:21.26 200 Type set to I.  
+2019-06-18 22:15:21.26 get \20191113012811\9248xdat.exe  
+2019-06-18 22:15:21.26 200 PORT command successful.  
+2019-06-18 22:15:21.26 125 Data connection already open; Transfer starting.  
+2019-06-18 22:15:21.26 226 Transfer complete.  
+2019-06-18 22:15:21.26 ftp: 收到 116280216 字节，用时 12.02Seconds 9677.12Kbytes/sec.  
+2019-06-18 22:15:21.26 bye  
+2019-06-18 22:15:21.26 221 Goodbye.  
+2019-06-18 22:16:00.87 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 22:15:21.26 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:15:21.26 230 User logged in.  
+2019-06-18 22:15:21.26 bin  
+2019-06-18 22:15:21.26 200 Type set to I.  
+2019-06-18 22:15:21.26 get \20191113012811\9256xdat.exe  
+2019-06-18 22:15:21.26 200 PORT command successful.  
+2019-06-18 22:15:21.26 125 Data connection already open; Transfer starting.  
+2019-06-18 22:15:21.26 226 Transfer complete.  
+2019-06-18 22:15:21.26 ftp: 收到 116551832 字节，用时 13.72Seconds 8495.65Kbytes/sec.  
+2019-06-18 22:15:21.26 bye  
+2019-06-18 22:15:21.26 221 Goodbye.  
+2019-06-18 22:16:15.21 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 22:16:15.23 本次更新文件总量为：441M 
+2019-06-18 22:16:15.23 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 22:20:03.96 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 22:20:03.96 230 User logged in.  
+2019-06-18 22:20:03.96 bin  
+2019-06-18 22:20:03.96 200 Type set to I.  
+2019-06-18 22:20:03.96 get update.list  
+2019-06-18 22:20:03.96 200 PORT command successful.  
+2019-06-18 22:20:03.96 125 Data connection already open; Transfer starting.  
+2019-06-18 22:20:03.96 226 Transfer complete.  
+2019-06-18 22:20:03.96 ftp: 收到 324 字节，用时 0.13Seconds 2.59Kbytes/sec.  
+2019-06-18 22:20:03.96 bye  
+2019-06-18 22:20:03.96 221 Goodbye.  
+2019-06-18 22:20:05.78 FTP方式下载 update.list 完成 
+2019-06-18 22:20:03.96 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 22:20:06.15 本机错峰时间: 75 秒 
+2019-06-18 22:20:03.96 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:20:03.96 230 User logged in.  
+2019-06-18 22:20:03.96 bin  
+2019-06-18 22:20:03.96 200 Type set to I.  
+2019-06-18 22:20:03.96 get \20191113012811\9241xdat.exe  
+2019-06-18 22:20:03.96 200 PORT command successful.  
+2019-06-18 22:20:03.96 125 Data connection already open; Transfer starting.  
+2019-06-18 22:20:03.96 226 Transfer complete.  
+2019-06-18 22:20:03.96 ftp: 收到 114158088 字节，用时 11.88Seconds 9613.31Kbytes/sec.  
+2019-06-18 22:20:03.96 bye  
+2019-06-18 22:20:03.96 221 Goodbye.  
+2019-06-18 22:20:18.56 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 22:20:03.96 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:20:03.96 230 User logged in.  
+2019-06-18 22:20:03.96 bin  
+2019-06-18 22:20:03.96 200 Type set to I.  
+2019-06-18 22:20:03.96 get \20191113012811\9246xdat.exe  
+2019-06-18 22:20:03.96 200 PORT command successful.  
+2019-06-18 22:20:03.96 125 Data connection already open; Transfer starting.  
+2019-06-18 22:20:03.96 226 Transfer complete.  
+2019-06-18 22:20:03.96 ftp: 收到 115549152 字节，用时 11.86Seconds 9743.58Kbytes/sec.  
+2019-06-18 22:20:03.96 bye  
+2019-06-18 22:20:03.96 221 Goodbye.  
+2019-06-18 22:20:30.95 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 22:20:03.96 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:20:03.96 230 User logged in.  
+2019-06-18 22:20:03.96 bin  
+2019-06-18 22:20:03.96 200 Type set to I.  
+2019-06-18 22:20:03.96 get \20191113012811\9248xdat.exe  
+2019-06-18 22:20:03.96 200 PORT command successful.  
+2019-06-18 22:20:03.96 125 Data connection already open; Transfer starting.  
+2019-06-18 22:20:03.96 226 Transfer complete.  
+2019-06-18 22:20:03.96 ftp: 收到 116280216 字节，用时 11.95Seconds 9727.31Kbytes/sec.  
+2019-06-18 22:20:03.96 bye  
+2019-06-18 22:20:03.96 221 Goodbye.  
+2019-06-18 22:20:43.50 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 22:20:03.96 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:20:03.96 230 User logged in.  
+2019-06-18 22:20:03.96 bin  
+2019-06-18 22:20:03.96 200 Type set to I.  
+2019-06-18 22:20:03.96 get \20191113012811\9256xdat.exe  
+2019-06-18 22:20:03.96 200 PORT command successful.  
+2019-06-18 22:20:03.96 125 Data connection already open; Transfer starting.  
+2019-06-18 22:20:03.96 226 Transfer complete.  
+2019-06-18 22:20:03.96 ftp: 收到 116551832 字节，用时 11.98Seconds 9725.62Kbytes/sec.  
+2019-06-18 22:20:03.96 bye  
+2019-06-18 22:20:03.96 221 Goodbye.  
+2019-06-18 22:20:56.04 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 22:20:56.06 本次更新文件总量为：441M 
+2019-06-18 22:20:56.06 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 22:37:55.62 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 22:37:55.62 230 User logged in.  
+2019-06-18 22:37:55.62 bin  
+2019-06-18 22:37:55.62 200 Type set to I.  
+2019-06-18 22:37:55.62 get update.list  
+2019-06-18 22:37:55.62 200 PORT command successful.  
+2019-06-18 22:37:55.62 125 Data connection already open; Transfer starting.  
+2019-06-18 22:37:55.62 226 Transfer complete.  
+2019-06-18 22:37:55.62 ftp: 收到 324 字节，用时 0.16Seconds 2.06Kbytes/sec.  
+2019-06-18 22:37:55.62 bye  
+2019-06-18 22:37:55.62 221 Goodbye.  
+2019-06-18 22:37:57.48 FTP方式下载 update.list 完成 
+2019-06-18 22:37:55.62 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 22:37:57.84 本机错峰时间: 75 秒 
+2019-06-18 22:37:55.62 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:37:55.62 230 User logged in.  
+2019-06-18 22:37:55.62 bin  
+2019-06-18 22:37:55.62 200 Type set to I.  
+2019-06-18 22:37:55.62 get \20191113012811\9241xdat.exe  
+2019-06-18 22:37:55.62 200 PORT command successful.  
+2019-06-18 22:37:55.62 125 Data connection already open; Transfer starting.  
+2019-06-18 22:37:55.62 226 Transfer complete.  
+2019-06-18 22:37:55.62 ftp: 收到 114158088 字节，用时 11.63Seconds 9820.05Kbytes/sec.  
+2019-06-18 22:37:55.62 bye  
+2019-06-18 22:37:55.62 221 Goodbye.  
+2019-06-18 22:38:10.04 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 22:37:55.62 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:37:55.62 230 User logged in.  
+2019-06-18 22:37:55.62 bin  
+2019-06-18 22:37:55.62 200 Type set to I.  
+2019-06-18 22:37:55.62 get \20191113012811\9246xdat.exe  
+2019-06-18 22:37:55.62 200 PORT command successful.  
+2019-06-18 22:37:55.62 125 Data connection already open; Transfer starting.  
+2019-06-18 22:37:55.62 226 Transfer complete.  
+2019-06-18 22:37:55.62 ftp: 收到 115549152 字节，用时 12.05Seconds 9591.53Kbytes/sec.  
+2019-06-18 22:37:55.62 bye  
+2019-06-18 22:37:55.62 221 Goodbye.  
+2019-06-18 22:38:22.65 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 22:37:55.62 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:37:55.62 230 User logged in.  
+2019-06-18 22:37:55.62 bin  
+2019-06-18 22:37:55.62 200 Type set to I.  
+2019-06-18 22:37:55.62 get \20191113012811\9248xdat.exe  
+2019-06-18 22:37:55.62 200 PORT command successful.  
+2019-06-18 22:37:55.62 125 Data connection already open; Transfer starting.  
+2019-06-18 22:37:55.62 226 Transfer complete.  
+2019-06-18 22:37:55.62 ftp: 收到 116280216 字节，用时 11.94Seconds 9740.34Kbytes/sec.  
+2019-06-18 22:37:55.62 bye  
+2019-06-18 22:37:55.62 221 Goodbye.  
+2019-06-18 22:38:35.20 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 22:37:55.62 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:37:55.62 230 User logged in.  
+2019-06-18 22:37:55.62 bin  
+2019-06-18 22:37:55.62 200 Type set to I.  
+2019-06-18 22:37:55.62 get \20191113012811\9256xdat.exe  
+2019-06-18 22:37:55.62 200 PORT command successful.  
+2019-06-18 22:37:55.62 125 Data connection already open; Transfer starting.  
+2019-06-18 22:37:55.62 226 Transfer complete.  
+2019-06-18 22:37:55.62 ftp: 收到 116551832 字节，用时 12.69Seconds 9185.99Kbytes/sec.  
+2019-06-18 22:37:55.62 bye  
+2019-06-18 22:37:55.62 221 Goodbye.  
+2019-06-18 22:38:48.46 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 22:38:48.48 本次更新文件总量为：441M 
+2019-06-18 22:38:48.50 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 22:42:05.92 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 22:42:05.92 230 User logged in.  
+2019-06-18 22:42:05.92 bin  
+2019-06-18 22:42:05.92 200 Type set to I.  
+2019-06-18 22:42:05.92 get update.list  
+2019-06-18 22:42:05.92 200 PORT command successful.  
+2019-06-18 22:42:05.92 125 Data connection already open; Transfer starting.  
+2019-06-18 22:42:05.92 226 Transfer complete.  
+2019-06-18 22:42:05.92 ftp: 收到 324 字节，用时 0.17Seconds 1.88Kbytes/sec.  
+2019-06-18 22:42:05.92 bye  
+2019-06-18 22:42:05.92 221 Goodbye.  
+2019-06-18 22:42:07.76 FTP方式下载 update.list 完成 
+2019-06-18 22:42:05.92 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 22:42:08.12 本机错峰时间: 75 秒 
+2019-06-18 22:42:05.92 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:42:05.92 230 User logged in.  
+2019-06-18 22:42:05.92 bin  
+2019-06-18 22:42:05.92 200 Type set to I.  
+2019-06-18 22:42:05.92 get \20191113012811\9241xdat.exe  
+2019-06-18 22:42:05.92 200 PORT command successful.  
+2019-06-18 22:42:05.92 125 Data connection already open; Transfer starting.  
+2019-06-18 22:42:05.92 226 Transfer complete.  
+2019-06-18 22:42:05.92 ftp: 收到 114158088 字节，用时 11.89Seconds 9600.38Kbytes/sec.  
+2019-06-18 22:42:05.92 bye  
+2019-06-18 22:42:05.92 221 Goodbye.  
+2019-06-18 22:42:20.59 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 22:42:05.92 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:42:05.92 230 User logged in.  
+2019-06-18 22:42:05.92 bin  
+2019-06-18 22:42:05.92 200 Type set to I.  
+2019-06-18 22:42:05.92 get \20191113012811\9246xdat.exe  
+2019-06-18 22:42:05.92 200 PORT command successful.  
+2019-06-18 22:42:05.92 125 Data connection already open; Transfer starting.  
+2019-06-18 22:42:05.92 226 Transfer complete.  
+2019-06-18 22:42:05.92 ftp: 收到 115549152 字节，用时 12.03Seconds 9603.49Kbytes/sec.  
+2019-06-18 22:42:05.92 bye  
+2019-06-18 22:42:05.92 221 Goodbye.  
+2019-06-18 22:42:33.17 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 22:42:05.92 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:42:05.92 230 User logged in.  
+2019-06-18 22:42:05.92 bin  
+2019-06-18 22:42:05.92 200 Type set to I.  
+2019-06-18 22:42:05.92 get \20191113012811\9248xdat.exe  
+2019-06-18 22:42:05.92 200 PORT command successful.  
+2019-06-18 22:42:05.92 125 Data connection already open; Transfer starting.  
+2019-06-18 22:42:05.92 226 Transfer complete.  
+2019-06-18 22:42:05.92 ftp: 收到 116280216 字节，用时 11.95Seconds 9728.12Kbytes/sec.  
+2019-06-18 22:42:05.92 bye  
+2019-06-18 22:42:05.92 221 Goodbye.  
+2019-06-18 22:42:45.68 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 22:42:05.92 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:42:05.92 230 User logged in.  
+2019-06-18 22:42:05.92 bin  
+2019-06-18 22:42:05.92 200 Type set to I.  
+2019-06-18 22:42:05.92 get \20191113012811\9256xdat.exe  
+2019-06-18 22:42:05.92 200 PORT command successful.  
+2019-06-18 22:42:05.92 125 Data connection already open; Transfer starting.  
+2019-06-18 22:42:05.92 226 Transfer complete.  
+2019-06-18 22:42:05.92 ftp: 收到 116551832 字节，用时 11.97Seconds 9737.81Kbytes/sec.  
+2019-06-18 22:42:05.92 bye  
+2019-06-18 22:42:05.92 221 Goodbye.  
+2019-06-18 22:42:58.23 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 22:42:58.25 本次更新文件总量为：441M 
+2019-06-18 22:42:58.26 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 22:42:05.92 hash 输入参数不合法,退出计算Hash流程 
+2019-06-18 22:42:58.26 文件名:9256xdat.exe Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 22:42:05.92  更新文件 9256xdat.exe 完整。 
+2019-06-18 22:42:05.92 hash 输入参数不合法,退出计算Hash流程 
+2019-06-18 22:42:58.26 文件名:9256xdat.exe Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 22:42:05.92  更新文件 9256xdat.exe 完整。 
+2019-06-18 22:42:05.92 hash 输入参数不合法,退出计算Hash流程 
+2019-06-18 22:42:58.26 文件名:9256xdat.exe Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 22:42:05.92  更新文件 9256xdat.exe 完整。 
+2019-06-18 22:42:05.92 hash 输入参数不合法,退出计算Hash流程 
+2019-06-18 22:42:58.26 文件名:9256xdat.exe Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 22:42:05.92  更新文件 9256xdat.exe 完整。 
+2019-06-18 22:42:05.92 更新文件校验完毕，准备进行安装更新 
+2019-06-18 22:42:58.70 更新文件安装已完成 
+2019-06-18 22:56:18.21 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 22:56:18.21 230 User logged in.  
+2019-06-18 22:56:18.21 bin  
+2019-06-18 22:56:18.21 200 Type set to I.  
+2019-06-18 22:56:18.21 get update.list  
+2019-06-18 22:56:18.21 200 PORT command successful.  
+2019-06-18 22:56:18.21 125 Data connection already open; Transfer starting.  
+2019-06-18 22:56:18.21 226 Transfer complete.  
+2019-06-18 22:56:18.21 ftp: 收到 324 字节，用时 0.22Seconds 1.49Kbytes/sec.  
+2019-06-18 22:56:18.21 bye  
+2019-06-18 22:56:18.21 221 Goodbye.  
+2019-06-18 22:56:20.10 FTP方式下载 update.list 完成 
+2019-06-18 22:56:18.21 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 22:56:20.46 本机错峰时间: 75 秒 
+2019-06-18 22:56:18.21 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:56:18.21 230 User logged in.  
+2019-06-18 22:56:18.21 bin  
+2019-06-18 22:56:18.21 200 Type set to I.  
+2019-06-18 22:56:18.21 get \20191113012811\9241xdat.exe  
+2019-06-18 22:56:18.21 200 PORT command successful.  
+2019-06-18 22:56:18.21 125 Data connection already open; Transfer starting.  
+2019-06-18 22:56:18.21 226 Transfer complete.  
+2019-06-18 22:56:18.21 ftp: 收到 114158088 字节，用时 11.47Seconds 9953.62Kbytes/sec.  
+2019-06-18 22:56:18.21 bye  
+2019-06-18 22:56:18.21 221 Goodbye.  
+2019-06-18 22:56:32.43 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 22:56:18.21 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:56:18.21 230 User logged in.  
+2019-06-18 22:56:18.21 bin  
+2019-06-18 22:56:18.21 200 Type set to I.  
+2019-06-18 22:56:18.21 get \20191113012811\9246xdat.exe  
+2019-06-18 22:56:18.21 200 PORT command successful.  
+2019-06-18 22:56:18.21 125 Data connection already open; Transfer starting.  
+2019-06-18 22:56:18.21 226 Transfer complete.  
+2019-06-18 22:56:18.21 ftp: 收到 115549152 字节，用时 11.77Seconds 9821.43Kbytes/sec.  
+2019-06-18 22:56:18.21 bye  
+2019-06-18 22:56:18.21 221 Goodbye.  
+2019-06-18 22:56:44.79 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 22:56:18.21 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:56:18.21 230 User logged in.  
+2019-06-18 22:56:18.21 bin  
+2019-06-18 22:56:18.21 200 Type set to I.  
+2019-06-18 22:56:18.21 get \20191113012811\9248xdat.exe  
+2019-06-18 22:56:18.21 200 PORT command successful.  
+2019-06-18 22:56:18.21 125 Data connection already open; Transfer starting.  
+2019-06-18 22:56:18.21 226 Transfer complete.  
+2019-06-18 22:56:18.21 ftp: 收到 116280216 字节，用时 11.94Seconds 9740.34Kbytes/sec.  
+2019-06-18 22:56:18.21 bye  
+2019-06-18 22:56:18.21 221 Goodbye.  
+2019-06-18 22:56:57.25 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 22:56:18.21 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 22:56:18.21 230 User logged in.  
+2019-06-18 22:56:18.21 bin  
+2019-06-18 22:56:18.21 200 Type set to I.  
+2019-06-18 22:56:18.21 get \20191113012811\9256xdat.exe  
+2019-06-18 22:56:18.21 200 PORT command successful.  
+2019-06-18 22:56:18.21 125 Data connection already open; Transfer starting.  
+2019-06-18 22:56:18.21 226 Transfer complete.  
+2019-06-18 22:56:18.21 ftp: 收到 116551832 字节，用时 11.97Seconds 9737.81Kbytes/sec.  
+2019-06-18 22:56:18.21 bye  
+2019-06-18 22:56:18.21 221 Goodbye.  
+2019-06-18 22:57:09.78 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 22:57:09.79 本次更新文件总量为：441M 
+2019-06-18 22:57:09.81 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 22:57:09.81 文件名:9256xdat Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 22:56:18.21  更新文件 9256xdat 完整。 
+2019-06-18 22:57:09.81 文件名:9256xdat Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 22:56:18.21  更新文件 9256xdat 完整。 
+2019-06-18 22:57:09.81 文件名:9256xdat Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 22:56:18.21  更新文件 9256xdat 完整。 
+2019-06-18 22:57:09.81 文件名:9256xdat Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 22:56:18.21  更新文件 9256xdat 完整。 
+2019-06-18 22:56:18.21 更新文件校验完毕，准备进行安装更新 
+2019-06-18 22:57:14.87 更新文件安装已完成 
+2019-06-18 23:04:49.87 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 23:04:49.87 230 User logged in.  
+2019-06-18 23:04:49.87 bin  
+2019-06-18 23:04:49.87 200 Type set to I.  
+2019-06-18 23:04:49.87 get update.list  
+2019-06-18 23:04:49.87 200 PORT command successful.  
+2019-06-18 23:04:49.87 125 Data connection already open; Transfer starting.  
+2019-06-18 23:04:49.87 226 Transfer complete.  
+2019-06-18 23:04:49.87 ftp: 收到 324 字节，用时 0.20Seconds 1.60Kbytes/sec.  
+2019-06-18 23:04:49.87 bye  
+2019-06-18 23:04:49.87 221 Goodbye.  
+2019-06-18 23:04:51.78 FTP方式下载 update.list 完成 
+2019-06-18 23:04:49.87 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 23:04:52.12 本机错峰时间: 75 秒 
+2019-06-18 23:04:49.87 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 23:04:49.87 230 User logged in.  
+2019-06-18 23:04:49.87 bin  
+2019-06-18 23:04:49.87 200 Type set to I.  
+2019-06-18 23:04:49.87 get \20191113012811\9241xdat.exe  
+2019-06-18 23:04:49.87 200 PORT command successful.  
+2019-06-18 23:04:49.87 125 Data connection already open; Transfer starting.  
+2019-06-18 23:04:49.87 226 Transfer complete.  
+2019-06-18 23:04:49.87 ftp: 收到 114158088 字节，用时 11.70Seconds 9754.60Kbytes/sec.  
+2019-06-18 23:04:49.87 bye  
+2019-06-18 23:04:49.87 221 Goodbye.  
+2019-06-18 23:05:04.48 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 23:04:49.87 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 23:04:49.87 230 User logged in.  
+2019-06-18 23:04:49.87 bin  
+2019-06-18 23:04:49.87 200 Type set to I.  
+2019-06-18 23:04:49.87 get \20191113012811\9246xdat.exe  
+2019-06-18 23:04:49.87 200 PORT command successful.  
+2019-06-18 23:04:49.87 125 Data connection already open; Transfer starting.  
+2019-06-18 23:04:49.87 226 Transfer complete.  
+2019-06-18 23:04:49.87 ftp: 收到 115549152 字节，用时 11.84Seconds 9755.92Kbytes/sec.  
+2019-06-18 23:04:49.87 bye  
+2019-06-18 23:04:49.87 221 Goodbye.  
+2019-06-18 23:05:16.85 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 23:04:49.87 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 23:04:49.87 230 User logged in.  
+2019-06-18 23:04:49.87 bin  
+2019-06-18 23:04:49.87 200 Type set to I.  
+2019-06-18 23:04:49.87 get \20191113012811\9248xdat.exe  
+2019-06-18 23:04:49.87 200 PORT command successful.  
+2019-06-18 23:04:49.87 125 Data connection already open; Transfer starting.  
+2019-06-18 23:04:49.87 226 Transfer complete.  
+2019-06-18 23:04:49.87 ftp: 收到 116280216 字节，用时 11.91Seconds 9765.70Kbytes/sec.  
+2019-06-18 23:04:49.87 bye  
+2019-06-18 23:04:49.87 221 Goodbye.  
+2019-06-18 23:05:29.31 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 23:04:49.87 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 23:04:49.87 230 User logged in.  
+2019-06-18 23:04:49.87 bin  
+2019-06-18 23:04:49.87 200 Type set to I.  
+2019-06-18 23:04:49.87 get \20191113012811\9256xdat.exe  
+2019-06-18 23:04:49.87 200 PORT command successful.  
+2019-06-18 23:04:49.87 125 Data connection already open; Transfer starting.  
+2019-06-18 23:04:49.87 226 Transfer complete.  
+2019-06-18 23:04:49.87 ftp: 收到 116551832 字节，用时 11.97Seconds 9738.62Kbytes/sec.  
+2019-06-18 23:04:49.87 bye  
+2019-06-18 23:04:49.87 221 Goodbye.  
+2019-06-18 23:05:41.81 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 23:05:41.82 本次更新文件总量为：441M 
+2019-06-18 23:05:41.84 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 23:05:41.84 文件名:9256xdat Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 23:04:49.87  更新文件 9256xdat 完整。 
+2019-06-18 23:05:41.84 文件名:9256xdat Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 23:04:49.87  更新文件 9256xdat 完整。 
+2019-06-18 23:05:41.84 文件名:9256xdat Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 23:04:49.87  更新文件 9256xdat 完整。 
+2019-06-18 23:05:41.84 文件名:9256xdat Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 23:04:49.87  更新文件 9256xdat 完整。 
+2019-06-18 23:04:49.87 更新文件校验完毕，准备进行安装更新 
+2019-06-18 23:05:46.76 进入更新文件安装流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 23:09:43.87 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 23:09:43.87 230 User logged in.  
+2019-06-18 23:09:43.87 bin  
+2019-06-18 23:09:43.87 200 Type set to I.  
+2019-06-18 23:09:43.87 get update.list  
+2019-06-18 23:09:43.87 200 PORT command successful.  
+2019-06-18 23:09:43.87 125 Data connection already open; Transfer starting.  
+2019-06-18 23:09:43.87 226 Transfer complete.  
+2019-06-18 23:09:43.87 ftp: 收到 324 字节，用时 0.16Seconds 2.08Kbytes/sec.  
+2019-06-18 23:09:43.87 bye  
+2019-06-18 23:09:43.87 221 Goodbye.  
+2019-06-18 23:09:45.65 FTP方式下载 update.list 完成 
+2019-06-18 23:09:43.87 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 23:09:46.00 本机错峰时间: 75 秒 
+2019-06-18 23:09:43.87 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 23:09:43.87 230 User logged in.  
+2019-06-18 23:09:43.87 bin  
+2019-06-18 23:09:43.87 200 Type set to I.  
+2019-06-18 23:09:43.87 get \20191113012811\9241xdat.exe  
+2019-06-18 23:09:43.87 200 PORT command successful.  
+2019-06-18 23:09:43.87 125 Data connection already open; Transfer starting.  
+2019-06-18 23:09:43.87 226 Transfer complete.  
+2019-06-18 23:09:43.87 ftp: 收到 114158088 字节，用时 11.69Seconds 9767.12Kbytes/sec.  
+2019-06-18 23:09:43.87 bye  
+2019-06-18 23:09:43.87 221 Goodbye.  
+2019-06-18 23:09:58.23 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 23:09:43.87 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 23:09:43.87 230 User logged in.  
+2019-06-18 23:09:43.87 bin  
+2019-06-18 23:09:43.87 200 Type set to I.  
+2019-06-18 23:09:43.87 get \20191113012811\9246xdat.exe  
+2019-06-18 23:09:43.87 200 PORT command successful.  
+2019-06-18 23:09:43.87 125 Data connection already open; Transfer starting.  
+2019-06-18 23:09:43.87 226 Transfer complete.  
+2019-06-18 23:09:43.87 ftp: 收到 115549152 字节，用时 11.83Seconds 9769.12Kbytes/sec.  
+2019-06-18 23:09:43.87 bye  
+2019-06-18 23:09:43.87 221 Goodbye.  
+2019-06-18 23:10:10.59 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 23:09:43.87 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 23:09:43.87 230 User logged in.  
+2019-06-18 23:09:43.87 bin  
+2019-06-18 23:09:43.87 200 Type set to I.  
+2019-06-18 23:09:43.87 get \20191113012811\9248xdat.exe  
+2019-06-18 23:09:43.87 200 PORT command successful.  
+2019-06-18 23:09:43.87 125 Data connection already open; Transfer starting.  
+2019-06-18 23:09:43.87 226 Transfer complete.  
+2019-06-18 23:09:43.87 ftp: 收到 116280216 字节，用时 11.95Seconds 9727.31Kbytes/sec.  
+2019-06-18 23:09:43.87 bye  
+2019-06-18 23:09:43.87 221 Goodbye.  
+2019-06-18 23:10:23.06 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 23:09:43.87 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 23:09:43.87 230 User logged in.  
+2019-06-18 23:09:43.87 bin  
+2019-06-18 23:09:43.87 200 Type set to I.  
+2019-06-18 23:09:43.87 get \20191113012811\9256xdat.exe  
+2019-06-18 23:09:43.87 200 PORT command successful.  
+2019-06-18 23:09:43.87 125 Data connection already open; Transfer starting.  
+2019-06-18 23:09:43.87 226 Transfer complete.  
+2019-06-18 23:09:43.87 ftp: 收到 116551832 字节，用时 11.92Seconds 9776.20Kbytes/sec.  
+2019-06-18 23:09:43.87 bye  
+2019-06-18 23:09:43.87 221 Goodbye.  
+2019-06-18 23:10:35.53 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 23:10:35.54 本次更新文件总量为：441M 
+2019-06-18 23:10:35.56 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 23:10:35.56 文件名:9256xdat Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 23:09:43.87  更新文件 9256xdat 完整。 
+2019-06-18 23:10:35.56 文件名:9256xdat Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 23:09:43.87  更新文件 9256xdat 完整。 
+2019-06-18 23:10:35.56 文件名:9256xdat Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 23:09:43.87  更新文件 9256xdat 完整。 
+2019-06-18 23:10:35.56 文件名:9256xdat Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 23:09:43.87  更新文件 9256xdat 完整。 
+2019-06-18 23:09:43.87 更新文件校验完毕，准备进行安装更新 
+2019-06-18 23:10:40.42 进入更新文件安装流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 23:10:40.42 所有更新文件安装已完成 
+2019-06-18 23:15:21.70 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 23:15:21.70 230 User logged in.  
+2019-06-18 23:15:21.70 bin  
+2019-06-18 23:15:21.70 200 Type set to I.  
+2019-06-18 23:15:21.70 get update.list  
+2019-06-18 23:15:21.70 200 PORT command successful.  
+2019-06-18 23:15:21.70 125 Data connection already open; Transfer starting.  
+2019-06-18 23:15:21.70 226 Transfer complete.  
+2019-06-18 23:15:21.70 ftp: 收到 324 字节，用时 0.22Seconds 1.48Kbytes/sec.  
+2019-06-18 23:15:21.70 bye  
+2019-06-18 23:15:21.70 221 Goodbye.  
+2019-06-18 23:15:23.54 FTP方式下载 update.list 完成 
+2019-06-18 23:15:21.70 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 23:15:23.87 本机错峰时间: 75 秒 
+2019-06-18 23:15:21.70 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 23:15:21.70 230 User logged in.  
+2019-06-18 23:15:21.70 bin  
+2019-06-18 23:15:21.70 200 Type set to I.  
+2019-06-18 23:15:21.70 get \20191113012811\9241xdat.exe  
+2019-06-18 23:15:21.70 200 PORT command successful.  
+2019-06-18 23:15:21.70 125 Data connection already open; Transfer starting.  
+2019-06-18 23:15:21.70 226 Transfer complete.  
+2019-06-18 23:15:21.70 ftp: 收到 114158088 字节，用时 11.94Seconds 9563.38Kbytes/sec.  
+2019-06-18 23:15:21.70 bye  
+2019-06-18 23:15:21.70 221 Goodbye.  
+2019-06-18 23:15:36.32 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 23:15:21.70 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 23:15:21.70 230 User logged in.  
+2019-06-18 23:15:21.70 bin  
+2019-06-18 23:15:21.70 200 Type set to I.  
+2019-06-18 23:15:21.70 get \20191113012811\9246xdat.exe  
+2019-06-18 23:15:21.70 200 PORT command successful.  
+2019-06-18 23:15:21.70 125 Data connection already open; Transfer starting.  
+2019-06-18 23:15:21.70 226 Transfer complete.  
+2019-06-18 23:15:21.70 ftp: 收到 115549152 字节，用时 12.17Seconds 9493.03Kbytes/sec.  
+2019-06-18 23:15:21.70 bye  
+2019-06-18 23:15:21.70 221 Goodbye.  
+2019-06-18 23:15:49.04 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 23:15:21.70 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 23:15:21.70 230 User logged in.  
+2019-06-18 23:15:21.70 bin  
+2019-06-18 23:15:21.70 200 Type set to I.  
+2019-06-18 23:15:21.70 get \20191113012811\9248xdat.exe  
+2019-06-18 23:15:21.70 200 PORT command successful.  
+2019-06-18 23:15:21.70 125 Data connection already open; Transfer starting.  
+2019-06-18 23:15:21.70 226 Transfer complete.  
+2019-06-18 23:15:21.70 ftp: 收到 116280216 字节，用时 11.88Seconds 9792.02Kbytes/sec.  
+2019-06-18 23:15:21.70 bye  
+2019-06-18 23:15:21.70 221 Goodbye.  
+2019-06-18 23:16:01.46 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 23:15:21.70 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 23:15:21.70 230 User logged in.  
+2019-06-18 23:15:21.70 bin  
+2019-06-18 23:15:21.70 200 Type set to I.  
+2019-06-18 23:15:21.70 get \20191113012811\9256xdat.exe  
+2019-06-18 23:15:21.70 200 PORT command successful.  
+2019-06-18 23:15:21.70 125 Data connection already open; Transfer starting.  
+2019-06-18 23:15:21.70 226 Transfer complete.  
+2019-06-18 23:15:21.70 ftp: 收到 116551832 字节，用时 11.94Seconds 9763.10Kbytes/sec.  
+2019-06-18 23:15:21.70 bye  
+2019-06-18 23:15:21.70 221 Goodbye.  
+2019-06-18 23:16:13.95 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 23:16:13.96 本次更新文件总量为：441M 
+2019-06-18 23:16:13.98 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 23:16:13.98 文件名:9256xdat Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 23:15:21.70  更新文件 9256xdat 完整。 
+2019-06-18 23:16:13.98 文件名:9256xdat Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 23:15:21.70  更新文件 9256xdat 完整。 
+2019-06-18 23:16:13.98 文件名:9256xdat Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 23:15:21.70  更新文件 9256xdat 完整。 
+2019-06-18 23:16:13.98 文件名:9256xdat Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 23:15:21.70  更新文件 9256xdat 完整。 
+2019-06-18 23:15:21.70 更新文件校验完毕，准备进行安装更新 
+2019-06-18 23:16:19.01 进入更新文件安装流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 23:16:46.17 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 23:16:46.17 230 User logged in.  
+2019-06-18 23:16:46.17 bin  
+2019-06-18 23:16:46.17 200 Type set to I.  
+2019-06-18 23:16:46.17 get update.list  
+2019-06-18 23:16:46.17 200 PORT command successful.  
+2019-06-18 23:16:46.17 125 Data connection already open; Transfer starting.  
+2019-06-18 23:16:46.17 226 Transfer complete.  
+2019-06-18 23:16:46.17 ftp: 收到 324 字节，用时 0.19Seconds 1.72Kbytes/sec.  
+2019-06-18 23:16:46.17 bye  
+2019-06-18 23:16:46.17 221 Goodbye.  
+2019-06-18 23:16:47.98 FTP方式下载 update.list 完成 
+2019-06-18 23:16:46.17 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 23:16:48.32 本机错峰时间: 75 秒 
+2019-06-18 23:16:46.17 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 23:16:46.17 230 User logged in.  
+2019-06-18 23:16:46.17 bin  
+2019-06-18 23:16:46.17 200 Type set to I.  
+2019-06-18 23:16:46.17 get \20191113012811\9241xdat.exe  
+2019-06-18 23:16:46.17 200 PORT command successful.  
+2019-06-18 23:16:46.17 125 Data connection already open; Transfer starting.  
+2019-06-18 23:16:46.17 226 Transfer complete.  
+2019-06-18 23:16:46.17 ftp: 收到 114158088 字节，用时 11.94Seconds 9562.58Kbytes/sec.  
+2019-06-18 23:16:46.17 bye  
+2019-06-18 23:16:46.17 221 Goodbye.  
+2019-06-18 23:17:00.78 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 23:16:46.17 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 23:16:46.17 230 User logged in.  
+2019-06-18 23:16:46.17 bin  
+2019-06-18 23:16:46.17 200 Type set to I.  
+2019-06-18 23:16:46.17 get \20191113012811\9246xdat.exe  
+2019-06-18 23:16:46.17 200 PORT command successful.  
+2019-06-18 23:16:46.17 125 Data connection already open; Transfer starting.  
+2019-06-18 23:16:46.17 226 Transfer complete.  
+2019-06-18 23:16:46.17 ftp: 收到 115549152 字节，用时 11.86Seconds 9742.76Kbytes/sec.  
+2019-06-18 23:16:46.17 bye  
+2019-06-18 23:16:46.17 221 Goodbye.  
+2019-06-18 23:17:13.15 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 23:16:46.17 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 23:16:46.17 230 User logged in.  
+2019-06-18 23:16:46.17 bin  
+2019-06-18 23:16:46.17 200 Type set to I.  
+2019-06-18 23:16:46.17 get \20191113012811\9248xdat.exe  
+2019-06-18 23:16:46.17 200 PORT command successful.  
+2019-06-18 23:16:46.17 125 Data connection already open; Transfer starting.  
+2019-06-18 23:16:46.17 226 Transfer complete.  
+2019-06-18 23:16:46.17 ftp: 收到 116280216 字节，用时 11.91Seconds 9765.70Kbytes/sec.  
+2019-06-18 23:16:46.17 bye  
+2019-06-18 23:16:46.17 221 Goodbye.  
+2019-06-18 23:17:25.68 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 23:16:46.17 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 23:16:46.17 230 User logged in.  
+2019-06-18 23:16:46.17 bin  
+2019-06-18 23:16:46.17 200 Type set to I.  
+2019-06-18 23:16:46.17 get \20191113012811\9256xdat.exe  
+2019-06-18 23:16:46.17 200 PORT command successful.  
+2019-06-18 23:16:46.17 125 Data connection already open; Transfer starting.  
+2019-06-18 23:16:46.17 226 Transfer complete.  
+2019-06-18 23:16:46.17 ftp: 收到 116551832 字节，用时 11.97Seconds 9737.81Kbytes/sec.  
+2019-06-18 23:16:46.17 bye  
+2019-06-18 23:16:46.17 221 Goodbye.  
+2019-06-18 23:17:38.18 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 23:17:38.20 本次更新文件总量为：441M 
+2019-06-18 23:17:38.21 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 23:17:38.21 文件名:9256xdat Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 23:16:46.17  更新文件 9256xdat 完整。 
+2019-06-18 23:17:38.21 文件名:9256xdat Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 23:16:46.17  更新文件 9256xdat 完整。 
+2019-06-18 23:17:38.21 文件名:9256xdat Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 23:16:46.17  更新文件 9256xdat 完整。 
+2019-06-18 23:17:38.21 文件名:9256xdat Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 23:16:46.17  更新文件 9256xdat 完整。 
+2019-06-18 23:16:46.17 更新文件校验完毕，准备进行安装更新 
+2019-06-18 23:17:43.21 进入更新文件安装流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 23:21:08.31 使用FTP方式 下载 update.list 至 C:\mcafee\tmp\ 
+2019-06-18 23:21:08.31 230 User logged in.  
+2019-06-18 23:21:08.31 bin  
+2019-06-18 23:21:08.31 200 Type set to I.  
+2019-06-18 23:21:08.31 get update.list  
+2019-06-18 23:21:08.31 200 PORT command successful.  
+2019-06-18 23:21:08.31 125 Data connection already open; Transfer starting.  
+2019-06-18 23:21:08.31 226 Transfer complete.  
+2019-06-18 23:21:08.31 ftp: 收到 324 字节，用时 0.16Seconds 2.08Kbytes/sec.  
+2019-06-18 23:21:08.31 bye  
+2019-06-18 23:21:08.31 221 Goodbye.  
+2019-06-18 23:21:10.17 FTP方式下载 update.list 完成 
+2019-06-18 23:21:08.31 当前更新源 Hash： f8e84b811064f8e767990c6931b81f2be39ec5f0 上一次更新源 Hash:  ed408541aad81e665755636eeff0315480eaa074 
+2019-06-18 23:21:10.53 本机错峰时间: 75 秒 
+2019-06-18 23:21:08.31 使用FTP方式 下载 \20191113012811\9241xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 23:21:08.31 230 User logged in.  
+2019-06-18 23:21:08.31 bin  
+2019-06-18 23:21:08.31 200 Type set to I.  
+2019-06-18 23:21:08.31 get \20191113012811\9241xdat.exe  
+2019-06-18 23:21:08.31 200 PORT command successful.  
+2019-06-18 23:21:08.31 125 Data connection already open; Transfer starting.  
+2019-06-18 23:21:08.31 226 Transfer complete.  
+2019-06-18 23:21:08.31 ftp: 收到 114158088 字节，用时 11.73Seconds 9728.00Kbytes/sec.  
+2019-06-18 23:21:08.31 bye  
+2019-06-18 23:21:08.31 221 Goodbye.  
+2019-06-18 23:21:22.78 FTP方式下载 \20191113012811\9241xdat.exe 完成 
+2019-06-18 23:21:08.31 使用FTP方式 下载 \20191113012811\9246xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 23:21:08.31 230 User logged in.  
+2019-06-18 23:21:08.31 bin  
+2019-06-18 23:21:08.31 200 Type set to I.  
+2019-06-18 23:21:08.31 get \20191113012811\9246xdat.exe  
+2019-06-18 23:21:08.31 200 PORT command successful.  
+2019-06-18 23:21:08.31 125 Data connection already open; Transfer starting.  
+2019-06-18 23:21:08.31 226 Transfer complete.  
+2019-06-18 23:21:08.31 ftp: 收到 115549152 字节，用时 12.02Seconds 9616.27Kbytes/sec.  
+2019-06-18 23:21:08.31 bye  
+2019-06-18 23:21:08.31 221 Goodbye.  
+2019-06-18 23:21:35.34 FTP方式下载 \20191113012811\9246xdat.exe 完成 
+2019-06-18 23:21:08.31 使用FTP方式 下载 \20191113012811\9248xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 23:21:08.31 230 User logged in.  
+2019-06-18 23:21:08.31 bin  
+2019-06-18 23:21:08.31 200 Type set to I.  
+2019-06-18 23:21:08.31 get \20191113012811\9248xdat.exe  
+2019-06-18 23:21:08.31 200 PORT command successful.  
+2019-06-18 23:21:08.31 125 Data connection already open; Transfer starting.  
+2019-06-18 23:21:08.31 226 Transfer complete.  
+2019-06-18 23:21:08.31 ftp: 收到 116280216 字节，用时 11.95Seconds 9728.12Kbytes/sec.  
+2019-06-18 23:21:08.31 bye  
+2019-06-18 23:21:08.31 221 Goodbye.  
+2019-06-18 23:21:47.87 FTP方式下载 \20191113012811\9248xdat.exe 完成 
+2019-06-18 23:21:08.31 使用FTP方式 下载 \20191113012811\9256xdat.exe 至 C:\mcafee\history\2019-06-18\ 
+2019-06-18 23:21:08.31 230 User logged in.  
+2019-06-18 23:21:08.31 bin  
+2019-06-18 23:21:08.31 200 Type set to I.  
+2019-06-18 23:21:08.31 get \20191113012811\9256xdat.exe  
+2019-06-18 23:21:08.31 200 PORT command successful.  
+2019-06-18 23:21:08.31 125 Data connection already open; Transfer starting.  
+2019-06-18 23:21:08.31 226 Transfer complete.  
+2019-06-18 23:21:08.31 ftp: 收到 116551832 字节，用时 11.98Seconds 9724.81Kbytes/sec.  
+2019-06-18 23:21:08.31 bye  
+2019-06-18 23:21:08.31 221 Goodbye.  
+2019-06-18 23:22:00.40 FTP方式下载 \20191113012811\9256xdat.exe 完成 
+2019-06-18 23:22:00.42 本次更新文件总量为：441M 
+2019-06-18 23:22:00.43 进入更新文件校验流程,当前工作目录: C:\mcafee\history\2019-06-18 
+2019-06-18 23:22:00.43 文件名:9241xdat Hash: 782d39bac87adc5238fbd6e3a2624df67c58c258 Size: 114158088 
+2019-06-18 23:21:08.31  更新文件 9256xdat 完整。 
+2019-06-18 23:22:00.43 文件名:9246xdat Hash: 33c8e95aa436f82b753657c6a741fb56872e1044 Size: 115549152 
+2019-06-18 23:21:08.31  更新文件 9256xdat 完整。 
+2019-06-18 23:22:00.43 文件名:9248xdat Hash: 5e25512583ede2e293340d8bfba3f40f97d85ab5 Size: 116280216 
+2019-06-18 23:21:08.31  更新文件 9256xdat 完整。 
+2019-06-18 23:22:00.43 文件名:9256xdat Hash: 55df11afbdb24d89159cf231f181bd1de165e695 Size: 116551832 
+2019-06-18 23:21:08.31  更新文件 9256xdat 完整。 
+2019-06-18 23:21:08.31 更新文件校验完毕，准备进行安装更新 
+2019-06-18 23:22:05.59 进入更新文件安装流程,当前工作目录: C:\mcafee\history\2019-06-18 

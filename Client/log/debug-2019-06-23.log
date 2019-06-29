@@ -1,0 +1,51 @@
+1212.txt-------------
+2019-06-23 22:32:53.32 使用FTP方式 上传 C:\weihu\McafeeUpdate\drive\transfer\FTP.ba1 至 Log\1212.txt
+2019-06-23 22:32:54.07 FTP方式上传 C:\weihu\McafeeUpdate\drive\transfer\FTP.ba1 失败,可能网络链接存在问题，请联系开发者进行处理 
+1212.txt-------------
+2019-06-23 22:33:21.09 使用FTP方式 上传 C:\weihu\McafeeUpdate\drive\transfer\FTP.ba1 至 Log\1212.txt
+2019-06-23 22:33:21.84 FTP方式上传 C:\weihu\McafeeUpdate\drive\transfer\FTP.ba1 失败,可能网络链接存在问题，请联系开发者进行处理 
+1212.txt-------------
+2019-06-23 22:35:38.71 使用FTP方式 上传 C:\weihu\McafeeUpdate\drive\transfer\FTP.ba1 至 Log\1212.txt
+2019-06-23 22:35:39.48 FTP方式上传 C:\weihu\McafeeUpdate\drive\transfer\FTP.ba1 失败,可能网络链接存在问题，请联系开发者进行处理 
+1212.txt-------------
+2019-06-23 22:35:59.71 使用FTP方式 上传 C:\weihu\McafeeUpdate\drive\transfer\FTP.ba1 至 Log\1212.txt
+2019-06-23 22:36:00.46 FTP方式上传 C:\weihu\McafeeUpdate\drive\transfer\FTP.ba1 失败,可能网络链接存在问题，请联系开发者进行处理 
+1212.txt-------------
+2019-06-23 22:36:15.95 使用FTP方式 上传 C:\weihu\McafeeUpdate\drive\transfer\FTP.ba1 至 Log\1212.txt
+2019-06-23 22:36:15.95 230 User logged in.  
+2019-06-23 22:36:15.95 200 Type set to I.  
+2019-06-23 22:36:15.95 mkdir Log   
+2019-06-23 22:36:15.95 550 Cannot create a file when that file already exists.   
+2019-06-23 22:36:15.95 put C:\weihu\McafeeUpdate\drive\transfer\FTP.ba1 Log\1212.txt  
+2019-06-23 22:36:15.95 221 Goodbye.  
+2019-06-23 22:36:16.67 FTP方式上传 C:\weihu\McafeeUpdate\drive\transfer\FTP.ba1 失败,可能网络链接存在问题，请联系开发者进行处理 
+12125.txt-------------
+2019-06-23 22:36:38.40 使用FTP方式 上传 C:\weihu\McafeeUpdate\drive\transfer\FTP.ba1 至 Log\12125.txt
+2019-06-23 22:36:38.40 230 User logged in.  
+2019-06-23 22:36:38.40 200 Type set to I.  
+2019-06-23 22:36:38.40 mkdir Log   
+2019-06-23 22:36:38.40 550 Cannot create a file when that file already exists.   
+2019-06-23 22:36:38.40 put C:\weihu\McafeeUpdate\drive\transfer\FTP.ba1 Log\12125.txt  
+2019-06-23 22:36:38.40 221 Goodbye.  
+2019-06-23 22:36:39.14 FTP方式上传 C:\weihu\McafeeUpdate\drive\transfer\FTP.ba1 失败,可能网络链接存在问题，请联系开发者进行处理 
+2019-06-23 22:37:57.03 使用FTP方式 上传 C:\weihu\McafeeUpdate\drive\transfer\FTP.ba1 至 \FTP.ba1
+2019-06-23 22:37:57.03 230 User logged in.  
+2019-06-23 22:37:57.03 200 Type set to I.  
+2019-06-23 22:37:57.03 mkdir \  
+2019-06-23 22:37:57.03 550 Access is denied.   
+2019-06-23 22:37:57.03 put C:\weihu\McafeeUpdate\drive\transfer\FTP.ba1 \FTP.ba1  
+2019-06-23 22:37:57.03 221 Goodbye.  
+2019-06-23 22:37:57.71 FTP方式上传 C:\weihu\McafeeUpdate\drive\transfer\FTP.ba1 失败,原因：因服务端设置,无权限完成请求的操作  
+-------------
+2019-06-23 22:44:06.35 使用FTP方式 上传 C:\weihu\McafeeUpdate\drive\transfer\FTP.bat 至 Log\FTP.bat
+2019-06-23 22:44:06.35 230 User logged in.   
+2019-06-23 22:44:06.35 200 Type set to I.   
+2019-06-23 22:44:06.35 mkdir Log   
+2019-06-23 22:44:06.35 550 Cannot create a file when that file already exists.    
+2019-06-23 22:44:06.35 put C:\weihu\McafeeUpdate\drive\transfer\FTP.bat Log\FTP.bat   
+2019-06-23 22:44:06.35 200 PORT command successful.   
+2019-06-23 22:44:06.35 125 Data connection already open; Transfer starting.   
+2019-06-23 22:44:06.35 226 Transfer complete.   
+2019-06-23 22:44:06.35 ftp: 发送 4516 字节，用时 0.00Seconds 4516000.00Kbytes/sec.   
+2019-06-23 22:44:06.35 221 Goodbye.   
+2019-06-23 22:44:07.12 FTP方式上传 C:\weihu\McafeeUpdate\drive\transfer\FTP.bat 完成 
