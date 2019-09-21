@@ -43,7 +43,7 @@ for /f "tokens=1-3 skip=1 eol=F delims=	" %%i in (%tempINFO%) do (
 del /f /q %tempINFO%
 
 if %installFlag% EQU 0 (
-	echo %date:~0,4%-%date:~5,2%-%date:~8,2% %time% 文件:%inputFile% 签名正常。 >> %Log%
+	echo %date:~0,4%-%date:~5,2%-%date:~8,2% %time% 文件:%inputFile% 数字签名正常。 >> %Log%
 	exit /b %installFlag%
 ) else (
 	echo %date:~0,4%-%date:~5,2%-%date:~8,2% %time% 文件：%inputFile% 数字签名损坏或未签名。 >> %Log%

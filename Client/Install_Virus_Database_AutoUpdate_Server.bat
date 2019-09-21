@@ -1,4 +1,4 @@
-TITLE  迈克菲病毒库自动升级服务
+TITLE  安全更新自动部署服务
 @ECHO OFF & PUSHD %~DP0 & TITLE
 >NUL 2>&1 REG.exe query "HKU\S-1-5-19" || (
     ECHO SET UAC = CreateObject^("Shell.Application"^) > "%TEMP%\Getadmin.vbs"
@@ -10,11 +10,11 @@ TITLE  迈克菲病毒库自动升级服务
 :Begin
 cls
 @ echo. ***************************************************************
-@ echo. 欢迎使用迈克菲病毒库自动升级服务                              
+@ echo. 管理安全更新自动部署服务                            
 @ echo. ****************************************************************
 @ echo. 请选择要进行操作的序号：
 @ echo.                                                   
-@ echo. 1:安装病毒库自动更新服务                                                          
+@ echo. 1:安装安全更新自动部署服务                                                          
 @ echo. 2:查看服务列表                                                   
 @ echo. 3:立即运行服务                                                   
 @ echo. 4:卸载病毒库更新服务 
@@ -34,7 +34,7 @@ goto :Begin
 
 :Create
 @echo off
-schtasks /create /tn "McAfee Virus Database Auto Update Server" /ru system /tr "%~dp0start.vbs" /sc daily /st 01:00
+schtasks /create /tn "Virus Database Auto Update Server" /ru system /tr "%~dp0start.vbs" /sc daily /st 01:00
 start %systemroot%\tasks
 echo 服务创建成功
 pause
@@ -46,7 +46,7 @@ goto Begin
 
 :Run
 @echo off
-schtasks /run /tn "McAfee Virus Database Auto Update Server"
+schtasks /run /tn "Virus Database Auto Update Server"
 echo 命令执行成功
 pause
 goto Begin

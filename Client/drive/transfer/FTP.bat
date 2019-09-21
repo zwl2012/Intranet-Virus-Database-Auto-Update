@@ -1,4 +1,4 @@
-@echo off
+::@echo off
 TITLE %~n0 流程开始
 echo %~n0 当前工作目录：%~dp0
 setlocal enabledelayedexpansion
@@ -60,24 +60,6 @@ if '%3' NEQ '' (
 			REM 判断是否需要创建目录
 			echo !savePath! | findstr \ > nul && SET uploadDirectory=!savePath:\%~nx3=! || ECHO not required
 		)
-		
-		REM ECHO !firstchar!
-		REM ECHO !lastchar!
-		
-
-		REM ECHO !savePath!
-		REM ECHO !uploadDirectory!
-		
-		REM PAUSE
-		REM GOTO :eof
-		REM REM 判断是否指定保存文件名
-		REM ECHO %uploadDirectory:~-1% 999999999 >> %Log%
-		REM IF !uploadDirectory:~-1! EQU '\' (
-		REM 	set savePath=!uploadDirectory!%sortFileName%
-		REM ) ELSE (
-		REM 	set savePath=!uploadDirectory!\%sortFileName%
-		REM )
-		REM ECHO !savePath! 88888888 >> %Log%
 	)
 ) ELSE (
 		SET uploadDirectory=\
@@ -90,7 +72,7 @@ if /i %methodType% EQU upload goto :upload
 
 :download
 rem 开始进行操作
-echo %currentTime% 使用FTP方式下载%sortFileName%至 %savePath%>>  %Log%
+echo %currentTime% 使用FTP方式下载 %sortFileName% 至 %savePath% >>  %Log%
 set TypeName=下载
 cd /d %savePath%
 set FTPcommand=%TEMP%\ftp.src
@@ -125,35 +107,35 @@ set ftpLog=%TEMP%\ftp.log
 
 echo.|ftp -v -n -i -s:"%FTPcommand%" %Address% > %ftpLog%
 
-::输出FTP日志到系统日志
-FOR /f "skip=4 delims= eol=b" %%i in (%ftpLog%) DO (
-	SET logContent=%%i
-	SET logContent=!logContent: =!
-	IF '!logContent!' NEQ '' ( ECHO %currentTime% %%i  >> %Log% )
-)
-
 rem 解析FTP日志获取错误信息
+set errorInfo=未知错误,请联系开发者进行处理
 more %ftpLog% | findstr /ic:"未连接" && set errorInfo=连接FTP服务器失败 || echo zap
 more %ftpLog% | findstr /ic:"Not connected" && set errorInfo=链接FTP服务器失败 || echo zap
 more %ftpLog% | findstr /ic:"cannot log in" && set errorInfo=身份认证失败 || echo warning
+more %ftpLog% | findstr /ic:"File not found" && set errorInfo=服务端文件不可用 || echo zombie
+more %ftpLog% | findstr /ic:"cannot find" && set errorInfo=服务端文件不可用 || echo zombie
 more %ftpLog% | findstr /ic:"找不到文件" && set errorInfo=本地文件不可用 || echo liar
-more %ftpLog% | findstr /ic:"File not found" && set errorInfo=请求文件不可用 || echo zombie
 more %ftpLog% | findstr /ic:"Access is denied" && set errorInfo=因服务端设置,无权限完成请求的操作 || echo warning
 more %ftpLog% | findstr /ic:"Transfer complete." && set successInfo=1 || echo liar
 
-REM del %ftpLog%
+
 del %FTPcommand%
 
 if defined successInfo (
 	echo %date:~0,4%-%date:~5,2%-%date:~8,2% %time% FTP方式%TypeName% %FileName% 完成 >>  %Log%
 	exit /b 0
-)
-if defined errorInfo (
-	echo %date:~0,4%-%date:~5,2%-%date:~8,2% %time% FTP方式%TypeName% %FileName% 失败,原因：%errorInfo% >>  %Log%
-	exit /b 1
 ) else (
-	echo %date:~0,4%-%date:~5,2%-%date:~8,2% %time% FTP方式%TypeName% %FileName% 失败,可能网络链接存在问题，请联系开发者进行处理 >>  %Log%
-	exit /b 2
+	echo %date:~0,4%-%date:~5,2%-%date:~8,2% %time% FTP方式%TypeName% %FileName% 失败,原因：%errorInfo% >>  %Log%
+	::输出FTP错误到系统日志
+	FOR /f "skip=4 eol=b delims=" %%i in (%ftpLog%) DO (
+		SET logContent=%%~i
+		SET logContent=!logContent:  =!
+		::批处理的字符串处理真是糟糕
+		rem echo !logContent! | findstr /ic:"specified" && SET logContent=550 The system cannot find the file specified
+		IF !logContent! NEQ '' echo !logContent! | findstr /ic:"bye" && set notprint=1 || echo %date:~0,4%-%date:~5,2%-%date:~8,2% %time% !logContent! >> %Log%
+	)
+	del %ftpLog%
+	exit /b 1
 )
 
 

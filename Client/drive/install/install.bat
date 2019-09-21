@@ -1,6 +1,6 @@
 ::更新安装模块
 ::日期:2019年5月15日
-::@ECHO OFF
+@ECHO OFF
 TITLE 启动更新安装流程
 
 if not defined Log (

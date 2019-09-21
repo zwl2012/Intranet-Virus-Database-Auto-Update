@@ -1,5 +1,5 @@
 @echo off
-TITLE %~n0 计算流程开始
+TITLE %~n0 文件校验流程开始
 if not defined Log (
     echo 未定义Log参数
 	set currentPath=%~dp0
@@ -27,10 +27,11 @@ if '%~1' == ' ' set err=1
 if not exist %source%  set err=2
 if defined err (
 	if !err! equ 2 (
-		echo %currentTime% %~n0 待计算文件路径不存在,退出Hash流程 >> %Log%
+		echo %currentTime% %~xn0 输入路径不存在,退出Hash计算流程 >> %Log%
 	) else (
-		echo %currentTime% %~n0 输入参数不合法,退出计算Hash流程 >> %Log%
+		echo %currentTime% %~xn0 输入参数不合法,退出Hash计算流程 >> %Log%
 	)
+	echo %hashVal%
     exit /b -1
 )
 
